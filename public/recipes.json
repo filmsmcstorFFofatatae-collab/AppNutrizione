@@ -1,0 +1,50 @@
+[
+  {
+    "id": "farro-salmone-zucchine",
+    "title": "Farro, salmone e zucchine",
+    "category": "Pranzo",
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 30,
+    "storage_notes": "Fino a 3 giorni in frigorifero, in contenitore ermetico. Aggiungi il limone prima di servire.",
+    "preparation_steps": ["Cuoci il farro in acqua leggermente salata e scolalo al dente.", "Rosola le zucchine a rondelle con poco olio finché diventano dorate.", "Cuoci il salmone in padella 3–4 minuti per lato e sfilaccialo.", "Unisci tutto con prezzemolo, scorza di limone e un filo d'olio."],
+    "ingredients_single_serving": [
+      {"name":"Farro perlato","amount":100,"unit":"g"}, {"name":"Filetto di salmone","amount":150,"unit":"g"}, {"name":"Zucchine","amount":200,"unit":"g"}, {"name":"Olio extravergine","amount":10,"unit":"g"}, {"name":"Limone","amount":20,"unit":"g"}
+    ],
+    "nutrition_single_serving": {
+      "calories": 705, "macros": {"protein_g":40,"carbs_g":76,"fat_g":27,"fiber_g":12},
+      "micros": {"calcium_mg":102,"magnesium_mg":128,"potassium_mg":1350,"sodium_mg":145,"phosphorus_mg":535,"iron_mg":5.1,"zinc_mg":2.8,"copper_mg":0.46,"manganese_mg":1.9,"selenium_ug":66,"iodine_ug":42,"vit_c_mg":48,"vit_b1_mg":0.52,"vit_b2_mg":0.34,"vit_b3_mg":16.2,"vit_b5_mg":2.4,"vit_b6_mg":1.2,"vit_b9_ug":78,"vit_b12_ug":5.0,"vit_a_ug":118,"vit_d_ui":620,"vit_e_mg":4.5,"vit_k_ug":22}
+    }
+  },
+  {
+    "id": "pollo-riso-broccoli",
+    "title": "Pollo al forno, basmati e broccoli",
+    "category": "Cena",
+    "image_url": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 40,
+    "storage_notes": "Si conserva per 3 giorni in frigorifero. Riscalda con un cucchiaio d'acqua per mantenere morbido il riso.",
+    "preparation_steps": ["Condisci il pollo con paprika, limone e spezie, quindi cuocilo a 190°C per 22–25 minuti.", "Cuoci il riso basmati e lascialo riposare coperto per 5 minuti.", "Cuoci i broccoli al vapore finché sono teneri ma ancora croccanti.", "Componi le porzioni con olio a crudo e semi di sesamo."],
+    "ingredients_single_serving": [
+      {"name":"Petto di pollo","amount":180,"unit":"g"}, {"name":"Riso basmati","amount":110,"unit":"g"}, {"name":"Broccoli","amount":250,"unit":"g"}, {"name":"Olio extravergine","amount":12,"unit":"g"}, {"name":"Semi di sesamo","amount":8,"unit":"g"}
+    ],
+    "nutrition_single_serving": {
+      "calories": 760, "macros": {"protein_g":52,"carbs_g":91,"fat_g":19,"fiber_g":9},
+      "micros": {"calcium_mg":160,"magnesium_mg":122,"potassium_mg":1360,"sodium_mg":230,"phosphorus_mg":620,"iron_mg":3.9,"zinc_mg":3.4,"copper_mg":0.38,"manganese_mg":1.8,"selenium_ug":53,"iodine_ug":14,"vit_c_mg":220,"vit_b1_mg":0.5,"vit_b2_mg":0.36,"vit_b3_mg":26,"vit_b5_mg":2.5,"vit_b6_mg":1.7,"vit_b9_ug":180,"vit_b12_ug":0.6,"vit_a_ug":95,"vit_d_ui":18,"vit_e_mg":3.0,"vit_k_ug":270}
+    }
+  },
+  {
+    "id": "pasta-integrale-ceci",
+    "title": "Pasta integrale con ceci",
+    "category": "Pranzo",
+    "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 25,
+    "storage_notes": "Conserva fino a 2 giorni in frigorifero. È ottima anche tiepida con un po' di acqua di cottura.",
+    "preparation_steps": ["Soffriggi dolcemente aglio e rosmarino nell'olio.", "Aggiungi i ceci scolati, metà schiacciati con una forchetta, e poca acqua calda.", "Cuoci la pasta integrale e trasferiscila nella crema di ceci.", "Completa con spinaci freschi, pomodorini e pepe nero."],
+    "ingredients_single_serving": [
+      {"name":"Pasta integrale","amount":120,"unit":"g"}, {"name":"Ceci cotti","amount":180,"unit":"g"}, {"name":"Spinaci","amount":100,"unit":"g"}, {"name":"Pomodorini","amount":120,"unit":"g"}, {"name":"Olio extravergine","amount":10,"unit":"g"}
+    ],
+    "nutrition_single_serving": {
+      "calories": 775, "macros": {"protein_g":31,"carbs_g":123,"fat_g":17,"fiber_g":24},
+      "micros": {"calcium_mg":245,"magnesium_mg":220,"potassium_mg":1500,"sodium_mg":180,"phosphorus_mg":540,"iron_mg":10.4,"zinc_mg":4.3,"copper_mg":1.0,"manganese_mg":4.2,"selenium_ug":58,"iodine_ug":8,"vit_c_mg":76,"vit_b1_mg":0.75,"vit_b2_mg":0.35,"vit_b3_mg":8.0,"vit_b5_mg":1.7,"vit_b6_mg":0.75,"vit_b9_ug":405,"vit_b12_ug":0,"vit_a_ug":470,"vit_d_ui":0,"vit_e_mg":3.2,"vit_k_ug":490}
+    }
+  }
+]
