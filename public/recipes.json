@@ -1,50 +1,136 @@
 [
   {
-    "id": "farro-salmone-zucchine",
-    "title": "Farro, salmone e zucchine",
-    "category": "Pranzo",
-    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1000&q=85",
-    "prep_time_min": 30,
-    "storage_notes": "Fino a 3 giorni in frigorifero, in contenitore ermetico. Aggiungi il limone prima di servire.",
-    "preparation_steps": ["Cuoci il farro in acqua leggermente salata e scolalo al dente.", "Rosola le zucchine a rondelle con poco olio finché diventano dorate.", "Cuoci il salmone in padella 3–4 minuti per lato e sfilaccialo.", "Unisci tutto con prezzemolo, scorza di limone e un filo d'olio."],
-    "ingredients_single_serving": [
-      {"name":"Farro perlato","amount":100,"unit":"g"}, {"name":"Filetto di salmone","amount":150,"unit":"g"}, {"name":"Zucchine","amount":200,"unit":"g"}, {"name":"Olio extravergine","amount":10,"unit":"g"}, {"name":"Limone","amount":20,"unit":"g"}
-    ],
-    "nutrition_single_serving": {
-      "calories": 705, "macros": {"protein_g":40,"carbs_g":76,"fat_g":27,"fiber_g":12},
-      "micros": {"calcium_mg":102,"magnesium_mg":128,"potassium_mg":1350,"sodium_mg":145,"phosphorus_mg":535,"iron_mg":5.1,"zinc_mg":2.8,"copper_mg":0.46,"manganese_mg":1.9,"selenium_ug":66,"iodine_ug":42,"vit_c_mg":48,"vit_b1_mg":0.52,"vit_b2_mg":0.34,"vit_b3_mg":16.2,"vit_b5_mg":2.4,"vit_b6_mg":1.2,"vit_b9_ug":78,"vit_b12_ug":5.0,"vit_a_ug":118,"vit_d_ui":620,"vit_e_mg":4.5,"vit_k_ug":22}
-    }
-  },
-  {
-    "id": "pollo-riso-broccoli",
-    "title": "Pollo al forno, basmati e broccoli",
+    "id": "chicken-crust-pizza",
+    "title": "Chicken Crust Pizza (Base di Pollo)",
     "category": "Cena",
-    "image_url": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=1000&q=85",
+    "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1000&q=85",
     "prep_time_min": 40,
-    "storage_notes": "Si conserva per 3 giorni in frigorifero. Riscalda con un cucchiaio d'acqua per mantenere morbido il riso.",
-    "preparation_steps": ["Condisci il pollo con paprika, limone e spezie, quindi cuocilo a 190°C per 22–25 minuti.", "Cuoci il riso basmati e lascialo riposare coperto per 5 minuti.", "Cuoci i broccoli al vapore finché sono teneri ma ancora croccanti.", "Componi le porzioni con olio a crudo e semi di sesamo."],
+    "storage_notes": "Si conserva 3 giorni in frigo. Scaldare in forno o air fryer per 4 minuti per mantenerla croccante.",
+    "preparation_steps": [
+      "Preriscalda il forno a 200°C e rivesti una teglia con carta forno.",
+      "Impasta il macinato di pollo con uova, parmigiano, aglio in polvere, origano, sale e pepe.",
+      "Stendi il composto su carta forno a spessore regolare (circa 5-6 mm) e inforna per 20-25 minuti.",
+      "Aggiungi salsa di pomodoro, mozzarella e fette di salame piccante.",
+      "Inforna a 220°C per altri 8-10 minuti finché il formaggio non si scioglie completamente."
+    ],
     "ingredients_single_serving": [
-      {"name":"Petto di pollo","amount":180,"unit":"g"}, {"name":"Riso basmati","amount":110,"unit":"g"}, {"name":"Broccoli","amount":250,"unit":"g"}, {"name":"Olio extravergine","amount":12,"unit":"g"}, {"name":"Semi di sesamo","amount":8,"unit":"g"}
+      { "name": "Macinato di pollo", "amount": 150, "unit": "g" },
+      { "name": "Uova", "amount": 0.67, "unit": "pz" },
+      { "name": "Parmigiano Reggiano", "amount": 17, "unit": "g" },
+      { "name": "Passata di pomodoro", "amount": 35, "unit": "g" },
+      { "name": "Mozzarella", "amount": 35, "unit": "g" },
+      { "name": "Salame / Pepperoni", "amount": 15, "unit": "g" }
     ],
     "nutrition_single_serving": {
-      "calories": 760, "macros": {"protein_g":52,"carbs_g":91,"fat_g":19,"fiber_g":9},
-      "micros": {"calcium_mg":160,"magnesium_mg":122,"potassium_mg":1360,"sodium_mg":230,"phosphorus_mg":620,"iron_mg":3.9,"zinc_mg":3.4,"copper_mg":0.38,"manganese_mg":1.8,"selenium_ug":53,"iodine_ug":14,"vit_c_mg":220,"vit_b1_mg":0.5,"vit_b2_mg":0.36,"vit_b3_mg":26,"vit_b5_mg":2.5,"vit_b6_mg":1.7,"vit_b9_ug":180,"vit_b12_ug":0.6,"vit_a_ug":95,"vit_d_ui":18,"vit_e_mg":3.0,"vit_k_ug":270}
+      "calories": 510,
+      "macros": { "protein_g": 58.5, "carbs_g": 4.5, "fat_g": 28.0, "fiber_g": 0.8 },
+      "micros": {
+        "calcium_mg": 380, "magnesium_mg": 52, "potassium_mg": 620, "sodium_mg": 890, "phosphorus_mg": 460,
+        "iron_mg": 2.4, "zinc_mg": 3.8, "copper_mg": 0.15, "manganese_mg": 0.1, "selenium_ug": 42, "iodine_ug": 35,
+        "vit_c_mg": 6, "vit_b1_mg": 0.18, "vit_b2_mg": 0.45, "vit_b3_mg": 12.5, "vit_b5_mg": 1.6, "vit_b6_mg": 0.85,
+        "vit_b9_ug": 32, "vit_b12_ug": 1.4, "vit_a_ug": 180, "vit_d_ui": 45, "vit_e_mg": 0.9, "vit_k_ug": 8
+      }
     }
   },
   {
-    "id": "pasta-integrale-ceci",
-    "title": "Pasta integrale con ceci",
-    "category": "Pranzo",
-    "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1000&q=85",
-    "prep_time_min": 25,
-    "storage_notes": "Conserva fino a 2 giorni in frigorifero. È ottima anche tiepida con un po' di acqua di cottura.",
-    "preparation_steps": ["Soffriggi dolcemente aglio e rosmarino nell'olio.", "Aggiungi i ceci scolati, metà schiacciati con una forchetta, e poca acqua calda.", "Cuoci la pasta integrale e trasferiscila nella crema di ceci.", "Completa con spinaci freschi, pomodorini e pepe nero."],
+    "id": "mcd-big-mac",
+    "title": "McDonald's Big Mac",
+    "category": "Cheat Meal",
+    "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 5,
+    "storage_notes": "Da mangiare caldo in macchina mentre rifletti sui tuoi macro settimanali.",
+    "preparation_steps": [
+      "Guida fino al McDrive più vicino.",
+      "Ordina scandendo bene 'Big Mac solo panino'.",
+      "Paga e scarta la scatola fumante."
+    ],
     "ingredients_single_serving": [
-      {"name":"Pasta integrale","amount":120,"unit":"g"}, {"name":"Ceci cotti","amount":180,"unit":"g"}, {"name":"Spinaci","amount":100,"unit":"g"}, {"name":"Pomodorini","amount":120,"unit":"g"}, {"name":"Olio extravergine","amount":10,"unit":"g"}
+      { "name": "Big Mac panino intero", "amount": 215, "unit": "g" }
     ],
     "nutrition_single_serving": {
-      "calories": 775, "macros": {"protein_g":31,"carbs_g":123,"fat_g":17,"fiber_g":24},
-      "micros": {"calcium_mg":245,"magnesium_mg":220,"potassium_mg":1500,"sodium_mg":180,"phosphorus_mg":540,"iron_mg":10.4,"zinc_mg":4.3,"copper_mg":1.0,"manganese_mg":4.2,"selenium_ug":58,"iodine_ug":8,"vit_c_mg":76,"vit_b1_mg":0.75,"vit_b2_mg":0.35,"vit_b3_mg":8.0,"vit_b5_mg":1.7,"vit_b6_mg":0.75,"vit_b9_ug":405,"vit_b12_ug":0,"vit_a_ug":470,"vit_d_ui":0,"vit_e_mg":3.2,"vit_k_ug":490}
+      "calories": 525,
+      "macros": { "protein_g": 26.0, "carbs_g": 42.0, "fat_g": 27.0, "fiber_g": 3.0 },
+      "micros": {
+        "calcium_mg": 260, "magnesium_mg": 38, "potassium_mg": 430, "sodium_mg": 1010, "phosphorus_mg": 310,
+        "iron_mg": 4.1, "zinc_mg": 4.6, "copper_mg": 0.22, "manganese_mg": 0.4, "selenium_ug": 33, "iodine_ug": 28,
+        "vit_c_mg": 2, "vit_b1_mg": 0.35, "vit_b2_mg": 0.32, "vit_b3_mg": 5.8, "vit_b5_mg": 0.9, "vit_b6_mg": 0.25,
+        "vit_b9_ug": 85, "vit_b12_ug": 2.1, "vit_a_ug": 90, "vit_d_ui": 8, "vit_e_mg": 1.8, "vit_k_ug": 16
+      }
+    }
+  },
+  {
+    "id": "mcd-mcflurry-oreo",
+    "title": "McFlurry Oreo",
+    "category": "Snack",
+    "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 2,
+    "storage_notes": "Sperando che la macchina del gelato non sia fuori servizio.",
+    "preparation_steps": [
+      "Incrocia le dita davanti alla cassa.",
+      "Gusta col cucchiaio di plastica quadrato iconico."
+    ],
+    "ingredients_single_serving": [
+      { "name": "McFlurry Oreo coppa", "amount": 170, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 340,
+      "macros": { "protein_g": 7.0, "carbs_g": 52.0, "fat_g": 11.0, "fiber_g": 1.0 },
+      "micros": {
+        "calcium_mg": 210, "magnesium_mg": 24, "potassium_mg": 320, "sodium_mg": 220, "phosphorus_mg": 175,
+        "iron_mg": 0.8, "zinc_mg": 0.9, "copper_mg": 0.05, "manganese_mg": 0.1, "selenium_ug": 9, "iodine_ug": 35,
+        "vit_c_mg": 1, "vit_b1_mg": 0.08, "vit_b2_mg": 0.38, "vit_b3_mg": 0.4, "vit_b5_mg": 0.7, "vit_b6_mg": 0.08,
+        "vit_b9_ug": 12, "vit_b12_ug": 0.8, "vit_a_ug": 110, "vit_d_ui": 12, "vit_e_mg": 0.3, "vit_k_ug": 2
+      }
+    }
+  },
+  {
+    "id": "mcd-nuggets-9pz",
+    "title": "Chicken McNuggets (9 pezzi)",
+    "category": "Cena",
+    "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 3,
+    "storage_notes": "Consumare subito per non perdere la doratura della frittura.",
+    "preparation_steps": [
+      "Apri la scatolina da 9 pezzi.",
+      "Intingi nella salsa agrodolce o barbecue senza farti troppe domande."
+    ],
+    "ingredients_single_serving": [
+      { "name": "McNuggets", "amount": 150, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 395,
+      "macros": { "protein_g": 24.0, "carbs_g": 26.0, "fat_g": 22.0, "fiber_g": 1.5 },
+      "micros": {
+        "calcium_mg": 28, "magnesium_mg": 32, "potassium_mg": 410, "sodium_mg": 840, "phosphorus_mg": 380,
+        "iron_mg": 1.2, "zinc_mg": 1.5, "copper_mg": 0.1, "manganese_mg": 0.15, "selenium_ug": 31, "iodine_ug": 10,
+        "vit_c_mg": 0, "vit_b1_mg": 0.22, "vit_b2_mg": 0.18, "vit_b3_mg": 8.4, "vit_b5_mg": 1.1, "vit_b6_mg": 0.65,
+        "vit_b9_ug": 38, "vit_b12_ug": 0.5, "vit_a_ug": 15, "vit_d_ui": 6, "vit_e_mg": 2.4, "vit_k_ug": 12
+      }
+    }
+  },
+  {
+    "id": "mcd-patatine-medie",
+    "title": "Patatine McDonald's (Medie)",
+    "category": "Snack",
+    "image_url": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 3,
+    "storage_notes": "Dopo 10 minuti diventano spugnose, mangiale calde.",
+    "preparation_steps": [
+      "Rovescia la bustina rossa sul vassoio.",
+      "Mangiane 4 per volta finché non finiscono."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Patatine fritte porzione media", "amount": 114, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 330,
+      "macros": { "protein_g": 4.0, "carbs_g": 43.0, "fat_g": 16.0, "fiber_g": 4.0 },
+      "micros": {
+        "calcium_mg": 18, "magnesium_mg": 35, "potassium_mg": 680, "sodium_mg": 310, "phosphorus_mg": 120,
+        "iron_mg": 0.9, "zinc_mg": 0.6, "copper_mg": 0.18, "manganese_mg": 0.25, "selenium_ug": 2, "iodine_ug": 4,
+        "vit_c_mg": 12, "vit_b1_mg": 0.15, "vit_b2_mg": 0.05, "vit_b3_mg": 3.1, "vit_b5_mg": 0.6, "vit_b6_mg": 0.45,
+        "vit_b9_ug": 30, "vit_b12_ug": 0, "vit_a_ug": 0, "vit_d_ui": 0, "vit_e_mg": 2.8, "vit_k_ug": 18
+      }
     }
   }
 ]
