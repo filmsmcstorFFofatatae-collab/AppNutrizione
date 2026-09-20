@@ -602,5 +602,69 @@
         "vit_b9_ug": 10, "vit_b12_ug": 0.4, "vit_a_ug": 15, "vit_d_ui": 0, "vit_e_mg": 1.8, "vit_k_ug": 2
       }
     }
+  },
+  {
+    "id": "gnocchi-salsiccia-gorgonzola-noci",
+    "title": "Gnocchi alla Salsiccia, Gorgonzola e Noci",
+    "category": "Pranzo",
+    "image_url": "https://www.casapappagallo.it/storage/19926/gnocchi-gorgonzola-e-salsiccia-%28sito%29.JPG",
+    "prep_time_min": 15,
+    "storage_notes": "Si conserva in frigo per 3 giorni. Aggiungi un goccio di latte prima di scaldare in microonde per far fondere di nuovo i formaggi.",
+    "preparation_steps": [
+      "Metti a bollire l'acqua per gli gnocchi.",
+      "In una padella a fuoco vivo, sbriciola la salsiccia (privata del budello) e rosolala finché non è ben cotta. Non serve olio, userà il suo grasso.",
+      "Abbassa la fiamma al minimo, aggiungi il gorgonzola a cubetti e un paio di cucchiai di acqua di cottura per creare una crema densa.",
+      "Cuoci gli gnocchi (1-2 minuti finché non salgono a galla), scolali e versali nella padella.",
+      "Manteca tutto insieme e guarnisci con le noci tritate grossolanamente per il tocco croccante e calorie extra."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Gnocchi di patate", "amount": 250, "unit": "g" },
+      { "name": "Salsiccia di suino (o pollo/tacchino se preferisci meno grassi)", "amount": 150, "unit": "g" },
+      { "name": "Gorgonzola (dolce o piccante)", "amount": 50, "unit": "g" },
+      { "name": "Noci sgusciate", "amount": 20, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 1080,
+      "macros": { "protein_g": 38.0, "carbs_g": 95.0, "fat_g": 62.0, "fiber_g": 6.5 },
+      "micros": {
+        "calcium_mg": 380, "magnesium_mg": 140, "potassium_mg": 850, "sodium_mg": 1450, "phosphorus_mg": 520,
+        "iron_mg": 4.5, "zinc_mg": 5.8, "copper_mg": 0.8, "manganese_mg": 2.5, "selenium_ug": 45, "iodine_ug": 20,
+        "vit_c_mg": 5, "vit_b1_mg": 0.8, "vit_b2_mg": 0.6, "vit_b3_mg": 15.0, "vit_b5_mg": 2.1, "vit_b6_mg": 0.9,
+        "vit_b9_ug": 45, "vit_b12_ug": 2.2, "vit_a_ug": 210, "vit_d_ui": 25, "vit_e_mg": 2.5, "vit_k_ug": 5
+      }
+    }
+  },
+  {
+    "id": "doppio-smashburger-bacon-uovo",
+    "title": "Doppio Smashburger con Bacon e Uovo Fritto",
+    "category": "Cena",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNdBzphPu4FDgg9AWsdkK3H1QuEp84eF4cmrlJcx8hmsyCwEs7Mxq3pg&s=10",
+    "prep_time_min": 15,
+    "storage_notes": "Assolutamente da consumare al momento. Non fare meal prep con questo.",
+    "preparation_steps": [
+      "Dividi il macinato in due palline senza pressarle troppo.",
+      "Scalda una piastra o padella in ghisa finché non è rovente. Appoggia le palline di carne e schiacciale piatte con una spatola (smash).",
+      "Condisci con sale e pepe. Cuoci 2 minuti, gira gli hamburger, metti due fette di cheddar su ciascuno e aspetta che si sciolga.",
+      "Nella stessa padella, friggi le fette di bacon finché non sono croccanti e cuoci l'uovo all'occhio di bue lasciando il tuorlo liquido.",
+      "Tosta il panino nel grasso del bacon, spalma la maionese e componi: base, primo burger, secondo burger, bacon, uovo fritto, chiusura."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Panino per hamburger (Brioche Bun grande)", "amount": 1, "unit": "pz (circa 90g)" },
+      { "name": "Macinato di manzo (20% grassi)", "amount": 250, "unit": "g" },
+      { "name": "Formaggio Cheddar", "amount": 4, "unit": "fette" },
+      { "name": "Bacon affumicato", "amount": 40, "unit": "g" },
+      { "name": "Uovo", "amount": 1, "unit": "pz" },
+      { "name": "Maionese", "amount": 20, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 1320,
+      "macros": { "protein_g": 82.0, "carbs_g": 55.0, "fat_g": 85.0, "fiber_g": 2.0 },
+      "micros": {
+        "calcium_mg": 650, "magnesium_mg": 85, "potassium_mg": 850, "sodium_mg": 1800, "phosphorus_mg": 720,
+        "iron_mg": 6.5, "zinc_mg": 11.2, "copper_mg": 0.3, "manganese_mg": 0.5, "selenium_ug": 65, "iodine_ug": 45,
+        "vit_c_mg": 0, "vit_b1_mg": 0.4, "vit_b2_mg": 0.9, "vit_b3_mg": 14.0, "vit_b5_mg": 2.2, "vit_b6_mg": 0.8,
+        "vit_b9_ug": 65, "vit_b12_ug": 5.2, "vit_a_ug": 320, "vit_d_ui": 65, "vit_e_mg": 2.5, "vit_k_ug": 15
+      }
+    }
   }
 ]
