@@ -31,5 +31,130 @@
         "vit_b9_ug": 32, "vit_b12_ug": 1.4, "vit_a_ug": 180, "vit_d_ui": 45, "vit_e_mg": 0.9, "vit_k_ug": 8
       }
     }
+  },
+  {
+    "id": "riso-cuociriso-pollo-gamberi",
+    "title": "Riso Parboiled in Cuociriso (Pollo o Gamberi)",
+    "category": "Pranzo",
+    "image_url": "https://images.unsplash.com/photo-1536304929831-ee1ca9d44906?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 5,
+    "storage_notes": "Si conserva fino a 4 giorni in frigo. Il riso parboiled non scuoce e non si incolla.",
+    "preparation_steps": [
+      "Sciacqua il riso parboiled e taglia zucchine e carote a cubetti piccolissimi (meno di 1 cm).",
+      "Inserisci nel cuociriso il riso, le verdure, l'acqua (circa 200ml) e un pizzico di sale.",
+      "SE USI IL POLLO: Taglialo a dadini piccoli, inseriscilo crudo nel cuociriso insieme al riso e avvia la cottura.",
+      "SE USI I GAMBERI: Avvia la cottura solo con riso e verdure. Quando il cuociriso scatta su 'Mantenimento in caldo', apri, aggiungi i gamberetti sgusciati, richiudi e lascia cuocere col vapore residuo per 10 minuti.",
+      "A fine cottura, condisci con l'olio EVO a crudo e mescola bene."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Riso Parboiled Integrale", "amount": 100, "unit": "g" },
+      { "name": "Petto di pollo (o Gamberetti sgusciati)", "amount": 180, "unit": "g" },
+      { "name": "Zucchine e Carote", "amount": 150, "unit": "g" },
+      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 610,
+      "macros": { "protein_g": 48.0, "carbs_g": 75.0, "fat_g": 13.0, "fiber_g": 6.0 },
+      "micros": {
+        "calcium_mg": 45, "magnesium_mg": 120, "potassium_mg": 750, "sodium_mg": 320, "phosphorus_mg": 380,
+        "iron_mg": 2.5, "zinc_mg": 2.1, "copper_mg": 0.3, "manganese_mg": 1.5, "selenium_ug": 30, "iodine_ug": 10,
+        "vit_c_mg": 15, "vit_b1_mg": 0.4, "vit_b2_mg": 0.2, "vit_b3_mg": 12.0, "vit_b5_mg": 1.5, "vit_b6_mg": 0.8,
+        "vit_b9_ug": 25, "vit_b12_ug": 0.3, "vit_a_ug": 400, "vit_d_ui": 0, "vit_e_mg": 2.0, "vit_k_ug": 15
+      }
+    }
+  },
+  {
+    "id": "farro-freddo-tacchino-ceci",
+    "title": "Farro Freddo con Tacchino Arrosto e Ceci",
+    "category": "Pranzo",
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 10,
+    "storage_notes": "Perfetto da mangiare freddo. Si conserva in frigo per 4 giorni, i sapori si amalgameranno meglio col tempo.",
+    "preparation_steps": [
+      "Cuoci il farro in abbondante acqua salata, scolalo e passalo sotto l'acqua fredda per bloccare la cottura.",
+      "Taglia la fesa di tacchino arrosto a cubetti spessi.",
+      "Sciacqua molto bene i ceci in scatola sotto l'acqua corrente per eliminare il sale in eccesso.",
+      "In un contenitore capiente, mescola il farro, il tacchino, i ceci e pomodorini tagliati a metà (o verdure a piacere).",
+      "Condisci con olio EVO, sale, pepe e un cucchiaio di succo di limone per dare freschezza."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Farro perlato", "amount": 100, "unit": "g" },
+      { "name": "Fesa di tacchino arrosto (al taglio, in un'unica fetta spessa)", "amount": 120, "unit": "g" },
+      { "name": "Ceci in scatola (sgocciolati)", "amount": 80, "unit": "g" },
+      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 640,
+      "macros": { "protein_g": 45.0, "carbs_g": 82.0, "fat_g": 14.5, "fiber_g": 11.0 },
+      "micros": {
+        "calcium_mg": 65, "magnesium_mg": 140, "potassium_mg": 580, "sodium_mg": 650, "phosphorus_mg": 310,
+        "iron_mg": 4.2, "zinc_mg": 3.8, "copper_mg": 0.4, "manganese_mg": 2.1, "selenium_ug": 25, "iodine_ug": 15,
+        "vit_c_mg": 10, "vit_b1_mg": 0.3, "vit_b2_mg": 0.25, "vit_b3_mg": 9.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.6,
+        "vit_b9_ug": 85, "vit_b12_ug": 0.4, "vit_a_ug": 50, "vit_d_ui": 0, "vit_e_mg": 2.2, "vit_k_ug": 10
+      }
+    }
+  },
+  {
+    "id": "white-chili-manzo-riso",
+    "title": "Chili Bianco di Manzo con Riso (Senza Pomodoro)",
+    "category": "Cena",
+    "image_url": "https://images.unsplash.com/photo-1628268909376-e8c44baddab8?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 20,
+    "storage_notes": "Eccezionale per il congelatore. In frigo dura 4 giorni e riscaldato diventa ancora più saporito.",
+    "preparation_steps": [
+      "Cuoci il riso Basmati a parte e lascialo raffreddare.",
+      "In una padella o pentola, rosola il macinato di manzo magro. Rimuovi l'eventuale grasso in eccesso rilasciato.",
+      "Aggiungi le spezie (cumino, paprika dolce, aglio in polvere) e tosta la carne per 1 minuto.",
+      "Aggiungi i fagioli rossi sgocciolati e mezzo bicchiere di brodo di carne (o acqua calda).",
+      "Lascia sobbollire per 10-15 minuti finché il liquido non si restringe creando una cremina densa.",
+      "Componi il contenitore mettendo il chili da una parte e il riso bianco dall'altra."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Macinato di manzo magro (5% grassi)", "amount": 150, "unit": "g" },
+      { "name": "Fagioli Rossi in scatola (sgocciolati)", "amount": 120, "unit": "g" },
+      { "name": "Riso Basmati", "amount": 80, "unit": "g" },
+      { "name": "Mix spezie (cumino, paprika, aglio)", "amount": 5, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 710,
+      "macros": { "protein_g": 48.0, "carbs_g": 85.0, "fat_g": 18.0, "fiber_g": 10.0 },
+      "micros": {
+        "calcium_mg": 85, "magnesium_mg": 130, "potassium_mg": 920, "sodium_mg": 410, "phosphorus_mg": 450,
+        "iron_mg": 6.5, "zinc_mg": 7.2, "copper_mg": 0.5, "manganese_mg": 1.4, "selenium_ug": 35, "iodine_ug": 12,
+        "vit_c_mg": 2, "vit_b1_mg": 0.4, "vit_b2_mg": 0.4, "vit_b3_mg": 8.0, "vit_b5_mg": 1.1, "vit_b6_mg": 0.9,
+        "vit_b9_ug": 120, "vit_b12_ug": 3.5, "vit_a_ug": 15, "vit_d_ui": 5, "vit_e_mg": 0.5, "vit_k_ug": 8
+      }
+    }
+  },
+  {
+    "id": "wrap-pollo-congelare",
+    "title": "Wrap Iperproteico da Congelare",
+    "category": "Cena",
+    "image_url": "https://images.unsplash.com/photo-1626700051175-105ec7f758f1?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 15,
+    "storage_notes": "Avvolgi strettamente in carta alluminio e metti in freezer. Per consumare: scalda al microonde (senza alluminio) per 3 min, poi ripassa in padella per renderlo croccante.",
+    "preparation_steps": [
+      "Cuoci gli straccetti di pollo in padella con sale e spezie a piacere.",
+      "Cuoci il riso (se non ne hai già di pronto dal meal prep) e lascialo intiepidire.",
+      "Prendi la piadina grande, stendi al centro il riso, posiziona il pollo cotto e metti sopra la fetta di formaggio.",
+      "Chiudi il wrap ripiegando prima i due lati corti verso l'interno, poi arrotolandolo ben stretto dal lato lungo.",
+      "Non mettere verdure crude (come lattuga o pomodoro) perché rovinerebbero il wrap se congelato."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Piadina grande / Tortilla wrap", "amount": 1, "unit": "pz (circa 70g)" },
+      { "name": "Petto di pollo a straccetti", "amount": 150, "unit": "g" },
+      { "name": "Riso Basmati cotto", "amount": 80, "unit": "g" },
+      { "name": "Formaggio Cheddar o Edamer", "amount": 20, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 650,
+      "macros": { "protein_g": 52.0, "carbs_g": 72.0, "fat_g": 16.0, "fiber_g": 3.5 },
+      "micros": {
+        "calcium_mg": 210, "magnesium_mg": 85, "potassium_mg": 520, "sodium_mg": 880, "phosphorus_mg": 390,
+        "iron_mg": 3.2, "zinc_mg": 2.8, "copper_mg": 0.2, "manganese_mg": 0.8, "selenium_ug": 38, "iodine_ug": 25,
+        "vit_c_mg": 0, "vit_b1_mg": 0.25, "vit_b2_mg": 0.35, "vit_b3_mg": 16.0, "vit_b5_mg": 1.4, "vit_b6_mg": 1.2,
+        "vit_b9_ug": 45, "vit_b12_ug": 0.6, "vit_a_ug": 90, "vit_d_ui": 15, "vit_e_mg": 1.1, "vit_k_ug": 5
+      }
+    }
   }
 ]
