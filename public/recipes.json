@@ -318,4 +318,135 @@
       }
     }
   }
+  {
+    "id": "pancake-teglia-banana",
+    "title": "Pancake Proteici in Teglia (Banana & Cioccolato)",
+    "category": "Colazione",
+    "image_url": "https://images.unsplash.com/photo-1554520735-0a6b8b6ce8b7?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 25,
+    "storage_notes": "Cuoci una volta e dividi in porzioni. Si conserva 4 giorni in contenitore ermetico in frigo. Scaldare 30 secondi al microonde.",
+    "preparation_steps": [
+      "Preriscalda il forno a 180°C e rivesti una teglia (es. 20x20 cm per un paio di porzioni) con carta forno.",
+      "In un frullatore, inserisci la farina d'avena, la banana, l'albume, l'uovo intero, le proteine in polvere e il lievito.",
+      "Frulla fino a ottenere una pastella liscia. (Se troppo densa, aggiungi un goccio di latte).",
+      "Versa l'impasto nella teglia, livellandolo. Distribuisci sopra le gocce di cioccolato fondente.",
+      "Inforna per 15-20 minuti finché i bordi sono dorati e il centro è cotto. Lascia intiepidire e taglia a quadrotti."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Farina d'avena (o fiocchi frullati)", "amount": 60, "unit": "g" },
+      { "name": "Banana matura", "amount": 80, "unit": "g" },
+      { "name": "Albume d'uovo", "amount": 100, "unit": "g" },
+      { "name": "Uovo intero", "amount": 1, "unit": "pz" },
+      { "name": "Proteine in polvere", "amount": 15, "unit": "g" },
+      { "name": "Gocce di cioccolato fondente", "amount": 10, "unit": "g" },
+      { "name": "Lievito per dolci", "amount": 3, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 485,
+      "macros": { "protein_g": 36.0, "carbs_g": 58.0, "fat_g": 11.5, "fiber_g": 8.5 },
+      "micros": {
+        "calcium_mg": 150, "magnesium_mg": 130, "potassium_mg": 750, "sodium_mg": 320, "phosphorus_mg": 350,
+        "iron_mg": 3.8, "zinc_mg": 2.5, "copper_mg": 0.5, "manganese_mg": 2.5, "selenium_ug": 35, "iodine_ug": 25,
+        "vit_c_mg": 8, "vit_b1_mg": 0.35, "vit_b2_mg": 0.8, "vit_b3_mg": 4.0, "vit_b5_mg": 1.2, "vit_b6_mg": 0.5,
+        "vit_b9_ug": 65, "vit_b12_ug": 1.2, "vit_a_ug": 95, "vit_d_ui": 35, "vit_e_mg": 1.5, "vit_k_ug": 4
+      }
+    }
+  },
+  {
+    "id": "breakfast-burrito-congelato",
+    "title": "Breakfast Burrito Salato da Congelare",
+    "category": "Colazione",
+    "image_url": "https://images.unsplash.com/photo-1628191137573-dee64e727614?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 15,
+    "storage_notes": "Avvolgi nella carta stagnola e congela (fino a 2 mesi). Per consumare: togli la stagnola, avvolgi in scottex umido e scalda in microonde per 3-4 minuti.",
+    "preparation_steps": [
+      "In una padella antiaderente unta con un filo d'olio, strapazza le uova intere con gli albumi, salando e pepando a piacere.",
+      "Stendi la piadina/tortilla. Posiziona al centro le uova strapazzate cotte.",
+      "Aggiungi sopra le fette di fesa di tacchino e la fetta di formaggio (si scioglierà col calore delle uova).",
+      "Chiudi il burrito piegando prima i bordi corti verso l'interno, poi arrotolando stretto dal lato lungo.",
+      "Se lo mangi subito, tostalo in padella 2 minuti. Se fai meal prep, lascialo raffreddare prima di avvolgerlo nell'alluminio e congelarlo."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Piadina o Tortilla grande", "amount": 1, "unit": "pz (circa 70g)" },
+      { "name": "Uova intere", "amount": 2, "unit": "pz" },
+      { "name": "Albume d'uovo", "amount": 100, "unit": "g" },
+      { "name": "Fesa di tacchino a fette", "amount": 50, "unit": "g" },
+      { "name": "Formaggio a fette (Edamer o Cheddar)", "amount": 20, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 520,
+      "macros": { "protein_g": 42.0, "carbs_g": 38.0, "fat_g": 21.0, "fiber_g": 3.0 },
+      "micros": {
+        "calcium_mg": 280, "magnesium_mg": 65, "potassium_mg": 450, "sodium_mg": 950, "phosphorus_mg": 480,
+        "iron_mg": 3.5, "zinc_mg": 3.2, "copper_mg": 0.2, "manganese_mg": 0.5, "selenium_ug": 55, "iodine_ug": 60,
+        "vit_c_mg": 0, "vit_b1_mg": 0.25, "vit_b2_mg": 0.9, "vit_b3_mg": 8.0, "vit_b5_mg": 2.5, "vit_b6_mg": 0.4,
+        "vit_b9_ug": 90, "vit_b12_ug": 1.8, "vit_a_ug": 220, "vit_d_ui": 85, "vit_e_mg": 2.5, "vit_k_ug": 8
+      }
+    }
+  }
+  {
+    "id": "fit-tiramisu-fette-biscottate",
+    "title": "Fit Tiramisù Proteico",
+    "category": "Colazione",
+    "image_url": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 10,
+    "storage_notes": "Si prepara la sera prima o per più giorni. Conservare in frigo in un contenitore di vetro. Ottimo fino a 3-4 giorni.",
+    "preparation_steps": [
+      "Prepara 2 tazzine di caffè espresso, allungalo con un goccio d'acqua e lascialo intiepidire in un piatto fondo.",
+      "In una ciotola, mescola energicamente lo yogurt greco con le proteine in polvere (gusto vaniglia) fino a ottenere una crema liscia.",
+      "Inzuppa velocemente una fetta biscottata nel caffè (non troppo altrimenti si rompe) e posizionala sul fondo del tuo tupperware.",
+      "Copri con uno strato di crema allo yogurt. Ripeti l'operazione inzuppando le altre fette, alternando fette e crema.",
+      "Chiudi con un abbondante strato di crema, spolvera la superficie con il cacao amaro in polvere e riponi in frigo per tutta la notte."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Fette biscottate integrali (circa 6 fette)", "amount": 50, "unit": "g" },
+      { "name": "Yogurt Greco 0%", "amount": 200, "unit": "g" },
+      { "name": "Proteine in polvere (Vaniglia)", "amount": 15, "unit": "g" },
+      { "name": "Caffè espresso", "amount": 2, "unit": "tazzine" },
+      { "name": "Cacao amaro in polvere", "amount": 5, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 375,
+      "macros": { "protein_g": 39.0, "carbs_g": 46.0, "fat_g": 3.5, "fiber_g": 6.0 },
+      "micros": {
+        "calcium_mg": 290, "magnesium_mg": 85, "potassium_mg": 510, "sodium_mg": 280, "phosphorus_mg": 320,
+        "iron_mg": 2.8, "zinc_mg": 2.1, "copper_mg": 0.3, "manganese_mg": 1.2, "selenium_ug": 22, "iodine_ug": 40,
+        "vit_c_mg": 0, "vit_b1_mg": 0.2, "vit_b2_mg": 0.5, "vit_b3_mg": 4.5, "vit_b5_mg": 1.1, "vit_b6_mg": 0.2,
+        "vit_b9_ug": 25, "vit_b12_ug": 1.5, "vit_a_ug": 45, "vit_d_ui": 0, "vit_e_mg": 0.5, "vit_k_ug": 2
+      }
+    }
+  },
+  {
+    "id": "crepes-proteiche-batch",
+    "title": "Crepes Proteiche Classiche (Meal Prep)",
+    "category": "Colazione",
+    "image_url": "https://images.unsplash.com/photo-1519676867240-f03562e64548?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 20,
+    "storage_notes": "Cuocile tutte, lasciale raffreddare e impilale con un pezzo di carta forno tra una e l'altra. Si conservano in frigo per 4 giorni. Scaldare 15 sec al microonde prima di farcire.",
+    "preparation_steps": [
+      "In un frullatore o con una frusta, sbatti l'albume, l'uovo intero, il latte e la farina classica (00 o di farro) fino a ottenere una pastella molto liquida e senza grumi.",
+      "Scalda una padella antiaderente larga, ungila leggermente con un tovagliolo imbevuto d'olio.",
+      "Versa un mestolo di pastella ruotando la padella per creare uno strato sottile. Cuoci 1 minuto per lato.",
+      "Ripeti fino a terminare l'impasto (dovresti ottenere circa 3 crepes grandi per porzione).",
+      "Al momento della colazione, farcisci con lo yogurt greco e un velo di marmellata, poi piega a portafoglio."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Farina 00 (o di farro/riso)", "amount": 50, "unit": "g" },
+      { "name": "Albume d'uovo", "amount": 150, "unit": "g" },
+      { "name": "Uovo intero", "amount": 1, "unit": "pz" },
+      { "name": "Latte", "amount": 50, "unit": "ml" },
+      { "name": "Yogurt greco 0% (per farcire)", "amount": 100, "unit": "g" },
+      { "name": "Marmellata light (per farcire)", "amount": 20, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 415,
+      "macros": { "protein_g": 36.0, "carbs_g": 52.0, "fat_g": 6.5, "fiber_g": 2.0 },
+      "micros": {
+        "calcium_mg": 210, "magnesium_mg": 45, "potassium_mg": 480, "sodium_mg": 380, "phosphorus_mg": 320,
+        "iron_mg": 2.5, "zinc_mg": 1.8, "copper_mg": 0.1, "manganese_mg": 0.6, "selenium_ug": 45, "iodine_ug": 50,
+        "vit_c_mg": 2, "vit_b1_mg": 0.15, "vit_b2_mg": 0.8, "vit_b3_mg": 2.0, "vit_b5_mg": 1.5, "vit_b6_mg": 0.2,
+        "vit_b9_ug": 40, "vit_b12_ug": 1.1, "vit_a_ug": 110, "vit_d_ui": 35, "vit_e_mg": 0.8, "vit_k_ug": 1
+      }
+    }
+  }
 ]
