@@ -156,7 +156,7 @@
         "vit_b9_ug": 45, "vit_b12_ug": 0.6, "vit_a_ug": 90, "vit_d_ui": 15, "vit_e_mg": 1.1, "vit_k_ug": 5
       }
     }
-  }
+  },
   {
     "id": "cookies-ceci-proteici",
     "title": "Protein Cookies ai Ceci e Cioccolato",
@@ -317,7 +317,7 @@
         "vit_b9_ug": 15, "vit_b12_ug": 1.4, "vit_a_ug": 150, "vit_d_ui": 40, "vit_e_mg": 0.4, "vit_k_ug": 1
       }
     }
-  }
+  },
   {
     "id": "pancake-teglia-banana",
     "title": "Pancake Proteici in Teglia (Banana & Cioccolato)",
@@ -383,7 +383,7 @@
         "vit_b9_ug": 90, "vit_b12_ug": 1.8, "vit_a_ug": 220, "vit_d_ui": 85, "vit_e_mg": 2.5, "vit_k_ug": 8
       }
     }
-  }
+  },
   {
     "id": "fit-tiramisu-fette-biscottate",
     "title": "Fit Tiramisù Proteico",
