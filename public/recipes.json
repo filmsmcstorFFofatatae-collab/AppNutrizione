@@ -511,5 +511,96 @@
         "vit_b9_ug": 35, "vit_b12_ug": 3.8, "vit_a_ug": 210, "vit_d_ui": 15, "vit_e_mg": 1.1, "vit_k_ug": 2
       }
     }
+  },
+  {
+    "id": "pasta-ragu-bianco-tacchino",
+    "title": "Pasta al Ragù Bianco di Tacchino",
+    "category": "Pranzo",
+    "image_url": "https://www.aiafood.com/_next/image/?url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Fxxl_ragu_di_tacchino_la_ricetta_un_sugo_leggero_f72c856071.webp&w=1920&q=80",
+    "prep_time_min": 25,
+    "storage_notes": "Il ragù bianco si conserva in frigo per 4 giorni. Scaldando la pasta al microonde con un cucchiaio d'acqua torna perfetta.",
+    "preparation_steps": [
+      "In una padella fai un leggero soffritto con un cucchiaino d'olio, carota e sedano tritati finemente.",
+      "Aggiungi il macinato di tacchino e sgrana bene con un cucchiaio di legno rosolandolo a fiamma viva.",
+      "Sfuma con mezzo bicchiere di brodo vegetale o acqua calda, abbassa la fiamma, metti il coperchio e cuoci per 15 minuti.",
+      "Cuoci la pasta al dente, scolala e saltala nella padella con il ragù bianco aggiungendo il parmigiano per mantecare."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Pasta (penne o rigatoni)", "amount": 120, "unit": "g" },
+      { "name": "Macinato di tacchino magro", "amount": 150, "unit": "g" },
+      { "name": "Misto soffritto (carota, sedano)", "amount": 30, "unit": "g" },
+      { "name": "Olio EVO", "amount": 5, "unit": "g" },
+      { "name": "Parmigiano Reggiano", "amount": 10, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 710,
+      "macros": { "protein_g": 54.0, "carbs_g": 88.0, "fat_g": 14.0, "fiber_g": 4.5 },
+      "micros": {
+        "calcium_mg": 180, "magnesium_mg": 90, "potassium_mg": 520, "sodium_mg": 380, "phosphorus_mg": 410,
+        "iron_mg": 3.1, "zinc_mg": 4.2, "copper_mg": 0.3, "manganese_mg": 1.1, "selenium_ug": 32, "iodine_ug": 15,
+        "vit_c_mg": 2, "vit_b1_mg": 0.25, "vit_b2_mg": 0.35, "vit_b3_mg": 14.0, "vit_b5_mg": 1.5, "vit_b6_mg": 0.9,
+        "vit_b9_ug": 30, "vit_b12_ug": 1.1, "vit_a_ug": 120, "vit_d_ui": 5, "vit_e_mg": 1.2, "vit_k_ug": 10
+      }
+    }
+  },
+  {
+    "id": "riso-crema-zucca-parmigiano",
+    "title": "Riso alla Crema di Zucca e Parmigiano",
+    "category": "Pranzo",
+    "image_url": "https://www.lavongolaverace.it/wp-content/uploads/IMG_8223.jpg",
+    "prep_time_min": 20,
+    "storage_notes": "Perfetto per il meal prep invernale. La crema di zucca avvolge il riso e previene che diventi secco in frigo (fino a 4 giorni).",
+    "preparation_steps": [
+      "Taglia la zucca a cubetti e cuocila in padella con mezzo bicchiere d'acqua e un pizzico di sale finché non si sfalda.",
+      "Frulla la zucca cotta con un frullatore a immersione aggiungendo il parmigiano e l'olio EVO per creare una crema vellutata.",
+      "Cuoci il riso Basmati o Carnaroli, scolalo e amalgamalo alla crema di zucca calda.",
+      "Aggiungi una spolverata di pepe nero e rosmarino tritato."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Riso Basmati", "amount": 120, "unit": "g" },
+      { "name": "Zucca (pesata cruda)", "amount": 250, "unit": "g" },
+      { "name": "Parmigiano Reggiano", "amount": 15, "unit": "g" },
+      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 540,
+      "macros": { "protein_g": 16.0, "carbs_g": 95.0, "fat_g": 11.0, "fiber_g": 5.0 },
+      "micros": {
+        "calcium_mg": 240, "magnesium_mg": 85, "potassium_mg": 950, "sodium_mg": 180, "phosphorus_mg": 250,
+        "iron_mg": 2.2, "zinc_mg": 1.5, "copper_mg": 0.2, "manganese_mg": 1.2, "selenium_ug": 10, "iodine_ug": 8,
+        "vit_c_mg": 22, "vit_b1_mg": 0.15, "vit_b2_mg": 0.2, "vit_b3_mg": 3.5, "vit_b5_mg": 0.8, "vit_b6_mg": 0.4,
+        "vit_b9_ug": 45, "vit_b12_ug": 0.2, "vit_a_ug": 1100, "vit_d_ui": 2, "vit_e_mg": 2.1, "vit_k_ug": 5
+      }
+    }
+  },
+  {
+    "id": "bocconcini-pollo-limone",
+    "title": "Bocconcini di Pollo al Limone (Non Stopposi)",
+    "category": "Cena",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLtWg0aYY-3_ciMQfNdi0DMir_QPOY1D0F5lA8xl-Y1yx0prLhdcCJp2U&s=10",
+    "prep_time_min": 15,
+    "storage_notes": "L'infarinatura crea una cremina che mantiene il pollo umido anche quando lo riscaldi nei giorni successivi. Dura 4 giorni in frigo.",
+    "preparation_steps": [
+      "Taglia il petto di pollo a bocconcini regolari e passali velocemente nella farina, rimuovendo l'eccesso.",
+      "Scalda l'olio in una padella antiaderente e dora i bocconcini di pollo a fuoco vivo su tutti i lati.",
+      "Quando sono coloriti, abbassa la fiamma, sala, e versa il succo di limone misto a due cucchiai d'acqua.",
+      "Fai restringere per 3-4 minuti finché non si forma una glassa cremosa. Servi caldo o riponi nel tupperware."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Petto di pollo intero", "amount": 200, "unit": "g" },
+      { "name": "Farina 00 (per infarinare)", "amount": 15, "unit": "g" },
+      { "name": "Olio EVO", "amount": 10, "unit": "g" },
+      { "name": "Succo di limone", "amount": 1, "unit": "mezzo" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 330,
+      "macros": { "protein_g": 46.0, "carbs_g": 11.0, "fat_g": 11.5, "fiber_g": 0.5 },
+      "micros": {
+        "calcium_mg": 25, "magnesium_mg": 55, "potassium_mg": 520, "sodium_mg": 150, "phosphorus_mg": 410,
+        "iron_mg": 1.2, "zinc_mg": 2.0, "copper_mg": 0.1, "manganese_mg": 0.2, "selenium_ug": 28, "iodine_ug": 8,
+        "vit_c_mg": 15, "vit_b1_mg": 0.15, "vit_b2_mg": 0.2, "vit_b3_mg": 18.0, "vit_b5_mg": 1.5, "vit_b6_mg": 1.1,
+        "vit_b9_ug": 10, "vit_b12_ug": 0.4, "vit_a_ug": 15, "vit_d_ui": 0, "vit_e_mg": 1.8, "vit_k_ug": 2
+      }
+    }
   }
 ]
