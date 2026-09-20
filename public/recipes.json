@@ -157,4 +157,165 @@
       }
     }
   }
+  {
+    "id": "cookies-ceci-proteici",
+    "title": "Protein Cookies ai Ceci e Cioccolato",
+    "category": "Spuntini",
+    "image_url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 20,
+    "storage_notes": "Si conservano in un contenitore ermetico a temperatura ambiente per 3-4 giorni, o in frigo per una settimana. Ottimi anche congelati.",
+    "preparation_steps": [
+      "Preriscalda il forno a 180°C. Sciacqua benissimo i ceci sotto l'acqua corrente per rimuovere il sale e asciugali.",
+      "In un frullatore, inserisci i ceci, il burro di arachidi, le proteine in polvere, il miele (o dolcificante) e il lievito. Frulla fino a ottenere un impasto liscio e denso.",
+      "Se l'impasto è troppo duro, aggiungi 1-2 cucchiai di latte. Trasferisci in una ciotola.",
+      "Incorpora le gocce di cioccolato fondente mescolando con un cucchiaio.",
+      "Forma 3 biscotti con le mani leggermente umide, schiacciali su una teglia con carta forno e cuoci per 12-15 minuti. Fai raffreddare completamente prima di toccarli (da caldi sono fragili)."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Ceci in scatola (sgocciolati)", "amount": 100, "unit": "g" },
+      { "name": "Burro di arachidi 100%", "amount": 20, "unit": "g" },
+      { "name": "Proteine in polvere (Vaniglia)", "amount": 15, "unit": "g" },
+      { "name": "Gocce di cioccolato fondente", "amount": 10, "unit": "g" },
+      { "name": "Miele o Sciroppo d'acero", "amount": 10, "unit": "g" },
+      { "name": "Lievito per dolci", "amount": 2, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 375,
+      "macros": { "protein_g": 24.0, "carbs_g": 34.0, "fat_g": 16.0, "fiber_g": 9.0 },
+      "micros": {
+        "calcium_mg": 75, "magnesium_mg": 95, "potassium_mg": 410, "sodium_mg": 180, "phosphorus_mg": 210,
+        "iron_mg": 3.5, "zinc_mg": 2.2, "copper_mg": 0.4, "manganese_mg": 1.2, "selenium_ug": 12, "iodine_ug": 5,
+        "vit_c_mg": 1, "vit_b1_mg": 0.15, "vit_b2_mg": 0.1, "vit_b3_mg": 3.0, "vit_b5_mg": 0.5, "vit_b6_mg": 0.2,
+        "vit_b9_ug": 85, "vit_b12_ug": 0.5, "vit_a_ug": 5, "vit_d_ui": 0, "vit_e_mg": 2.5, "vit_k_ug": 4
+      }
+    }
+  },
+  {
+    "id": "budino-proteico-cioccolato",
+    "title": "Budino Proteico al Cioccolato Fondente",
+    "category": "Spuntini",
+    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 5,
+    "storage_notes": "Si conserva in frigo nei vasetti di vetro sigillati per 4-5 giorni. La consistenza migliora dopo qualche ora di riposo.",
+    "preparation_steps": [
+      "In un pentolino a fuoco spento, setaccia l'amido di mais, il cacao amaro e le proteine in polvere.",
+      "Aggiungi un cucchiaio di latte e mescola vigorosamente per creare una pastella senza grumi, poi versa il resto del latte a filo.",
+      "Accendi il fuoco a fiamma medio-bassa. Continua a mescolare con una frusta senza mai fermarti.",
+      "Appena il liquido sfiora il bollore, inizierà ad addensarsi rapidamente. Gira per un altro minuto finché non diventa una crema vellutata.",
+      "Spegni il fuoco, aggiungi il dolcificante a piacere (se le proteine non erano già dolci), versa nel vasetto e lascia raffreddare in frigo."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Latte (parzialmente scremato o soia)", "amount": 250, "unit": "ml" },
+      { "name": "Amido di mais (Maizena)", "amount": 20, "unit": "g" },
+      { "name": "Proteine in polvere (Cioccolato o neutre)", "amount": 25, "unit": "g" },
+      { "name": "Cacao amaro in polvere", "amount": 10, "unit": "g" },
+      { "name": "Dolcificante (es. Eritritolo)", "amount": 0, "unit": "a piacere" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 320,
+      "macros": { "protein_g": 30.0, "carbs_g": 32.0, "fat_g": 7.0, "fiber_g": 3.0 },
+      "micros": {
+        "calcium_mg": 380, "magnesium_mg": 85, "potassium_mg": 550, "sodium_mg": 120, "phosphorus_mg": 320,
+        "iron_mg": 2.5, "zinc_mg": 2.8, "copper_mg": 0.5, "manganese_mg": 0.4, "selenium_ug": 15, "iodine_ug": 35,
+        "vit_c_mg": 0, "vit_b1_mg": 0.15, "vit_b2_mg": 0.6, "vit_b3_mg": 2.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.2,
+        "vit_b9_ug": 18, "vit_b12_ug": 1.5, "vit_a_ug": 150, "vit_d_ui": 40, "vit_e_mg": 0.5, "vit_k_ug": 2
+      }
+    }
+  },
+  {
+    "id": "budino-proteico-caramello",
+    "title": "Budino Proteico al Caramello Salato",
+    "category": "Spuntini",
+    "image_url": "https://images.unsplash.com/photo-1617064379366-41e98822f37c?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 5,
+    "storage_notes": "Conservare in frigo fino a 4 giorni. Puoi guarnire con qualche arachide tritata prima di mangiarlo.",
+    "preparation_steps": [
+      "In un pentolino a freddo, mescola l'amido di mais e le proteine in polvere (preferibilmente alla vaniglia o caramello).",
+      "Versa il latte a filo mescolando con una frusta per evitare la formazione di grumi.",
+      "Accendi il fuoco a intensità medio-bassa e mescola continuamente fino a sfiorare il bollore e ottenere una crema densa.",
+      "Spegni il fuoco. Aggiungi subito il burro di arachidi, il sale in fiocchi e, se serve, un cucchiaino di miele o dolcificante.",
+      "Mescola bene finché il burro non si scioglie completamente donando un colore dorato. Versa in vasetto e metti in frigo."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Latte (parzialmente scremato o soia)", "amount": 250, "unit": "ml" },
+      { "name": "Amido di mais (Maizena)", "amount": 20, "unit": "g" },
+      { "name": "Proteine in polvere (Vaniglia o Caramello)", "amount": 25, "unit": "g" },
+      { "name": "Burro di arachidi (o di mandorle)", "amount": 10, "unit": "g" },
+      { "name": "Sale marino in fiocchi", "amount": 1, "unit": "pizzico" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 350,
+      "macros": { "protein_g": 31.0, "carbs_g": 31.0, "fat_g": 10.0, "fiber_g": 1.5 },
+      "micros": {
+        "calcium_mg": 360, "magnesium_mg": 55, "potassium_mg": 480, "sodium_mg": 350, "phosphorus_mg": 300,
+        "iron_mg": 0.8, "zinc_mg": 2.5, "copper_mg": 0.1, "manganese_mg": 0.2, "selenium_ug": 14, "iodine_ug": 35,
+        "vit_c_mg": 0, "vit_b1_mg": 0.12, "vit_b2_mg": 0.55, "vit_b3_mg": 2.8, "vit_b5_mg": 1.1, "vit_b6_mg": 0.2,
+        "vit_b9_ug": 20, "vit_b12_ug": 1.4, "vit_a_ug": 145, "vit_d_ui": 40, "vit_e_mg": 1.2, "vit_k_ug": 1
+      }
+    }
+  },
+  {
+    "id": "budino-proteico-moka",
+    "title": "Budino Proteico al Caffè Moka (Pre-Workout)",
+    "category": "Spuntini",
+    "image_url": "https://images.unsplash.com/photo-1550266479-79ad2f4b4f51?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 5,
+    "storage_notes": "Perfetto la mattina o pre-allenamento per la caffeina. Dura 4 giorni in frigo.",
+    "preparation_steps": [
+      "Prepara il caffè (2 tazzine di espresso) e lascialo intiepidire.",
+      "In un pentolino a freddo, setaccia amido di mais, proteine (cioccolato o vaniglia) e 1 cucchiaino di cacao.",
+      "Versa prima il caffè e mescola per sciogliere le polveri, poi aggiungi il latte a filo continuando a mescolare.",
+      "Cuoci a fuoco dolce, mescolando ininterrottamente fino all'addensamento.",
+      "Versa nei contenitori e riponi in frigorifero a rassodare."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Latte (parzialmente scremato o soia)", "amount": 200, "unit": "ml" },
+      { "name": "Caffè espresso", "amount": 50, "unit": "ml (circa 2 tazzine)" },
+      { "name": "Amido di mais (Maizena)", "amount": 20, "unit": "g" },
+      { "name": "Proteine in polvere (Cioccolato o Vaniglia)", "amount": 25, "unit": "g" },
+      { "name": "Cacao amaro (per guarnire)", "amount": 2, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 275,
+      "macros": { "protein_g": 28.0, "carbs_g": 28.0, "fat_g": 4.5, "fiber_g": 1.0 },
+      "micros": {
+        "calcium_mg": 310, "magnesium_mg": 60, "potassium_mg": 520, "sodium_mg": 105, "phosphorus_mg": 280,
+        "iron_mg": 1.0, "zinc_mg": 2.2, "copper_mg": 0.1, "manganese_mg": 0.2, "selenium_ug": 12, "iodine_ug": 30,
+        "vit_c_mg": 0, "vit_b1_mg": 0.1, "vit_b2_mg": 0.5, "vit_b3_mg": 3.0, "vit_b5_mg": 1.0, "vit_b6_mg": 0.15,
+        "vit_b9_ug": 15, "vit_b12_ug": 1.2, "vit_a_ug": 120, "vit_d_ui": 30, "vit_e_mg": 0.4, "vit_k_ug": 1
+      }
+    }
+  },
+  {
+    "id": "budino-proteico-vaniglia-cannella",
+    "title": "Budino Proteico Vaniglia e Cannella",
+    "category": "Spuntini",
+    "image_url": "https://images.unsplash.com/photo-1579954115567-dff2e2637989?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 6,
+    "storage_notes": "Si mantiene freschissimo per 4 giorni. Ottimo con l'aggiunta di mezza mela a cubetti al momento del consumo.",
+    "preparation_steps": [
+      "In un pentolino metti il latte e, se ce l'hai, qualche scorza spessa di limone (solo la parte gialla). Scalda leggermente senza far bollire per far infondere il sapore.",
+      "Rimuovi le scorze di limone. Aspetta che il latte si intiepidisca.",
+      "Aggiungi l'amido di mais e le proteine in polvere mescolando rapidamente con una frusta per sciogliere eventuali grumi.",
+      "Riporta sul fuoco dolce, aggiungi abbondante cannella in polvere, e mescola finché non si addensa.",
+      "Versa nel vasetto e riponi in frigo."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Latte (parzialmente scremato o soia)", "amount": 250, "unit": "ml" },
+      { "name": "Amido di mais (Maizena)", "amount": 20, "unit": "g" },
+      { "name": "Proteine in polvere (Vaniglia)", "amount": 25, "unit": "g" },
+      { "name": "Cannella in polvere", "amount": 2, "unit": "g" },
+      { "name": "Scorza di limone (opzionale)", "amount": 1, "unit": "pz" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 280,
+      "macros": { "protein_g": 29.0, "carbs_g": 30.0, "fat_g": 4.5, "fiber_g": 1.5 },
+      "micros": {
+        "calcium_mg": 380, "magnesium_mg": 45, "potassium_mg": 420, "sodium_mg": 120, "phosphorus_mg": 290,
+        "iron_mg": 0.8, "zinc_mg": 2.3, "copper_mg": 0.1, "manganese_mg": 0.5, "selenium_ug": 14, "iodine_ug": 35,
+        "vit_c_mg": 1, "vit_b1_mg": 0.12, "vit_b2_mg": 0.55, "vit_b3_mg": 2.5, "vit_b5_mg": 1.1, "vit_b6_mg": 0.2,
+        "vit_b9_ug": 15, "vit_b12_ug": 1.4, "vit_a_ug": 150, "vit_d_ui": 40, "vit_e_mg": 0.4, "vit_k_ug": 1
+      }
+    }
+  }
 ]
