@@ -448,5 +448,68 @@
         "vit_b9_ug": 40, "vit_b12_ug": 1.1, "vit_a_ug": 110, "vit_d_ui": 35, "vit_e_mg": 0.8, "vit_k_ug": 1
       }
     }
+  },
+  {
+    "id": "teriyaki-chicken-bowl-arachidi",
+    "title": "Teriyaki Bowl con Sovracosce e Arachidi",
+    "category": "Cena",
+    "image_url": "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 25,
+    "storage_notes": "Le sovracosce rimangono morbidissime anche dopo 4 giorni in frigo. Il sapore migliora il giorno dopo.",
+    "preparation_steps": [
+      "Cuoci il riso Basmati e lascialo da parte.",
+      "Taglia le sovracosce di pollo disossate a cubetti. Essendo più grasse del petto, non serve olio in padella.",
+      "Rosola il pollo a fuoco vivo finché non è ben dorato e croccante all'esterno.",
+      "Abbassa la fiamma, aggiungi la salsa Teriyaki e lascia glassare per 3-4 minuti finché la salsa non si restringe e avvolge il pollo.",
+      "Componi il contenitore: base di riso, pollo glassato sopra, e una manciata di arachidi tostate per la croccantezza e l'extra calorico."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Riso Basmati", "amount": 130, "unit": "g" },
+      { "name": "Sovracosce di pollo (disossate e senza pelle)", "amount": 200, "unit": "g" },
+      { "name": "Salsa Teriyaki", "amount": 30, "unit": "g" },
+      { "name": "Arachidi tostate (non salate)", "amount": 25, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 945,
+      "macros": { "protein_g": 52.0, "carbs_g": 115.0, "fat_g": 31.0, "fiber_g": 4.5 },
+      "micros": {
+        "calcium_mg": 65, "magnesium_mg": 150, "potassium_mg": 680, "sodium_mg": 950, "phosphorus_mg": 420,
+        "iron_mg": 3.5, "zinc_mg": 4.1, "copper_mg": 0.6, "manganese_mg": 2.1, "selenium_ug": 38, "iodine_ug": 10,
+        "vit_c_mg": 0, "vit_b1_mg": 0.4, "vit_b2_mg": 0.5, "vit_b3_mg": 22.0, "vit_b5_mg": 2.5, "vit_b6_mg": 1.2,
+        "vit_b9_ug": 50, "vit_b12_ug": 0.6, "vit_a_ug": 30, "vit_d_ui": 0, "vit_e_mg": 3.5, "vit_k_ug": 0
+      }
+    }
+  },
+  {
+    "id": "beef-mac-and-cheese",
+    "title": "Beef Mac & Cheese (Pasta al Formaggio e Manzo)",
+    "category": "Pranzo",
+    "image_url": "https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 20,
+    "storage_notes": "Aggiungi un cucchiaio di latte o acqua prima di scaldare in microonde per far tornare cremosa la salsa al formaggio.",
+    "preparation_steps": [
+      "Cuoci la pasta corta (es. maccheroni o penne) in acqua salata e scolala al dente.",
+      "In una padella grande, cuoci il macinato di manzo. Condisci con sale, pepe e un pizzico di paprika.",
+      "Una volta cotto il manzo, abbassa il fuoco al minimo. Aggiungi il latte e il formaggio Cheddar grattugiato.",
+      "Mescola finché il formaggio non si fonde completamente creando una crema densa.",
+      "Versa la pasta nella padella e mescola bene per amalgamare il tutto."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Pasta corta", "amount": 130, "unit": "g" },
+      { "name": "Macinato di manzo (10-15% grassi)", "amount": 150, "unit": "g" },
+      { "name": "Formaggio Cheddar grattugiato", "amount": 40, "unit": "g" },
+      { "name": "Latte", "amount": 50, "unit": "ml" },
+      { "name": "Olio EVO", "amount": 5, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 960,
+      "macros": { "protein_g": 55.0, "carbs_g": 98.0, "fat_g": 38.0, "fiber_g": 4.0 },
+      "micros": {
+        "calcium_mg": 410, "magnesium_mg": 110, "potassium_mg": 580, "sodium_mg": 620, "phosphorus_mg": 510,
+        "iron_mg": 5.2, "zinc_mg": 7.5, "copper_mg": 0.4, "manganese_mg": 1.1, "selenium_ug": 45, "iodine_ug": 25,
+        "vit_c_mg": 0, "vit_b1_mg": 0.2, "vit_b2_mg": 0.6, "vit_b3_mg": 9.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.7,
+        "vit_b9_ug": 35, "vit_b12_ug": 3.8, "vit_a_ug": 210, "vit_d_ui": 15, "vit_e_mg": 1.1, "vit_k_ug": 2
+      }
+    }
   }
 ]
