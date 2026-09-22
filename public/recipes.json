@@ -666,5 +666,136 @@
         "vit_b9_ug": 65, "vit_b12_ug": 5.2, "vit_a_ug": 320, "vit_d_ui": 65, "vit_e_mg": 2.5, "vit_k_ug": 15
       }
     }
+  },
+  {
+    "id": "crema-pasticcera-caffe-fit",
+    "title": "Vera Crema Pasticcera al Caffè (High Protein)",
+    "category": "Colazione",
+    "image_url": "https://images.unsplash.com/photo-1611162458324-aae1eb4129a4?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 10,
+    "storage_notes": "Coprire con pellicola a contatto per evitare la pellicina in superficie. Si conserva in frigo per 3 giorni.",
+    "preparation_steps": [
+      "In un pentolino, scalda il latte insieme alla tazzina di caffè espresso senza farlo bollire.",
+      "In una ciotola a parte, sbatti vigorosamente il tuorlo d'uovo con lo zucchero (o eritritolo) e l'amido di mais fino a ottenere una pastella liscia.",
+      "Versa un terzo del latte caldo sul composto di uova, mescolando rapidamente, poi versa tutto di nuovo nel pentolino.",
+      "Cuoci a fuoco dolce, mescolando continuamente con una frusta finché la crema non si addensa (circa 2-3 minuti).",
+      "Spegni il fuoco. Lascia intiepidire per 5 minuti, poi incorpora le proteine in polvere mescolando bene per non formare grumi."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Latte (parzialmente scremato)", "amount": 200, "unit": "ml" },
+      { "name": "Tuorlo d'uovo", "amount": 1, "unit": "pz" },
+      { "name": "Zucchero (o Eritritolo per zero kcal)", "amount": 15, "unit": "g" },
+      { "name": "Amido di mais (Maizena)", "amount": 15, "unit": "g" },
+      { "name": "Caffè espresso", "amount": 1, "unit": "tazzina" },
+      { "name": "Proteine in polvere (Vaniglia)", "amount": 20, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 290,
+      "macros": { "protein_g": 26.0, "carbs_g": 28.0, "fat_g": 8.0, "fiber_g": 0.5 },
+      "micros": {
+        "calcium_mg": 310, "magnesium_mg": 45, "potassium_mg": 380, "sodium_mg": 120, "phosphorus_mg": 310,
+        "iron_mg": 1.5, "zinc_mg": 2.1, "copper_mg": 0.1, "manganese_mg": 0.1, "selenium_ug": 25, "iodine_ug": 45,
+        "vit_c_mg": 0, "vit_b1_mg": 0.15, "vit_b2_mg": 0.5, "vit_b3_mg": 1.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.2,
+        "vit_b9_ug": 35, "vit_b12_ug": 1.4, "vit_a_ug": 280, "vit_d_ui": 60, "vit_e_mg": 0.8, "vit_k_ug": 1
+      }
+    }
+  },
+  {
+    "id": "sushi-burrito-xl-modulare",
+    "title": "Sushi Burrito XL (Pollo, Gamberi o Tofu)",
+    "category": "Pranzo",
+    "image_url": "https://images.unsplash.com/photo-1627914022417-05c0ce45fcbb?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 25,
+    "storage_notes": "Avvolgi strettamente nella pellicola. In frigo dura 3 giorni. La crema di sesamo manterrà il ripieno umido e saporito.",
+    "preparation_steps": [
+      "Cuoci e condisci il riso per sushi (dose aumentata per un burrito più largo).",
+      "Prepara la proteina: taglia il pollo o il tofu a striscioline (se usi i gamberi lasciali interi). Rosola in padella a fuoco vivo e sfuma con la salsa Teriyaki a fine cottura.",
+      "In una tazzina, mescola la crema di sesamo (tahina) con un goccio d'acqua calda e un cucchiaino di salsa di soia per creare una salsa densa e cremosa.",
+      "Stendi l'alga nori, distribuisci il riso su quasi tutta la superficie. Posiziona al centro una dose abbondante di carote e cetrioli a julienne e i germogli di soia.",
+      "Aggiungi la tua proteina glassata, versa sopra la crema di sesamo e arrotola stringendo bene per formare un cilindro compatto."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Alga Nori", "amount": 1, "unit": "foglio grande" },
+      { "name": "Riso per sushi (pesato a crudo)", "amount": 120, "unit": "g" },
+      { "name": "Petto di pollo, Gamberi o Tofu", "amount": 150, "unit": "g" },
+      { "name": "Carote e Cetrioli a julienne", "amount": 80, "unit": "g" },
+      { "name": "Germogli di soia", "amount": 30, "unit": "g" },
+      { "name": "Salsa Teriyaki", "amount": 20, "unit": "g" },
+      { "name": "Crema di Sesamo (Tahina 100%)", "amount": 15, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 780,
+      "macros": { "protein_g": 42.0, "carbs_g": 105.0, "fat_g": 20.0, "fiber_g": 7.0 },
+      "micros": {
+        "calcium_mg": 180, "magnesium_mg": 140, "potassium_mg": 680, "sodium_mg": 950, "phosphorus_mg": 520,
+        "iron_mg": 4.5, "zinc_mg": 3.8, "copper_mg": 0.5, "manganese_mg": 1.5, "selenium_ug": 35, "iodine_ug": 85,
+        "vit_c_mg": 12, "vit_b1_mg": 0.35, "vit_b2_mg": 0.25, "vit_b3_mg": 14.0, "vit_b5_mg": 1.8, "vit_b6_mg": 1.1,
+        "vit_b9_ug": 85, "vit_b12_ug": 0.5, "vit_a_ug": 850, "vit_d_ui": 0, "vit_e_mg": 2.2, "vit_k_ug": 25
+      }
+    }
+  },
+  {
+    "id": "maki-roll-croccante-modulare",
+    "title": "Maki Roll Croccante (Pollo, Gamberi o Tofu)",
+    "category": "Cena",
+    "image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 25,
+    "storage_notes": "Conservare intero in frigo avvolto nella pellicola (fino a 3 giorni). Tagliare a rondelle e passare 15 secondi in microonde prima di consumare.",
+    "preparation_steps": [
+      "Cuoci in padella con un filo d'olio il pollo a straccetti, i gamberi o il tofu tagliato a bastoncini spessi (quest'ultimo passalo in poco amido di mais per fare la crosticina).",
+      "Sfuma la proteina scelta con la salsa teriyaki e lasciala intiepidire.",
+      "Stendi il riso sull'alga nori, posiziona al centro la tua proteina glassata, i bastoncini di cetriolo e carota, e una manciata di germogli di soia.",
+      "Arrotola strettamente con la stuoietta, sigilla il bordo con un goccio d'acqua e taglia a rondelle."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Alga Nori", "amount": 1, "unit": "foglio" },
+      { "name": "Riso per sushi (pesato crudo)", "amount": 100, "unit": "g" },
+      { "name": "Petto di pollo, Gamberi o Tofu", "amount": 120, "unit": "g" },
+      { "name": "Cetriolo, Carote e Germogli di soia", "amount": 60, "unit": "g" },
+      { "name": "Salsa Teriyaki", "amount": 15, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 520,
+      "macros": { "protein_g": 32.0, "carbs_g": 85.0, "fat_g": 8.0, "fiber_g": 4.5 },
+      "micros": {
+        "calcium_mg": 90, "magnesium_mg": 85, "potassium_mg": 420, "sodium_mg": 680, "phosphorus_mg": 360,
+        "iron_mg": 3.2, "zinc_mg": 2.5, "copper_mg": 0.3, "manganese_mg": 1.1, "selenium_ug": 25, "iodine_ug": 65,
+        "vit_c_mg": 8, "vit_b1_mg": 0.2, "vit_b2_mg": 0.15, "vit_b3_mg": 8.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.6,
+        "vit_b9_ug": 55, "vit_b12_ug": 0.3, "vit_a_ug": 650, "vit_d_ui": 0, "vit_e_mg": 1.1, "vit_k_ug": 15
+      }
+    }
+  },
+  {
+    "id": "poke-bowl-flessibile",
+    "title": "Poke Bowl Flessibile (Tofu, Pollo o Gamberi)",
+    "category": "Pranzo",
+    "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 15,
+    "storage_notes": "Perfetta per il meal prep. Tieni il condimento liquido in un piccolo contenitore a parte e versalo prima di mangiare.",
+    "preparation_steps": [
+      "Cuoci il farro o il riso, scolalo e lascialo raffreddare.",
+      "Sbollenta gli edamame surgelati per 3 minuti e sgusciali.",
+      "Cuoci la tua proteina (gamberi scottati, bocconcini di pollo piastrati o cubetti di tofu) e lasciala raffreddare.",
+      "Prepara le verdure: taglia cetrioli e carote a julienne o a fettine sottili.",
+      "Prepara il dressing emulsionando salsa di soia, olio di sesamo e succo di lime (o limone).",
+      "Disponi il farro alla base della bowl. Aggiungi sopra a spicchi la proteina, gli edamame e le verdure. Condisci con la salsa."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Farro perlato (o Riso)", "amount": 80, "unit": "g" },
+      { "name": "Pollo, Gamberi o Tofu", "amount": 100, "unit": "g" },
+      { "name": "Fagioli Edamame sgusciati", "amount": 60, "unit": "g" },
+      { "name": "Cetrioli e Carote", "amount": 80, "unit": "g" },
+      { "name": "Dressing (Salsa di soia, Olio di sesamo, Lime)", "amount": 20, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 560,
+      "macros": { "protein_g": 38.0, "carbs_g": 65.0, "fat_g": 16.0, "fiber_g": 10.0 },
+      "micros": {
+        "calcium_mg": 120, "magnesium_mg": 145, "potassium_mg": 720, "sodium_mg": 1150, "phosphorus_mg": 460,
+        "iron_mg": 4.5, "zinc_mg": 3.5, "copper_mg": 0.5, "manganese_mg": 1.6, "selenium_ug": 28, "iodine_ug": 35,
+        "vit_c_mg": 18, "vit_b1_mg": 0.25, "vit_b2_mg": 0.2, "vit_b3_mg": 10.5, "vit_b5_mg": 1.4, "vit_b6_mg": 0.8,
+        "vit_b9_ug": 110, "vit_b12_ug": 0.5, "vit_a_ug": 750, "vit_d_ui": 0, "vit_e_mg": 1.8, "vit_k_ug": 35
+      }
+    }
   }
 ]
