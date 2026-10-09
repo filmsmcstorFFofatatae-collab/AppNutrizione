@@ -1097,5 +1097,42 @@
         "vit_b9_ug": 210, "vit_b12_ug": 0.0, "vit_a_ug": 450, "vit_d_ui": 0, "vit_e_mg": 2.8, "vit_k_ug": 12
       }
     }
+  },
+  {
+    "id": "💥💥cinnamon-rolls-lievitazione-vera",
+    "title": "Cinnamon Rolls Proteici (Vera Lievitazione)",
+    "category": "Colazione",
+    "image_url": "https://images.unsplash.com/photo-1509365465994-3e5dfd5a2106?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 120,
+    "storage_notes": "Grazie al lievito di birra, si mantengono morbidi molto più a lungo. Conservali in un contenitore chiuso in frigo per 4 giorni. Basteranno 20 secondi di microonde per farli tornare caldi e soffici come appena sfornati.",
+    "preparation_steps": [
+      "In una tazzina, scalda leggermente il latte (deve essere tiepido, non bollente), scioglici dentro il miele e il lievito di birra secco. Lascia riposare 5 minuti finché non fa una leggera schiuma.",
+      "In una ciotola, mescola la farina (meglio se Manitoba) e 20g di proteine di pisello. Aggiungi il composto di latte e lievito e impasta energicamente per 5-10 minuti fino a ottenere un panetto liscio ed elastico. (Se serve, aggiungi pochissima acqua).",
+      "Metti il panetto nella ciotola, copri con pellicola o un panno umido e lascia lievitare in un posto tiepido (es. forno spento con luce accesa) per circa 1,5 - 2 ore, o finché non raddoppia di volume.",
+      "Riprendi l'impasto gonfiato, stendilo col matterello in un rettangolo, spennella con il burro fuso e ricopri interamente con l'eritritolo e abbondante cannella.",
+      "Arrotola stretto, taglia in 4-5 girelle e mettile in una teglia vicine. (Opzionale: lasciale riposare altri 30 min per farle gonfiare ancora di più prima di infornare).",
+      "Cuoci a 180°C per 18-20 minuti. Sforna e, mentre sono roventi, glassali con la cremina fatta mescolando lo yogurt greco, i restanti 10g di proteine e un goccio di latte."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Farina (Manitoba o 00 forte)", "amount": 120, "unit": "g" },
+      { "name": "Proteine in polvere (Pisello, Vaniglia o Neutre)", "amount": 30, "unit": "g" },
+      { "name": "Latte (parzialmente scremato o vegetale)", "amount": 80, "unit": "ml" },
+      { "name": "Lievito di birra secco", "amount": 3, "unit": "g (circa mezza bustina)" },
+      { "name": "Miele (per attivare il lievito)", "amount": 5, "unit": "g" },
+      { "name": "Burro fuso (per il ripieno)", "amount": 10, "unit": "g" },
+      { "name": "Cannella in polvere", "amount": 10, "unit": "g" },
+      { "name": "Eritritolo (o zucchero)", "amount": 15, "unit": "g" },
+      { "name": "Yogurt Greco 0% (per la glassa)", "amount": 30, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 700,
+      "macros": { "protein_g": 42.0, "carbs_g": 95.0, "fat_g": 12.0, "fiber_g": 7.0 },
+      "micros": {
+        "calcium_mg": 210, "magnesium_mg": 85, "potassium_mg": 380, "sodium_mg": 290, "phosphorus_mg": 310,
+        "iron_mg": 5.2, "zinc_mg": 2.8, "copper_mg": 0.5, "manganese_mg": 1.4, "selenium_ug": 25, "iodine_ug": 18,
+        "vit_c_mg": 0, "vit_b1_mg": 0.4, "vit_b2_mg": 0.35, "vit_b3_mg": 5.0, "vit_b5_mg": 1.1, "vit_b6_mg": 0.4,
+        "vit_b9_ug": 85, "vit_b12_ug": 0.8, "vit_a_ug": 180, "vit_d_ui": 25, "vit_e_mg": 1.1, "vit_k_ug": 4
+      }
+    }
   }
 ]
