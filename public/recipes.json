@@ -797,5 +797,306 @@
         "vit_b9_ug": 110, "vit_b12_ug": 0.5, "vit_a_ug": 750, "vit_d_ui": 0, "vit_e_mg": 1.8, "vit_k_ug": 35
       }
     }
+  },
+  {
+    "id": "focaccine-yogurt-tacchino",
+    "title": "Focaccine allo Yogurt Ripiene (Tacchino e Spinaci)",
+    "category": "Pranzo",
+    "image_url": "https://www.fattoincasadabenedetta.it/wp-content/uploads/2022/03/Focaccine-in-padella-senza-lievitazione-foto-sito-4-1200x900.jpg",
+    "prep_time_min": 15,
+    "storage_notes": "Le focaccine vuote si conservano 2 giorni in un sacchetto di carta. Farcire solo al momento di consumare per non inumidire l'impasto.",
+    "preparation_steps": [
+      "In una ciotola, mescola la farina, il lievito istantaneo, un pizzico di sale e lo yogurt greco. Impasta con le mani per 2-3 minuti fino a formare un panetto liscio e non appiccicoso.",
+      "Dividi l'impasto in due o tre palline e stendile con le mani o con un matterello fino a uno spessore di circa 1 cm.",
+      "Scalda una padella antiaderente e cuoci le focaccine a fuoco medio per circa 3-4 minuti per lato, finché non si gonfiano e si dorano.",
+      "Tagliale a metà come un panino e farcisci con la fesa di tacchino, gli spinacini freschi e i pomodorini tagliati a fette."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Yogurt Greco 0%", "amount": 150, "unit": "g" },
+      { "name": "Farina (00, Avena o Farro)", "amount": 150, "unit": "g" },
+      { "name": "Lievito istantaneo per torte salate", "amount": 4, "unit": "g" },
+      { "name": "Fesa di tacchino a fette", "amount": 100, "unit": "g" },
+      { "name": "Spinacino fresco", "amount": 30, "unit": "g" },
+      { "name": "Pomodorini", "amount": 50, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 710,
+      "macros": { "protein_g": 54.0, "carbs_g": 115.0, "fat_g": 3.5, "fiber_g": 5.0 },
+      "micros": {
+        "calcium_mg": 320, "magnesium_mg": 75, "potassium_mg": 610, "sodium_mg": 890, "phosphorus_mg": 410,
+        "iron_mg": 3.2, "zinc_mg": 2.5, "copper_mg": 0.2, "manganese_mg": 1.1, "selenium_ug": 30, "iodine_ug": 15,
+        "vit_c_mg": 15, "vit_b1_mg": 0.3, "vit_b2_mg": 0.45, "vit_b3_mg": 14.0, "vit_b5_mg": 1.2, "vit_b6_mg": 0.8,
+        "vit_b9_ug": 65, "vit_b12_ug": 1.1, "vit_a_ug": 350, "vit_d_ui": 0, "vit_e_mg": 0.8, "vit_k_ug": 140
+      }
+    }
+  },
+  {
+    "id": "merluzzo-crosta-noci",
+    "title": "Merluzzo in Crosta di Noci con Broccoli",
+    "category": "Cena",
+    "image_url": "https://www.giallozafferano.it/images/179-17934/Merluzzo-in-crosta-di-noci_650x433_wm.jpg",
+    "prep_time_min": 25,
+    "storage_notes": "Conservare in frigo fino a 2 giorni. Scaldare in forno a 180°C per 5 minuti per ridare croccantezza alla panatura. Evitare il microonde che lo rende gommoso.",
+    "preparation_steps": [
+      "Preriscalda il forno a 200°C. Se usi merluzzo surgelato, assicurati di averlo fatto scongelare e tamponalo bene con carta assorbente.",
+      "Trita le noci sgusciate fino a ridurle in granella fine. Mescolale in una ciotolina con il pangrattato, il prezzemolo tritato, sale, pepe e l'olio EVO.",
+      "Disponi i filetti di merluzzo su una teglia con carta forno e distribuisci la sabbiolina di noci sulla superficie, pressando leggermente con le dita per farla aderire.",
+      "Distribuisci i broccoli tagliati a cimette piccole sulla stessa teglia, aggiungendo un pizzico di sale.",
+      "Inforna per 15-20 minuti finché la crosta non risulta dorata e i broccoli teneri ma ancora croccanti."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Cuori di merluzzo (o nasello)", "amount": 250, "unit": "g" },
+      { "name": "Noci sgusciate", "amount": 30, "unit": "g" },
+      { "name": "Pangrattato", "amount": 15, "unit": "g" },
+      { "name": "Olio EVO", "amount": 10, "unit": "g" },
+      { "name": "Prezzemolo fresco", "amount": 5, "unit": "g" },
+      { "name": "Broccoli freschi", "amount": 200, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 615,
+      "macros": { "protein_g": 57.0, "carbs_g": 29.0, "fat_g": 31.0, "fiber_g": 8.5 },
+      "micros": {
+        "calcium_mg": 185, "magnesium_mg": 125, "potassium_mg": 1350, "sodium_mg": 380, "phosphorus_mg": 680,
+        "iron_mg": 3.8, "zinc_mg": 2.9, "copper_mg": 0.6, "manganese_mg": 1.4, "selenium_ug": 85, "iodine_ug": 110,
+        "vit_c_mg": 180, "vit_b1_mg": 0.4, "vit_b2_mg": 0.35, "vit_b3_mg": 8.0, "vit_b5_mg": 1.5, "vit_b6_mg": 1.0,
+        "vit_b9_ug": 135, "vit_b12_ug": 2.5, "vit_a_ug": 120, "vit_d_ui": 45, "vit_e_mg": 2.5, "vit_k_ug": 210
+      }
+    }
+  },
+  {
+    "id": "ragu-lenticchie-rosse-basmati",
+    "title": "Ragù di Lenticchie Rosse e Riso Basmati",
+    "category": "Pranzo",
+    "image_url": "https://media-assets.lacucinaitaliana.it/photos/61f953ed983c2763df3cc6fa/1:1/w_2560%2Cc_limit/Ragu-di-lenticchie-rosse-con-pasta-corta.jpg",
+    "prep_time_min": 25,
+    "storage_notes": "Eccezionale per il meal prep, si conserva 4-5 giorni in frigo e si può congelare a porzioni. Le lenticchie decorticate mantengono bene la consistenza.",
+    "preparation_steps": [
+      "Cuoci il riso Basmati, scolalo e tienilo da parte.",
+      "Sciacqua molto bene le lenticchie rosse decorticate sotto l'acqua corrente (non serve ammollo).",
+      "In una pentola, fai soffriggere il trito di carota e sedano con un goccio d'acqua o pochissimo olio.",
+      "Aggiungi le lenticchie, la passata di pomodoro e circa un bicchiere d'acqua calda. Metti il coperchio.",
+      "Cuoci a fuoco dolce per 15-20 minuti, mescolando di tanto in tanto, finché le lenticchie non si sfaldano creando una crema densa (se si asciuga troppo, aggiungi altra acqua calda).",
+      "A fuoco spento, sala, aggiungi l'olio EVO a crudo e condisci il riso con questo ragù."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Lenticchie rosse decorticate", "amount": 100, "unit": "g" },
+      { "name": "Riso Basmati", "amount": 100, "unit": "g" },
+      { "name": "Passata di pomodoro", "amount": 150, "unit": "g" },
+      { "name": "Misto soffritto (carota, sedano)", "amount": 30, "unit": "g" },
+      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 840,
+      "macros": { "protein_g": 35.0, "carbs_g": 145.0, "fat_g": 13.0, "fiber_g": 14.5 },
+      "micros": {
+        "calcium_mg": 95, "magnesium_mg": 165, "potassium_mg": 1250, "sodium_mg": 350, "phosphorus_mg": 520,
+        "iron_mg": 8.5, "zinc_mg": 4.8, "copper_mg": 1.1, "manganese_mg": 2.2, "selenium_ug": 18, "iodine_ug": 10,
+        "vit_c_mg": 25, "vit_b1_mg": 0.7, "vit_b2_mg": 0.25, "vit_b3_mg": 7.5, "vit_b5_mg": 2.1, "vit_b6_mg": 0.6,
+        "vit_b9_ug": 480, "vit_b12_ug": 0.0, "vit_a_ug": 750, "vit_d_ui": 0, "vit_e_mg": 2.5, "vit_k_ug": 15
+      }
+    }
+  },
+  {
+    "id": "straccetti-manzo-broccoli-mandorle",
+    "title": "Straccetti di Manzo, Broccoli e Mandorle",
+    "category": "Cena",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/beef-and-broccoli-index-640a1b66df825.jpg",
+    "prep_time_min": 20,
+    "storage_notes": "Si conserva per 3 giorni in frigo. Il riso tenderà ad assorbire la salsa, quindi aggiungi un cucchiaino di acqua o salsa di soia prima di scaldare in microonde.",
+    "preparation_steps": [
+      "Cuoci il riso Basmati e lascialo da parte.",
+      "Taglia i broccoli a cimette piccole e sbollentali per 4-5 minuti in acqua (o cuocili a vapore/microonde) affinché siano cotti ma sodi.",
+      "Taglia il manzo a striscioline sottili. In una padella rovente con un filo d'olio, rosola l'aglio (se gradito) e butta la carne. Scotta a fiamma altissima per 2 minuti mescolando continuamente.",
+      "Aggiungi i broccoli cotti, le mandorle a scaglie e sfuma con la salsa di soia.",
+      "Fai saltare tutto insieme per un altro minuto in modo che la soia glassi la carne e i broccoli. Servi sul letto di riso."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Fettine di manzo magro (es. noce o girello)", "amount": 200, "unit": "g" },
+      { "name": "Broccoli freschi", "amount": 150, "unit": "g" },
+      { "name": "Mandorle a scaglie", "amount": 20, "unit": "g" },
+      { "name": "Salsa di soia", "amount": 15, "unit": "g" },
+      { "name": "Olio EVO", "amount": 5, "unit": "g" },
+      { "name": "Riso Basmati", "amount": 100, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 770,
+      "macros": { "protein_g": 58.0, "carbs_g": 92.0, "fat_g": 20.0, "fiber_g": 8.0 },
+      "micros": {
+        "calcium_mg": 165, "magnesium_mg": 150, "potassium_mg": 1380, "sodium_mg": 980, "phosphorus_mg": 650,
+        "iron_mg": 7.5, "zinc_mg": 9.5, "copper_mg": 0.7, "manganese_mg": 1.8, "selenium_ug": 45, "iodine_ug": 15,
+        "vit_c_mg": 135, "vit_b1_mg": 0.45, "vit_b2_mg": 0.65, "vit_b3_mg": 18.0, "vit_b5_mg": 2.1, "vit_b6_mg": 1.4,
+        "vit_b9_ug": 125, "vit_b12_ug": 4.5, "vit_a_ug": 110, "vit_d_ui": 5, "vit_e_mg": 6.5, "vit_k_ug": 155
+      }
+    }
+  },
+  {
+    "id": "pasta-pesto-zucchine-pollo",
+    "title": "Pasta Integrale al Pesto di Zucchine e Mandorle con Pollo",
+    "category": "Pranzo",
+    "image_url": "https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2018/06/fusilli-al-pesto-di-zucchine-e-mandorle/fusilli-pesto-zucchine-mandorle-rit.jpg",
+    "prep_time_min": 15,
+    "storage_notes": "Ottima sia calda che fredda. In frigo dura 3-4 giorni. Se si asciuga troppo, mescola bene aggiungendo un cucchiaino d'acqua al momento del consumo.",
+    "preparation_steps": [
+      "Cuoci la pasta integrale in abbondante acqua salata.",
+      "Nel frattempo, lava la zucchina e tagliala a pezzetti (puoi usarla a crudo o sbollentarla 2 minuti in acqua per un colore più brillante).",
+      "Inserisci in un frullatore/mixer le zucchine, le mandorle, il parmigiano, l'olio EVO, un pizzico di sale e mezzo mestolo di acqua di cottura della pasta. Frulla fino a ottenere un pesto cremoso.",
+      "Taglia il petto di pollo a dadini piccoli e rosolali in padella a fuoco medio-alto finché non sono ben dorati.",
+      "Scola la pasta e saltala in padella col pollo e il pesto di zucchine, aggiungendo pochissima acqua di cottura se necessario."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Pasta integrale (fusilli o penne)", "amount": 120, "unit": "g" },
+      { "name": "Zucchina cruda", "amount": 150, "unit": "g" },
+      { "name": "Mandorle sgusciate", "amount": 20, "unit": "g" },
+      { "name": "Parmigiano Reggiano", "amount": 10, "unit": "g" },
+      { "name": "Olio EVO", "amount": 5, "unit": "g" },
+      { "name": "Petto di pollo", "amount": 150, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 820,
+      "macros": { "protein_g": 60.0, "carbs_g": 85.0, "fat_g": 23.0, "fiber_g": 13.0 },
+      "micros": {
+        "calcium_mg": 285, "magnesium_mg": 210, "potassium_mg": 950, "sodium_mg": 250, "phosphorus_mg": 680,
+        "iron_mg": 5.8, "zinc_mg": 5.2, "copper_mg": 0.8, "manganese_mg": 3.8, "selenium_ug": 85, "iodine_ug": 25,
+        "vit_c_mg": 25, "vit_b1_mg": 0.6, "vit_b2_mg": 0.45, "vit_b3_mg": 26.0, "vit_b5_mg": 2.5, "vit_b6_mg": 1.4,
+        "vit_b9_ug": 95, "vit_b12_ug": 0.5, "vit_a_ug": 85, "vit_d_ui": 0, "vit_e_mg": 6.8, "vit_k_ug": 15
+      }
+    }
+  },
+  {
+    "id": "curry-vegano-tofu-cavolo-nero",
+    "title": "Curry Vegano di Tofu e Cavolo Nero con Quinoa",
+    "category": "Cena",
+    "image_url": "https://www.connoisseurusveg.com/wp-content/uploads/2021/01/tofu-curry-sq-1.jpg",
+    "prep_time_min": 20,
+    "storage_notes": "Perfetto per il meal prep. Il cavolo nero nel latte di cocco si ammorbidisce col passare dei giorni e assorbe il curry. Si conserva in frigo per 4 giorni.",
+    "preparation_steps": [
+      "Sciacqua bene la quinoa sotto l'acqua per togliere l'amaro (saponine) e cuocila in acqua bollente salata per circa 12-15 minuti. Scola e tieni da parte.",
+      "Lava il cavolo nero e rimuovi la costa centrale dura. Taglia le foglie a listarelle sottili.",
+      "Tampona il tofu fermo con carta assorbente per togliere l'acqua in eccesso, poi taglialo a cubetti.",
+      "In una padella capiente o wok, scalda un filo d'olio. Aggiungi 1-2 cucchiaini di curry in polvere e tosta le spezie per 30 secondi. Aggiungi i cubetti di tofu e rosolali per 3 minuti.",
+      "Aggiungi il cavolo nero, mezzo bicchiere d'acqua e il latte di cocco light. Copri e lascia stufare a fuoco basso per 10 minuti finché il cavolo non si ammorbidisce e il liquido diventa una crema avvolgente.",
+      "Servi il curry di tofu caldo sopra il letto di quinoa."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Tofu fermo (al naturale)", "amount": 200, "unit": "g" },
+      { "name": "Quinoa", "amount": 100, "unit": "g" },
+      { "name": "Cavolo nero fresco (pesato pulito)", "amount": 150, "unit": "g" },
+      { "name": "Latte di cocco light (in lattina o brick)", "amount": 60, "unit": "ml" },
+      { "name": "Curry in polvere", "amount": 5, "unit": "g" },
+      { "name": "Olio EVO", "amount": 5, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 720,
+      "macros": { "protein_g": 42.0, "carbs_g": 72.0, "fat_g": 26.0, "fiber_g": 16.0 },
+      "micros": {
+        "calcium_mg": 450, "magnesium_mg": 290, "potassium_mg": 1200, "sodium_mg": 150, "phosphorus_mg": 680,
+        "iron_mg": 10.5, "zinc_mg": 5.2, "copper_mg": 1.1, "manganese_mg": 3.8, "selenium_ug": 15, "iodine_ug": 5,
+        "vit_c_mg": 140, "vit_b1_mg": 0.4, "vit_b2_mg": 0.3, "vit_b3_mg": 3.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.6,
+        "vit_b9_ug": 180, "vit_b12_ug": 0.0, "vit_a_ug": 950, "vit_d_ui": 0, "vit_e_mg": 3.5, "vit_k_ug": 650
+      }
+    }
+  },
+  {
+    "id": "tempeh-patate-dolci-cavoletti",
+    "title": "Bowl Vegana: Tempeh Glassato, Patate Dolci e Cavoletti",
+    "category": "Pranzo",
+    "image_url": "https://choosingchia.com/janna/wp-content/uploads/2019/11/Balsamic-roasted-brussels-sprouts-sweet-potatoes-2.jpg",
+    "prep_time_min": 30,
+    "storage_notes": "Si conserva in frigo per 4 giorni. Le patate dolci e il tempeh sono ottimi anche mangiati a temperatura ambiente, ideale se non hai un microonde all'università.",
+    "preparation_steps": [
+      "Preriscalda il forno a 200°C.",
+      "Lava le patate dolci (americane) e tagliale a cubetti regolari. Pulisci i cavoletti di Bruxelles (o i broccoli) e tagliali a metà. Disponili su una teglia con carta forno, condisci con un filo d'olio, sale e pepe e inforna per 25-30 minuti.",
+      "Nel frattempo, taglia il tempeh a fette o cubetti. In una ciotolina, mescola la salsa di soia con lo sciroppo d'acero (o poco zucchero di canna) per fare la glassa.",
+      "In una padella antiaderente, scotta il tempeh a fuoco vivo finché non è dorato su entrambi i lati (circa 4 minuti).",
+      "Abbassa la fiamma, versa la glassa di soia sul tempeh e fai restringere per 1-2 minuti finché non diventa lucido e appiccicoso.",
+      "Componi la tua bowl con le verdure arrosto ad alto contenuto di fibre e il tempeh glassato al centro."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Tempeh al naturale", "amount": 150, "unit": "g" },
+      { "name": "Patate dolci (Batata)", "amount": 300, "unit": "g" },
+      { "name": "Cavoletti di Bruxelles (o Broccoli)", "amount": 200, "unit": "g" },
+      { "name": "Salsa di soia", "amount": 15, "unit": "g" },
+      { "name": "Sciroppo d'acero (o zucchero/miele)", "amount": 5, "unit": "g" },
+      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 715,
+      "macros": { "protein_g": 38.0, "carbs_g": 85.0, "fat_g": 22.0, "fiber_g": 18.5 },
+      "micros": {
+        "calcium_mg": 280, "magnesium_mg": 210, "potassium_mg": 1750, "sodium_mg": 850, "phosphorus_mg": 560,
+        "iron_mg": 6.8, "zinc_mg": 4.5, "copper_mg": 0.8, "manganese_mg": 2.1, "selenium_ug": 10, "iodine_ug": 12,
+        "vit_c_mg": 185, "vit_b1_mg": 0.35, "vit_b2_mg": 0.5, "vit_b3_mg": 7.0, "vit_b5_mg": 2.2, "vit_b6_mg": 0.9,
+        "vit_b9_ug": 155, "vit_b12_ug": 0.0, "vit_a_ug": 2200, "vit_d_ui": 0, "vit_e_mg": 2.8, "vit_k_ug": 320
+      }
+    }
+  },
+  {
+    "id": "curry-pollo-broccoli-ceci",
+    "title": "Curry di Pollo, Broccoli e Ceci (High Fiber)",
+    "category": "Cena",
+    "image_url": "https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2019/11/curry-di-pollo-con-ceci-e-spinaci/curry-pollo-ceci-spinaci-rit.jpg",
+    "prep_time_min": 20,
+    "storage_notes": "Eccezionale per il meal prep. I broccoli nel curry si ammorbidiscono e assorbono il sapore. Conservare in frigo per 4 giorni.",
+    "preparation_steps": [
+      "Dividi il broccolo in cimette piccole. Sbollentale in acqua per 3 minuti o passale al microonde affinché siano cotte ma ancora tenaci.",
+      "Cuoci il riso Basmati a parte.",
+      "In una padella capiente, scalda l'olio EVO e tosta un cucchiaio abbondante di curry in polvere per 30 secondi (libererà tutti gli oli essenziali).",
+      "Aggiungi il petto di pollo a dadini e rosolalo nel curry a fiamma viva per 3-4 minuti.",
+      "Aggiungi i ceci ben sgocciolati, le cimette di broccolo e mezzo bicchiere d'acqua (o latte di soia/cocco per una crema più densa).",
+      "Abbassa la fiamma, metti il coperchio e lascia restringere per 5 minuti. Servi il curry sul letto di riso."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Petto di pollo", "amount": 150, "unit": "g" },
+      { "name": "Broccoli freschi", "amount": 200, "unit": "g" },
+      { "name": "Ceci in scatola (sgocciolati)", "amount": 100, "unit": "g" },
+      { "name": "Riso Basmati", "amount": 80, "unit": "g" },
+      { "name": "Curry in polvere", "amount": 5, "unit": "g" },
+      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 670,
+      "macros": { "protein_g": 54.0, "carbs_g": 78.0, "fat_g": 14.5, "fiber_g": 15.0 },
+      "micros": {
+        "calcium_mg": 165, "magnesium_mg": 115, "potassium_mg": 1250, "sodium_mg": 410, "phosphorus_mg": 520,
+        "iron_mg": 5.2, "zinc_mg": 4.1, "copper_mg": 0.6, "manganese_mg": 1.8, "selenium_ug": 35, "iodine_ug": 15,
+        "vit_c_mg": 175, "vit_b1_mg": 0.4, "vit_b2_mg": 0.35, "vit_b3_mg": 19.0, "vit_b5_mg": 2.1, "vit_b6_mg": 1.4,
+        "vit_b9_ug": 190, "vit_b12_ug": 0.5, "vit_a_ug": 130, "vit_d_ui": 0, "vit_e_mg": 2.5, "vit_k_ug": 200
+      }
+    }
+  },
+  {
+    "id": "chili-vegano-tofu-fagioli",
+    "title": "Chili Vegano (Tofu Sbriciolato e Fagioli Neri)",
+    "category": "Pranzo",
+    "image_url": "https://cookieandkate.com/images/2015/11/vegetarian-chili-recipe-2.jpg",
+    "prep_time_min": 25,
+    "storage_notes": "Come ogni chili, il giorno dopo è ancora più buono. Si congela perfettamente in monoporzioni. In frigo dura fino a 5 giorni.",
+    "preparation_steps": [
+      "Cuoci il riso a parte.",
+      "Prendi il panetto di tofu (meglio se affumicato per dare il sapore 'barbecue', ma va bene anche naturale) e asciugalo con carta assorbente. Sbriciolalo grossolanamente con le mani in una ciotola (deve sembrare macinato).",
+      "In una padella o pentola, scalda l'olio EVO e fai tostare le spezie (paprika affumicata, cumino, un pizzico di peperoncino).",
+      "Aggiungi il tofu sbriciolato e saltalo a fiamma viva per 4-5 minuti finché non fa una leggera crosticina e si insaporisce bene.",
+      "Aggiungi i fagioli neri e il mais sgocciolati, e infine la passata di pomodoro. Abbassa la fiamma.",
+      "Lascia sobbollire per 15 minuti finché il sugo non diventa denso e cremoso. Servi nella bowl separato dal riso."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Tofu al naturale o Affumicato", "amount": 150, "unit": "g" },
+      { "name": "Fagioli Neri in scatola (sgocciolati)", "amount": 120, "unit": "g" },
+      { "name": "Mais dolce in scatola", "amount": 50, "unit": "g" },
+      { "name": "Passata di pomodoro", "amount": 150, "unit": "g" },
+      { "name": "Mix spezie (Paprika, Cumino, Peperoncino)", "amount": 5, "unit": "g" },
+      { "name": "Olio EVO", "amount": 10, "unit": "g" },
+      { "name": "Riso Integrale o Basmati", "amount": 100, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 790,
+      "macros": { "protein_g": 42.0, "carbs_g": 108.0, "fat_g": 22.0, "fiber_g": 17.5 },
+      "micros": {
+        "calcium_mg": 380, "magnesium_mg": 210, "potassium_mg": 1150, "sodium_mg": 450, "phosphorus_mg": 580,
+        "iron_mg": 8.5, "zinc_mg": 4.2, "copper_mg": 0.8, "manganese_mg": 2.5, "selenium_ug": 22, "iodine_ug": 10,
+        "vit_c_mg": 15, "vit_b1_mg": 0.6, "vit_b2_mg": 0.35, "vit_b3_mg": 6.0, "vit_b5_mg": 1.2, "vit_b6_mg": 0.5,
+        "vit_b9_ug": 210, "vit_b12_ug": 0.0, "vit_a_ug": 450, "vit_d_ui": 0, "vit_e_mg": 2.8, "vit_k_ug": 12
+      }
+    }
   }
 ]
