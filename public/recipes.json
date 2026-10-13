@@ -1134,5 +1134,75 @@
         "vit_b9_ug": 85, "vit_b12_ug": 0.8, "vit_a_ug": 180, "vit_d_ui": 25, "vit_e_mg": 1.1, "vit_k_ug": 4
       }
     }
+  },
+  {
+    "id": "spiced-chicken-basmati-bowl",
+    "title": "Bowl di Pollo Speziato, Basmati, Batata e Broccoli",
+    "category": "Pranzo",
+    "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 35,
+    "storage_notes": "Si conserva 4 giorni in frigo in contenitore ermetico. Il pollo cotto e il riso possono essere congelati per un massimo di 2-3 mesi. Per rigenerare al microonde, aggiungere un cucchiaio d'acqua sul riso prima di scaldare per 2 minuti.",
+    "preparation_steps": [
+      "Taglia il petto di pollo a bocconcini e marinalo per almeno 20 minuti con yogurt greco magro, paprika dolce, curcuma, origano, sale e pepe.",
+      "Lava e pela la patata dolce, tagliala a cubetti regolari (circa 1,5 cm), disponila su una teglia con carta forno e cuoci a 200°C per 25 minuti.",
+      "Cuoci il riso basmati per assorbimento o in abbondante acqua salata, scolalo al dente e lascialo raffreddare.",
+      "Dividi i broccoli in piccole cimette e cuocili a vapore per 6-8 minuti, mantenendoli croccanti e di colore verde brillante.",
+      "Scalda una padella antiaderente e cuoci i bocconcini di pollo marinati a fuoco vivace per 7-8 minuti finché non sono ben dorati.",
+      "Componi la bowl disponendo il riso basmati, i cubetti di batata, i broccoli e il pollo speziato, completando con un filo di olio EVO a crudo."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Petto di pollo", "amount": 160, "unit": "g" },
+      { "name": "Riso basmati (a crudo)", "amount": 60, "unit": "g" },
+      { "name": "Patata dolce (batata)", "amount": 100, "unit": "g" },
+      { "name": "Cimette di broccolo", "amount": 150, "unit": "g" },
+      { "name": "Yogurt greco magro 0%", "amount": 30, "unit": "g" },
+      { "name": "Olio extravergine d'oliva", "amount": 10, "unit": "g" },
+      { "name": "Mix spezie (paprika dolce, curcuma, origano)", "amount": 3, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 558,
+      "macros": { "protein_g": 44.5, "carbs_g": 62.4, "fat_g": 13.8, "fiber_g": 7.2 },
+      "micros": {
+        "calcium_mg": 135, "magnesium_mg": 78, "potassium_mg": 980, "sodium_mg": 280, "phosphorus_mg": 480,
+        "iron_mg": 2.9, "zinc_mg": 2.4, "copper_mg": 0.22, "manganese_mg": 0.65, "selenium_ug": 34, "iodine_ug": 18,
+        "vit_c_mg": 115, "vit_b1_mg": 0.24, "vit_b2_mg": 0.32, "vit_b3_mg": 16.8, "vit_b5_mg": 2.1, "vit_b6_mg": 1.25,
+        "vit_b9_ug": 110, "vit_b12_ug": 0.6, "vit_a_ug": 780, "vit_d_ui": 8, "vit_e_mg": 2.8, "vit_k_ug": 145
+      }
+    }
+  },
+  {
+    "id": "spelt-roasted-chickpea-feta-salad",
+    "title": "Insalata Fredda di Farro con Ceci Arrostiti, Feta e Spinacini",
+    "category": "Pranzo",
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1000&q=85",
+    "prep_time_min": 30,
+    "storage_notes": "Si conserva perfettamente in frigorifero per 4-5 giorni in un contenitore a chiusura ermetica. Pioggia o spinacini freschi sul fondo per preservarne la consistenza. Da consumare freddo o a temperatura ambiente; sconsigliata la congelazione per via della feta e degli spinacini crudi.",
+    "preparation_steps": [
+      "Lava e lessa il farro perlato in abbondante acqua salata per circa 20-25 minuti, scolalo e lascialo raffreddare completamente.",
+      "Sciacqua e asciuga accuratamente i ceci precotti con carta assorbente per rimuovere tutta l'umidità superficiale.",
+      "Condisci i ceci con paprika, rosmarino tritato e un cucchiaino d'olio, poi tostali in forno o air fryer a 200°C per 15-18 minuti finché non risultano croccanti.",
+      "Taglia a listarelle i pomodori secchi e sbriciola la feta greca con le mani.",
+      "Sul fondo della schiscetta o ciotola disponi le foglie di spinacino fresco lavate e ben asciugate.",
+      "Unisci il farro, i ceci tostati, la feta, le olive taggiasche e i pomodori secchi; condisci con l'olio extravergine d'oliva e mescola delicatamente prima di chiudere."
+    ],
+    "ingredients_single_serving": [
+      { "name": "Farro perlato (a crudo)", "amount": 65, "unit": "g" },
+      { "name": "Ceci cotti (sgocciolati)", "amount": 130, "unit": "g" },
+      { "name": "Feta DOP", "amount": 40, "unit": "g" },
+      { "name": "Spinacini freschi baby", "amount": 50, "unit": "g" },
+      { "name": "Pomodori secchi sott'olio (sgocciolati)", "amount": 20, "unit": "g" },
+      { "name": "Olive taggiasche denocciolate", "amount": 15, "unit": "g" },
+      { "name": "Olio extravergine d'oliva", "amount": 8, "unit": "g" }
+    ],
+    "nutrition_single_serving": {
+      "calories": 564,
+      "macros": { "protein_g": 24.2, "carbs_g": 61.8, "fat_g": 22.8, "fiber_g": 13.5 },
+      "micros": {
+        "calcium_mg": 320, "magnesium_mg": 115, "potassium_mg": 740, "sodium_mg": 860, "phosphorus_mg": 410,
+        "iron_mg": 5.4, "zinc_mg": 3.1, "copper_mg": 0.48, "manganese_mg": 1.9, "selenium_ug": 19, "iodine_ug": 22,
+        "vit_c_mg": 19, "vit_b1_mg": 0.38, "vit_b2_mg": 0.28, "vit_b3_mg": 4.1, "vit_b5_mg": 1.1, "vit_b6_mg": 0.42,
+        "vit_b9_ug": 195, "vit_b12_ug": 0.7, "vit_a_ug": 260, "vit_d_ui": 14, "vit_e_mg": 3.6, "vit_k_ug": 210
+      }
+    }
   }
 ]
