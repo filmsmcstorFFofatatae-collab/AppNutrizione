@@ -2,10 +2,7 @@
   {
     "id": "chicken-crust-pizza",
     "title": "Chicken Crust Pizza (Base di Pollo)",
-    "category": "Cena",
     "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1000&q=85",
-    "prep_time_min": 40,
-    "storage_notes": "Si conserva 3 giorni in frigo. Scaldare in forno o air fryer per 4 minuti per mantenerla croccante.",
     "preparation_steps": [
       "Preriscalda il forno a 200°C e rivesti una teglia con carta forno.",
       "Impasta il macinato di pollo con uova, parmigiano, aglio in polvere, origano, sale e pepe.",
@@ -14,31 +11,80 @@
       "Inforna a 220°C per altri 8-10 minuti finché il formaggio non si scioglie completamente."
     ],
     "ingredients_single_serving": [
-      { "name": "Macinato di pollo", "amount": 150, "unit": "g" },
-      { "name": "Uova", "amount": 0.67, "unit": "pz" },
-      { "name": "Parmigiano Reggiano", "amount": 17, "unit": "g" },
-      { "name": "Passata di pomodoro", "amount": 35, "unit": "g" },
-      { "name": "Mozzarella", "amount": 35, "unit": "g" },
-      { "name": "Salame / Pepperoni", "amount": 15, "unit": "g" }
+      {
+        "name": "Macinato di pollo",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Uova",
+        "amount": 0.67,
+        "unit": "pz"
+      },
+      {
+        "name": "Parmigiano Reggiano",
+        "amount": 17,
+        "unit": "g"
+      },
+      {
+        "name": "Passata di pomodoro",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "Salame / Pepperoni",
+        "amount": 15,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 510,
-      "macros": { "protein_g": 58.5, "carbs_g": 4.5, "fat_g": 28.0, "fiber_g": 0.8 },
+      "macros": {
+        "protein_g": 58.5,
+        "carbs_g": 4.5,
+        "fat_g": 28.0,
+        "fiber_g": 0.8
+      },
       "micros": {
-        "calcium_mg": 380, "magnesium_mg": 52, "potassium_mg": 620, "sodium_mg": 890, "phosphorus_mg": 460,
-        "iron_mg": 2.4, "zinc_mg": 3.8, "copper_mg": 0.15, "manganese_mg": 0.1, "selenium_ug": 42, "iodine_ug": 35,
-        "vit_c_mg": 6, "vit_b1_mg": 0.18, "vit_b2_mg": 0.45, "vit_b3_mg": 12.5, "vit_b5_mg": 1.6, "vit_b6_mg": 0.85,
-        "vit_b9_ug": 32, "vit_b12_ug": 1.4, "vit_a_ug": 180, "vit_d_ui": 45, "vit_e_mg": 0.9, "vit_k_ug": 8
+        "calcium_mg": 380,
+        "magnesium_mg": 52,
+        "potassium_mg": 620,
+        "sodium_mg": 890,
+        "phosphorus_mg": 460,
+        "iron_mg": 2.4,
+        "zinc_mg": 3.8,
+        "copper_mg": 0.15,
+        "manganese_mg": 0.1,
+        "selenium_ug": 42,
+        "iodine_ug": 35,
+        "vit_c_mg": 6,
+        "vit_b1_mg": 0.18,
+        "vit_b2_mg": 0.45,
+        "vit_b3_mg": 12.5,
+        "vit_b5_mg": 1.6,
+        "vit_b6_mg": 0.85,
+        "vit_b9_ug": 32,
+        "vit_b12_ug": 1.4,
+        "vit_a_ug": 180,
+        "vit_d_ui": 45,
+        "vit_e_mg": 0.9,
+        "vit_k_ug": 8
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "riso-cuociriso-pollo-gamberi",
     "title": "💥Riso Parboiled in Cuociriso (Pollo o Gamberi)",
-    "category": "Pranzo",
     "image_url": "https://blog.cookaround.com/vittoria70/wp-content/uploads/2015/03/DSCF0949.jpg",
-    "prep_time_min": 5,
-    "storage_notes": "Si conserva fino a 4 giorni in frigo. Il riso parboiled non scuoce e non si incolla.",
     "preparation_steps": [
       "Sciacqua il riso parboiled e taglia zucchine e carote a cubetti piccolissimi (meno di 1 cm).",
       "Inserisci nel cuociriso il riso, le verdure, l'acqua (circa 200ml) e un pizzico di sale.",
@@ -47,29 +93,70 @@
       "A fine cottura, condisci con l'olio EVO a crudo e mescola bene."
     ],
     "ingredients_single_serving": [
-      { "name": "Riso Parboiled Integrale", "amount": 100, "unit": "g" },
-      { "name": "Petto di pollo (o Gamberetti sgusciati)", "amount": 180, "unit": "g" },
-      { "name": "Zucchine e Carote", "amount": 150, "unit": "g" },
-      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+      {
+        "name": "Riso Parboiled Integrale",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Petto di pollo (o Gamberetti sgusciati)",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "Zucchine e Carote",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 10,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 610,
-      "macros": { "protein_g": 48.0, "carbs_g": 75.0, "fat_g": 13.0, "fiber_g": 6.0 },
+      "macros": {
+        "protein_g": 48.0,
+        "carbs_g": 75.0,
+        "fat_g": 13.0,
+        "fiber_g": 6.0
+      },
       "micros": {
-        "calcium_mg": 45, "magnesium_mg": 120, "potassium_mg": 750, "sodium_mg": 320, "phosphorus_mg": 380,
-        "iron_mg": 2.5, "zinc_mg": 2.1, "copper_mg": 0.3, "manganese_mg": 1.5, "selenium_ug": 30, "iodine_ug": 10,
-        "vit_c_mg": 15, "vit_b1_mg": 0.4, "vit_b2_mg": 0.2, "vit_b3_mg": 12.0, "vit_b5_mg": 1.5, "vit_b6_mg": 0.8,
-        "vit_b9_ug": 25, "vit_b12_ug": 0.3, "vit_a_ug": 400, "vit_d_ui": 0, "vit_e_mg": 2.0, "vit_k_ug": 15
+        "calcium_mg": 45,
+        "magnesium_mg": 120,
+        "potassium_mg": 750,
+        "sodium_mg": 320,
+        "phosphorus_mg": 380,
+        "iron_mg": 2.5,
+        "zinc_mg": 2.1,
+        "copper_mg": 0.3,
+        "manganese_mg": 1.5,
+        "selenium_ug": 30,
+        "iodine_ug": 10,
+        "vit_c_mg": 15,
+        "vit_b1_mg": 0.4,
+        "vit_b2_mg": 0.2,
+        "vit_b3_mg": 12.0,
+        "vit_b5_mg": 1.5,
+        "vit_b6_mg": 0.8,
+        "vit_b9_ug": 25,
+        "vit_b12_ug": 0.3,
+        "vit_a_ug": 400,
+        "vit_d_ui": 0,
+        "vit_e_mg": 2.0,
+        "vit_k_ug": 15
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "farro-freddo-tacchino-ceci",
     "title": "💥Farro Freddo con Tacchino Arrosto e Ceci",
-    "category": "Pranzo",
     "image_url": "https://media-assets.lacucinaitaliana.it/photos/64c7faa1b7b199be1c0d72ba/1:1/w_2560%2Cc_limit/insalatina-di-farro%2C-ceci-e-fragole.jpg",
-    "prep_time_min": 10,
-    "storage_notes": "Perfetto da mangiare freddo. Si conserva in frigo per 4 giorni, i sapori si amalgameranno meglio col tempo.",
     "preparation_steps": [
       "Cuoci il farro in abbondante acqua salata, scolalo e passalo sotto l'acqua fredda per bloccare la cottura.",
       "Taglia la fesa di tacchino arrosto a cubetti spessi.",
@@ -78,29 +165,70 @@
       "Condisci con olio EVO, sale, pepe e un cucchiaio di succo di limone per dare freschezza."
     ],
     "ingredients_single_serving": [
-      { "name": "Farro perlato", "amount": 100, "unit": "g" },
-      { "name": "Fesa di tacchino arrosto (al taglio, in un'unica fetta spessa)", "amount": 120, "unit": "g" },
-      { "name": "Ceci in scatola (sgocciolati)", "amount": 80, "unit": "g" },
-      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+      {
+        "name": "Farro perlato",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Fesa di tacchino arrosto (al taglio, in un'unica fetta spessa)",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Ceci in scatola (sgocciolati)",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 10,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 640,
-      "macros": { "protein_g": 45.0, "carbs_g": 82.0, "fat_g": 14.5, "fiber_g": 11.0 },
+      "macros": {
+        "protein_g": 45.0,
+        "carbs_g": 82.0,
+        "fat_g": 14.5,
+        "fiber_g": 11.0
+      },
       "micros": {
-        "calcium_mg": 65, "magnesium_mg": 140, "potassium_mg": 580, "sodium_mg": 650, "phosphorus_mg": 310,
-        "iron_mg": 4.2, "zinc_mg": 3.8, "copper_mg": 0.4, "manganese_mg": 2.1, "selenium_ug": 25, "iodine_ug": 15,
-        "vit_c_mg": 10, "vit_b1_mg": 0.3, "vit_b2_mg": 0.25, "vit_b3_mg": 9.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.6,
-        "vit_b9_ug": 85, "vit_b12_ug": 0.4, "vit_a_ug": 50, "vit_d_ui": 0, "vit_e_mg": 2.2, "vit_k_ug": 10
+        "calcium_mg": 65,
+        "magnesium_mg": 140,
+        "potassium_mg": 580,
+        "sodium_mg": 650,
+        "phosphorus_mg": 310,
+        "iron_mg": 4.2,
+        "zinc_mg": 3.8,
+        "copper_mg": 0.4,
+        "manganese_mg": 2.1,
+        "selenium_ug": 25,
+        "iodine_ug": 15,
+        "vit_c_mg": 10,
+        "vit_b1_mg": 0.3,
+        "vit_b2_mg": 0.25,
+        "vit_b3_mg": 9.5,
+        "vit_b5_mg": 1.2,
+        "vit_b6_mg": 0.6,
+        "vit_b9_ug": 85,
+        "vit_b12_ug": 0.4,
+        "vit_a_ug": 50,
+        "vit_d_ui": 0,
+        "vit_e_mg": 2.2,
+        "vit_k_ug": 10
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "white-chili-manzo-riso",
     "title": "💥Chili Bianco di Manzo con Riso (Senza Pomodoro)",
-    "category": "Cena",
     "image_url": "https://hips.hearstapps.com/hmg-prod/images/white-chicken-chili-index-64d3abcdee764.jpg?crop=0.502xw:1.00xh;0.288xw,0&resize=1200:*",
-    "prep_time_min": 20,
-    "storage_notes": "Eccezionale per il congelatore. In frigo dura 4 giorni e riscaldato diventa ancora più saporito.",
     "preparation_steps": [
       "Cuoci il riso Basmati a parte e lascialo raffreddare.",
       "In una padella o pentola, rosola il macinato di manzo magro. Rimuovi l'eventuale grasso in eccesso rilasciato.",
@@ -110,29 +238,70 @@
       "Componi il contenitore mettendo il chili da una parte e il riso bianco dall'altra."
     ],
     "ingredients_single_serving": [
-      { "name": "Macinato di manzo magro (5% grassi)", "amount": 150, "unit": "g" },
-      { "name": "Fagioli Rossi in scatola (sgocciolati)", "amount": 120, "unit": "g" },
-      { "name": "Riso Basmati", "amount": 80, "unit": "g" },
-      { "name": "Mix spezie (cumino, paprika, aglio)", "amount": 5, "unit": "g" }
+      {
+        "name": "Macinato di manzo magro (5% grassi)",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Fagioli Rossi in scatola (sgocciolati)",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Riso Basmati",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Mix spezie (cumino, paprika, aglio)",
+        "amount": 5,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 710,
-      "macros": { "protein_g": 48.0, "carbs_g": 85.0, "fat_g": 18.0, "fiber_g": 10.0 },
+      "macros": {
+        "protein_g": 48.0,
+        "carbs_g": 85.0,
+        "fat_g": 18.0,
+        "fiber_g": 10.0
+      },
       "micros": {
-        "calcium_mg": 85, "magnesium_mg": 130, "potassium_mg": 920, "sodium_mg": 410, "phosphorus_mg": 450,
-        "iron_mg": 6.5, "zinc_mg": 7.2, "copper_mg": 0.5, "manganese_mg": 1.4, "selenium_ug": 35, "iodine_ug": 12,
-        "vit_c_mg": 2, "vit_b1_mg": 0.4, "vit_b2_mg": 0.4, "vit_b3_mg": 8.0, "vit_b5_mg": 1.1, "vit_b6_mg": 0.9,
-        "vit_b9_ug": 120, "vit_b12_ug": 3.5, "vit_a_ug": 15, "vit_d_ui": 5, "vit_e_mg": 0.5, "vit_k_ug": 8
+        "calcium_mg": 85,
+        "magnesium_mg": 130,
+        "potassium_mg": 920,
+        "sodium_mg": 410,
+        "phosphorus_mg": 450,
+        "iron_mg": 6.5,
+        "zinc_mg": 7.2,
+        "copper_mg": 0.5,
+        "manganese_mg": 1.4,
+        "selenium_ug": 35,
+        "iodine_ug": 12,
+        "vit_c_mg": 2,
+        "vit_b1_mg": 0.4,
+        "vit_b2_mg": 0.4,
+        "vit_b3_mg": 8.0,
+        "vit_b5_mg": 1.1,
+        "vit_b6_mg": 0.9,
+        "vit_b9_ug": 120,
+        "vit_b12_ug": 3.5,
+        "vit_a_ug": 15,
+        "vit_d_ui": 5,
+        "vit_e_mg": 0.5,
+        "vit_k_ug": 8
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "wrap-pollo-congelare",
     "title": "Wrap Iperproteico da Congelare",
-    "category": "Cena",
     "image_url": "https://simply-delicious-food.com/wp-content/uploads/2019/04/tzatziki-chicken-wraps-1.jpg",
-    "prep_time_min": 15,
-    "storage_notes": "Avvolgi strettamente in carta alluminio e metti in freezer. Per consumare: scalda al microonde (senza alluminio) per 3 min, poi ripassa in padella per renderlo croccante.",
     "preparation_steps": [
       "Cuoci gli straccetti di pollo in padella con sale e spezie a piacere.",
       "Cuoci il riso (se non ne hai già di pronto dal meal prep) e lascialo intiepidire.",
@@ -141,29 +310,70 @@
       "Non mettere verdure crude (come lattuga o pomodoro) perché rovinerebbero il wrap se congelato."
     ],
     "ingredients_single_serving": [
-      { "name": "Piadina grande / Tortilla wrap", "amount": 1, "unit": "pz (circa 70g)" },
-      { "name": "Petto di pollo a straccetti", "amount": 150, "unit": "g" },
-      { "name": "Riso Basmati cotto", "amount": 80, "unit": "g" },
-      { "name": "Formaggio Cheddar o Edamer", "amount": 20, "unit": "g" }
+      {
+        "name": "Piadina grande / Tortilla wrap",
+        "amount": 1,
+        "unit": "pz (circa 70g)"
+      },
+      {
+        "name": "Petto di pollo a straccetti",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Riso Basmati cotto",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Formaggio Cheddar o Edamer",
+        "amount": 20,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 650,
-      "macros": { "protein_g": 52.0, "carbs_g": 72.0, "fat_g": 16.0, "fiber_g": 3.5 },
+      "macros": {
+        "protein_g": 52.0,
+        "carbs_g": 72.0,
+        "fat_g": 16.0,
+        "fiber_g": 3.5
+      },
       "micros": {
-        "calcium_mg": 210, "magnesium_mg": 85, "potassium_mg": 520, "sodium_mg": 880, "phosphorus_mg": 390,
-        "iron_mg": 3.2, "zinc_mg": 2.8, "copper_mg": 0.2, "manganese_mg": 0.8, "selenium_ug": 38, "iodine_ug": 25,
-        "vit_c_mg": 0, "vit_b1_mg": 0.25, "vit_b2_mg": 0.35, "vit_b3_mg": 16.0, "vit_b5_mg": 1.4, "vit_b6_mg": 1.2,
-        "vit_b9_ug": 45, "vit_b12_ug": 0.6, "vit_a_ug": 90, "vit_d_ui": 15, "vit_e_mg": 1.1, "vit_k_ug": 5
+        "calcium_mg": 210,
+        "magnesium_mg": 85,
+        "potassium_mg": 520,
+        "sodium_mg": 880,
+        "phosphorus_mg": 390,
+        "iron_mg": 3.2,
+        "zinc_mg": 2.8,
+        "copper_mg": 0.2,
+        "manganese_mg": 0.8,
+        "selenium_ug": 38,
+        "iodine_ug": 25,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.25,
+        "vit_b2_mg": 0.35,
+        "vit_b3_mg": 16.0,
+        "vit_b5_mg": 1.4,
+        "vit_b6_mg": 1.2,
+        "vit_b9_ug": 45,
+        "vit_b12_ug": 0.6,
+        "vit_a_ug": 90,
+        "vit_d_ui": 15,
+        "vit_e_mg": 1.1,
+        "vit_k_ug": 5
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "cookies-ceci-proteici",
     "title": "Protein Cookies ai Ceci e Cioccolato",
-    "category": "Spuntini",
     "image_url": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2024/01/Chickpea-Peanut-Butter-Cookies-2.jpg",
-    "prep_time_min": 20,
-    "storage_notes": "Si conservano in un contenitore ermetico a temperatura ambiente per 3-4 giorni, o in frigo per una settimana. Ottimi anche congelati.",
     "preparation_steps": [
       "Preriscalda il forno a 180°C. Sciacqua benissimo i ceci sotto l'acqua corrente per rimuovere il sale e asciugali.",
       "In un frullatore, inserisci i ceci, il burro di arachidi, le proteine in polvere, il miele (o dolcificante) e il lievito. Frulla fino a ottenere un impasto liscio e denso.",
@@ -172,31 +382,79 @@
       "Forma 3 biscotti con le mani leggermente umide, schiacciali su una teglia con carta forno e cuoci per 12-15 minuti. Fai raffreddare completamente prima di toccarli (da caldi sono fragili)."
     ],
     "ingredients_single_serving": [
-      { "name": "Ceci in scatola (sgocciolati)", "amount": 100, "unit": "g" },
-      { "name": "Burro di arachidi 100%", "amount": 20, "unit": "g" },
-      { "name": "Proteine in polvere (Vaniglia)", "amount": 15, "unit": "g" },
-      { "name": "Gocce di cioccolato fondente", "amount": 10, "unit": "g" },
-      { "name": "Miele o Sciroppo d'acero", "amount": 10, "unit": "g" },
-      { "name": "Lievito per dolci", "amount": 2, "unit": "g" }
+      {
+        "name": "Ceci in scatola (sgocciolati)",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Burro di arachidi 100%",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Proteine in polvere (Vaniglia)",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Gocce di cioccolato fondente",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Miele o Sciroppo d'acero",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Lievito per dolci",
+        "amount": 2,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 375,
-      "macros": { "protein_g": 24.0, "carbs_g": 34.0, "fat_g": 16.0, "fiber_g": 9.0 },
+      "macros": {
+        "protein_g": 24.0,
+        "carbs_g": 34.0,
+        "fat_g": 16.0,
+        "fiber_g": 9.0
+      },
       "micros": {
-        "calcium_mg": 75, "magnesium_mg": 95, "potassium_mg": 410, "sodium_mg": 180, "phosphorus_mg": 210,
-        "iron_mg": 3.5, "zinc_mg": 2.2, "copper_mg": 0.4, "manganese_mg": 1.2, "selenium_ug": 12, "iodine_ug": 5,
-        "vit_c_mg": 1, "vit_b1_mg": 0.15, "vit_b2_mg": 0.1, "vit_b3_mg": 3.0, "vit_b5_mg": 0.5, "vit_b6_mg": 0.2,
-        "vit_b9_ug": 85, "vit_b12_ug": 0.5, "vit_a_ug": 5, "vit_d_ui": 0, "vit_e_mg": 2.5, "vit_k_ug": 4
+        "calcium_mg": 75,
+        "magnesium_mg": 95,
+        "potassium_mg": 410,
+        "sodium_mg": 180,
+        "phosphorus_mg": 210,
+        "iron_mg": 3.5,
+        "zinc_mg": 2.2,
+        "copper_mg": 0.4,
+        "manganese_mg": 1.2,
+        "selenium_ug": 12,
+        "iodine_ug": 5,
+        "vit_c_mg": 1,
+        "vit_b1_mg": 0.15,
+        "vit_b2_mg": 0.1,
+        "vit_b3_mg": 3.0,
+        "vit_b5_mg": 0.5,
+        "vit_b6_mg": 0.2,
+        "vit_b9_ug": 85,
+        "vit_b12_ug": 0.5,
+        "vit_a_ug": 5,
+        "vit_d_ui": 0,
+        "vit_e_mg": 2.5,
+        "vit_k_ug": 4
       }
-    }
+    },
+    "categories": [
+      "MERENDA"
+    ]
   },
   {
     "id": "💥budino-proteico-cioccolato",
     "title": "Budino Proteico al Cioccolato Fondente",
-    "category": "Spuntini",
     "image_url": "https://media-assets.lacucinaitaliana.it/photos/620fbf26eada9bef3c39589d/1:1/w_2560%2Cc_limit/budino-classico-al-cioccolato.jpg",
-    "prep_time_min": 5,
-    "storage_notes": "Si conserva in frigo nei vasetti di vetro sigillati per 4-5 giorni. La consistenza migliora dopo qualche ora di riposo.",
     "preparation_steps": [
       "In un pentolino a fuoco spento, setaccia l'amido di mais, il cacao amaro e le proteine in polvere.",
       "Aggiungi un cucchiaio di latte e mescola vigorosamente per creare una pastella senza grumi, poi versa il resto del latte a filo.",
@@ -205,30 +463,74 @@
       "Spegni il fuoco, aggiungi il dolcificante a piacere (se le proteine non erano già dolci), versa nel vasetto e lascia raffreddare in frigo."
     ],
     "ingredients_single_serving": [
-      { "name": "Latte (parzialmente scremato o soia)", "amount": 250, "unit": "ml" },
-      { "name": "Amido di mais (Maizena)", "amount": 20, "unit": "g" },
-      { "name": "Proteine in polvere (Cioccolato o neutre)", "amount": 25, "unit": "g" },
-      { "name": "Cacao amaro in polvere", "amount": 10, "unit": "g" },
-      { "name": "Dolcificante (es. Eritritolo)", "amount": 0, "unit": "a piacere" }
+      {
+        "name": "Latte (parzialmente scremato o soia)",
+        "amount": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "Amido di mais (Maizena)",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Proteine in polvere (Cioccolato o neutre)",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Cacao amaro in polvere",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Dolcificante (es. Eritritolo)",
+        "amount": 0,
+        "unit": "a piacere"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 320,
-      "macros": { "protein_g": 30.0, "carbs_g": 32.0, "fat_g": 7.0, "fiber_g": 3.0 },
+      "macros": {
+        "protein_g": 30.0,
+        "carbs_g": 32.0,
+        "fat_g": 7.0,
+        "fiber_g": 3.0
+      },
       "micros": {
-        "calcium_mg": 380, "magnesium_mg": 85, "potassium_mg": 550, "sodium_mg": 120, "phosphorus_mg": 320,
-        "iron_mg": 2.5, "zinc_mg": 2.8, "copper_mg": 0.5, "manganese_mg": 0.4, "selenium_ug": 15, "iodine_ug": 35,
-        "vit_c_mg": 0, "vit_b1_mg": 0.15, "vit_b2_mg": 0.6, "vit_b3_mg": 2.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.2,
-        "vit_b9_ug": 18, "vit_b12_ug": 1.5, "vit_a_ug": 150, "vit_d_ui": 40, "vit_e_mg": 0.5, "vit_k_ug": 2
+        "calcium_mg": 380,
+        "magnesium_mg": 85,
+        "potassium_mg": 550,
+        "sodium_mg": 120,
+        "phosphorus_mg": 320,
+        "iron_mg": 2.5,
+        "zinc_mg": 2.8,
+        "copper_mg": 0.5,
+        "manganese_mg": 0.4,
+        "selenium_ug": 15,
+        "iodine_ug": 35,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.15,
+        "vit_b2_mg": 0.6,
+        "vit_b3_mg": 2.5,
+        "vit_b5_mg": 1.2,
+        "vit_b6_mg": 0.2,
+        "vit_b9_ug": 18,
+        "vit_b12_ug": 1.5,
+        "vit_a_ug": 150,
+        "vit_d_ui": 40,
+        "vit_e_mg": 0.5,
+        "vit_k_ug": 2
       }
-    }
+    },
+    "categories": [
+      "MERENDA"
+    ]
   },
   {
     "id": "💥budino-proteico-caramello",
     "title": "Budino Proteico al Caramello Salato",
-    "category": "Spuntini",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2R9Zm9OI1dOg_HjdCXJitFlqAxmdo1swVNntlxKvDY_nlaNUwuFDtW4&s=10",
-    "prep_time_min": 5,
-    "storage_notes": "Conservare in frigo fino a 4 giorni. Puoi guarnire con qualche arachide tritata prima di mangiarlo.",
     "preparation_steps": [
       "In un pentolino a freddo, mescola l'amido di mais e le proteine in polvere (preferibilmente alla vaniglia o caramello).",
       "Versa il latte a filo mescolando con una frusta per evitare la formazione di grumi.",
@@ -237,30 +539,74 @@
       "Mescola bene finché il burro non si scioglie completamente donando un colore dorato. Versa in vasetto e metti in frigo."
     ],
     "ingredients_single_serving": [
-      { "name": "Latte (parzialmente scremato o soia)", "amount": 250, "unit": "ml" },
-      { "name": "Amido di mais (Maizena)", "amount": 20, "unit": "g" },
-      { "name": "Proteine in polvere (Vaniglia o Caramello)", "amount": 25, "unit": "g" },
-      { "name": "Burro di arachidi (o di mandorle)", "amount": 10, "unit": "g" },
-      { "name": "Sale marino in fiocchi", "amount": 1, "unit": "pizzico" }
+      {
+        "name": "Latte (parzialmente scremato o soia)",
+        "amount": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "Amido di mais (Maizena)",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Proteine in polvere (Vaniglia o Caramello)",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Burro di arachidi (o di mandorle)",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Sale marino in fiocchi",
+        "amount": 1,
+        "unit": "pizzico"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 350,
-      "macros": { "protein_g": 31.0, "carbs_g": 31.0, "fat_g": 10.0, "fiber_g": 1.5 },
+      "macros": {
+        "protein_g": 31.0,
+        "carbs_g": 31.0,
+        "fat_g": 10.0,
+        "fiber_g": 1.5
+      },
       "micros": {
-        "calcium_mg": 360, "magnesium_mg": 55, "potassium_mg": 480, "sodium_mg": 350, "phosphorus_mg": 300,
-        "iron_mg": 0.8, "zinc_mg": 2.5, "copper_mg": 0.1, "manganese_mg": 0.2, "selenium_ug": 14, "iodine_ug": 35,
-        "vit_c_mg": 0, "vit_b1_mg": 0.12, "vit_b2_mg": 0.55, "vit_b3_mg": 2.8, "vit_b5_mg": 1.1, "vit_b6_mg": 0.2,
-        "vit_b9_ug": 20, "vit_b12_ug": 1.4, "vit_a_ug": 145, "vit_d_ui": 40, "vit_e_mg": 1.2, "vit_k_ug": 1
+        "calcium_mg": 360,
+        "magnesium_mg": 55,
+        "potassium_mg": 480,
+        "sodium_mg": 350,
+        "phosphorus_mg": 300,
+        "iron_mg": 0.8,
+        "zinc_mg": 2.5,
+        "copper_mg": 0.1,
+        "manganese_mg": 0.2,
+        "selenium_ug": 14,
+        "iodine_ug": 35,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.12,
+        "vit_b2_mg": 0.55,
+        "vit_b3_mg": 2.8,
+        "vit_b5_mg": 1.1,
+        "vit_b6_mg": 0.2,
+        "vit_b9_ug": 20,
+        "vit_b12_ug": 1.4,
+        "vit_a_ug": 145,
+        "vit_d_ui": 40,
+        "vit_e_mg": 1.2,
+        "vit_k_ug": 1
       }
-    }
+    },
+    "categories": [
+      "MERENDA"
+    ]
   },
   {
     "id": "💥budino-proteico-moka",
     "title": "Budino Proteico al Caffè Moka (Pre-Workout)",
-    "category": "Spuntini",
     "image_url": "https://www.fattoincasadabenedetta.it/wp-content/uploads/2021/12/sito-.-20-Budino-al-caffe.jpg",
-    "prep_time_min": 5,
-    "storage_notes": "Perfetto la mattina o pre-allenamento per la caffeina. Dura 4 giorni in frigo.",
     "preparation_steps": [
       "Prepara il caffè (2 tazzine di espresso) e lascialo intiepidire.",
       "In un pentolino a freddo, setaccia amido di mais, proteine (cioccolato o vaniglia) e 1 cucchiaino di cacao.",
@@ -269,30 +615,74 @@
       "Versa nei contenitori e riponi in frigorifero a rassodare."
     ],
     "ingredients_single_serving": [
-      { "name": "Latte (parzialmente scremato o soia)", "amount": 200, "unit": "ml" },
-      { "name": "Caffè espresso", "amount": 50, "unit": "ml (circa 2 tazzine)" },
-      { "name": "Amido di mais (Maizena)", "amount": 20, "unit": "g" },
-      { "name": "Proteine in polvere (Cioccolato o Vaniglia)", "amount": 25, "unit": "g" },
-      { "name": "Cacao amaro (per guarnire)", "amount": 2, "unit": "g" }
+      {
+        "name": "Latte (parzialmente scremato o soia)",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "Caffè espresso",
+        "amount": 50,
+        "unit": "ml (circa 2 tazzine)"
+      },
+      {
+        "name": "Amido di mais (Maizena)",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Proteine in polvere (Cioccolato o Vaniglia)",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Cacao amaro (per guarnire)",
+        "amount": 2,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 275,
-      "macros": { "protein_g": 28.0, "carbs_g": 28.0, "fat_g": 4.5, "fiber_g": 1.0 },
+      "macros": {
+        "protein_g": 28.0,
+        "carbs_g": 28.0,
+        "fat_g": 4.5,
+        "fiber_g": 1.0
+      },
       "micros": {
-        "calcium_mg": 310, "magnesium_mg": 60, "potassium_mg": 520, "sodium_mg": 105, "phosphorus_mg": 280,
-        "iron_mg": 1.0, "zinc_mg": 2.2, "copper_mg": 0.1, "manganese_mg": 0.2, "selenium_ug": 12, "iodine_ug": 30,
-        "vit_c_mg": 0, "vit_b1_mg": 0.1, "vit_b2_mg": 0.5, "vit_b3_mg": 3.0, "vit_b5_mg": 1.0, "vit_b6_mg": 0.15,
-        "vit_b9_ug": 15, "vit_b12_ug": 1.2, "vit_a_ug": 120, "vit_d_ui": 30, "vit_e_mg": 0.4, "vit_k_ug": 1
+        "calcium_mg": 310,
+        "magnesium_mg": 60,
+        "potassium_mg": 520,
+        "sodium_mg": 105,
+        "phosphorus_mg": 280,
+        "iron_mg": 1.0,
+        "zinc_mg": 2.2,
+        "copper_mg": 0.1,
+        "manganese_mg": 0.2,
+        "selenium_ug": 12,
+        "iodine_ug": 30,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.1,
+        "vit_b2_mg": 0.5,
+        "vit_b3_mg": 3.0,
+        "vit_b5_mg": 1.0,
+        "vit_b6_mg": 0.15,
+        "vit_b9_ug": 15,
+        "vit_b12_ug": 1.2,
+        "vit_a_ug": 120,
+        "vit_d_ui": 30,
+        "vit_e_mg": 0.4,
+        "vit_k_ug": 1
       }
-    }
+    },
+    "categories": [
+      "MERENDA"
+    ]
   },
   {
     "id": "💥budino-proteico-vaniglia-cannella",
     "title": "Budino Proteico Vaniglia e Cannella",
-    "category": "Spuntini",
     "image_url": "https://i1.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2017/10/380_Budino.jpg?resize=895%2C616&ssl=1",
-    "prep_time_min": 6,
-    "storage_notes": "Si mantiene freschissimo per 4 giorni. Ottimo con l'aggiunta di mezza mela a cubetti al momento del consumo.",
     "preparation_steps": [
       "In un pentolino metti il latte e, se ce l'hai, qualche scorza spessa di limone (solo la parte gialla). Scalda leggermente senza far bollire per far infondere il sapore.",
       "Rimuovi le scorze di limone. Aspetta che il latte si intiepidisca.",
@@ -301,30 +691,74 @@
       "Versa nel vasetto e riponi in frigo."
     ],
     "ingredients_single_serving": [
-      { "name": "Latte (parzialmente scremato o soia)", "amount": 250, "unit": "ml" },
-      { "name": "Amido di mais (Maizena)", "amount": 20, "unit": "g" },
-      { "name": "Proteine in polvere (Vaniglia)", "amount": 25, "unit": "g" },
-      { "name": "Cannella in polvere", "amount": 2, "unit": "g" },
-      { "name": "Scorza di limone (opzionale)", "amount": 1, "unit": "pz" }
+      {
+        "name": "Latte (parzialmente scremato o soia)",
+        "amount": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "Amido di mais (Maizena)",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Proteine in polvere (Vaniglia)",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Cannella in polvere",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "Scorza di limone (opzionale)",
+        "amount": 1,
+        "unit": "pz"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 280,
-      "macros": { "protein_g": 29.0, "carbs_g": 30.0, "fat_g": 4.5, "fiber_g": 1.5 },
+      "macros": {
+        "protein_g": 29.0,
+        "carbs_g": 30.0,
+        "fat_g": 4.5,
+        "fiber_g": 1.5
+      },
       "micros": {
-        "calcium_mg": 380, "magnesium_mg": 45, "potassium_mg": 420, "sodium_mg": 120, "phosphorus_mg": 290,
-        "iron_mg": 0.8, "zinc_mg": 2.3, "copper_mg": 0.1, "manganese_mg": 0.5, "selenium_ug": 14, "iodine_ug": 35,
-        "vit_c_mg": 1, "vit_b1_mg": 0.12, "vit_b2_mg": 0.55, "vit_b3_mg": 2.5, "vit_b5_mg": 1.1, "vit_b6_mg": 0.2,
-        "vit_b9_ug": 15, "vit_b12_ug": 1.4, "vit_a_ug": 150, "vit_d_ui": 40, "vit_e_mg": 0.4, "vit_k_ug": 1
+        "calcium_mg": 380,
+        "magnesium_mg": 45,
+        "potassium_mg": 420,
+        "sodium_mg": 120,
+        "phosphorus_mg": 290,
+        "iron_mg": 0.8,
+        "zinc_mg": 2.3,
+        "copper_mg": 0.1,
+        "manganese_mg": 0.5,
+        "selenium_ug": 14,
+        "iodine_ug": 35,
+        "vit_c_mg": 1,
+        "vit_b1_mg": 0.12,
+        "vit_b2_mg": 0.55,
+        "vit_b3_mg": 2.5,
+        "vit_b5_mg": 1.1,
+        "vit_b6_mg": 0.2,
+        "vit_b9_ug": 15,
+        "vit_b12_ug": 1.4,
+        "vit_a_ug": 150,
+        "vit_d_ui": 40,
+        "vit_e_mg": 0.4,
+        "vit_k_ug": 1
       }
-    }
+    },
+    "categories": [
+      "MERENDA"
+    ]
   },
   {
     "id": "pancake-teglia-banana",
     "title": "💥Pancake Proteici in Teglia (Banana & Cioccolato)",
-    "category": "Colazione",
     "image_url": "https://static.wixstatic.com/media/80c7fe_b6e3cb28ea3243c280de6c203083c87a~mv2.jpg/v1/fill/w_963,h_963,al_c/80c7fe_b6e3cb28ea3243c280de6c203083c87a~mv2.jpg",
-    "prep_time_min": 25,
-    "storage_notes": "Cuoci una volta e dividi in porzioni. Si conserva 4 giorni in contenitore ermetico in frigo. Scaldare 30 secondi al microonde.",
     "preparation_steps": [
       "Preriscalda il forno a 180°C e rivesti una teglia (es. 20x20 cm per un paio di porzioni) con carta forno.",
       "In un frullatore, inserisci la farina d'avena, la banana, l'albume, l'uovo intero, le proteine in polvere e il lievito.",
@@ -333,32 +767,84 @@
       "Inforna per 15-20 minuti finché i bordi sono dorati e il centro è cotto. Lascia intiepidire e taglia a quadrotti."
     ],
     "ingredients_single_serving": [
-      { "name": "Farina d'avena (o fiocchi frullati)", "amount": 60, "unit": "g" },
-      { "name": "Banana matura", "amount": 80, "unit": "g" },
-      { "name": "Albume d'uovo", "amount": 100, "unit": "g" },
-      { "name": "Uovo intero", "amount": 1, "unit": "pz" },
-      { "name": "Proteine in polvere", "amount": 15, "unit": "g" },
-      { "name": "Gocce di cioccolato fondente", "amount": 10, "unit": "g" },
-      { "name": "Lievito per dolci", "amount": 3, "unit": "g" }
+      {
+        "name": "Farina d'avena (o fiocchi frullati)",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Banana matura",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Albume d'uovo",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Uovo intero",
+        "amount": 1,
+        "unit": "pz"
+      },
+      {
+        "name": "Proteine in polvere",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Gocce di cioccolato fondente",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Lievito per dolci",
+        "amount": 3,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 485,
-      "macros": { "protein_g": 36.0, "carbs_g": 58.0, "fat_g": 11.5, "fiber_g": 8.5 },
+      "macros": {
+        "protein_g": 36.0,
+        "carbs_g": 58.0,
+        "fat_g": 11.5,
+        "fiber_g": 8.5
+      },
       "micros": {
-        "calcium_mg": 150, "magnesium_mg": 130, "potassium_mg": 750, "sodium_mg": 320, "phosphorus_mg": 350,
-        "iron_mg": 3.8, "zinc_mg": 2.5, "copper_mg": 0.5, "manganese_mg": 2.5, "selenium_ug": 35, "iodine_ug": 25,
-        "vit_c_mg": 8, "vit_b1_mg": 0.35, "vit_b2_mg": 0.8, "vit_b3_mg": 4.0, "vit_b5_mg": 1.2, "vit_b6_mg": 0.5,
-        "vit_b9_ug": 65, "vit_b12_ug": 1.2, "vit_a_ug": 95, "vit_d_ui": 35, "vit_e_mg": 1.5, "vit_k_ug": 4
+        "calcium_mg": 150,
+        "magnesium_mg": 130,
+        "potassium_mg": 750,
+        "sodium_mg": 320,
+        "phosphorus_mg": 350,
+        "iron_mg": 3.8,
+        "zinc_mg": 2.5,
+        "copper_mg": 0.5,
+        "manganese_mg": 2.5,
+        "selenium_ug": 35,
+        "iodine_ug": 25,
+        "vit_c_mg": 8,
+        "vit_b1_mg": 0.35,
+        "vit_b2_mg": 0.8,
+        "vit_b3_mg": 4.0,
+        "vit_b5_mg": 1.2,
+        "vit_b6_mg": 0.5,
+        "vit_b9_ug": 65,
+        "vit_b12_ug": 1.2,
+        "vit_a_ug": 95,
+        "vit_d_ui": 35,
+        "vit_e_mg": 1.5,
+        "vit_k_ug": 4
       }
-    }
+    },
+    "categories": [
+      "COLAZIONE"
+    ]
   },
   {
     "id": "breakfast-burrito-congelato",
     "title": "Breakfast Burrito Salato da Congelare",
-    "category": "Colazione",
     "image_url": "https://hips.hearstapps.com/hmg-prod/images/breakfast-burrito-index-66a7e23ca6c89.jpg?crop=0.669xw:1.00xh;0.261xw,0&resize=1200:*",
-    "prep_time_min": 15,
-    "storage_notes": "Avvolgi nella carta stagnola e congela (fino a 2 mesi). Per consumare: togli la stagnola, avvolgi in scottex umido e scalda in microonde per 3-4 minuti.",
     "preparation_steps": [
       "In una padella antiaderente unta con un filo d'olio, strapazza le uova intere con gli albumi, salando e pepando a piacere.",
       "Stendi la piadina/tortilla. Posiziona al centro le uova strapazzate cotte.",
@@ -367,30 +853,74 @@
       "Se lo mangi subito, tostalo in padella 2 minuti. Se fai meal prep, lascialo raffreddare prima di avvolgerlo nell'alluminio e congelarlo."
     ],
     "ingredients_single_serving": [
-      { "name": "Piadina o Tortilla grande", "amount": 1, "unit": "pz (circa 70g)" },
-      { "name": "Uova intere", "amount": 2, "unit": "pz" },
-      { "name": "Albume d'uovo", "amount": 100, "unit": "g" },
-      { "name": "Fesa di tacchino a fette", "amount": 50, "unit": "g" },
-      { "name": "Formaggio a fette (Edamer o Cheddar)", "amount": 20, "unit": "g" }
+      {
+        "name": "Piadina o Tortilla grande",
+        "amount": 1,
+        "unit": "pz (circa 70g)"
+      },
+      {
+        "name": "Uova intere",
+        "amount": 2,
+        "unit": "pz"
+      },
+      {
+        "name": "Albume d'uovo",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Fesa di tacchino a fette",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Formaggio a fette (Edamer o Cheddar)",
+        "amount": 20,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 520,
-      "macros": { "protein_g": 42.0, "carbs_g": 38.0, "fat_g": 21.0, "fiber_g": 3.0 },
+      "macros": {
+        "protein_g": 42.0,
+        "carbs_g": 38.0,
+        "fat_g": 21.0,
+        "fiber_g": 3.0
+      },
       "micros": {
-        "calcium_mg": 280, "magnesium_mg": 65, "potassium_mg": 450, "sodium_mg": 950, "phosphorus_mg": 480,
-        "iron_mg": 3.5, "zinc_mg": 3.2, "copper_mg": 0.2, "manganese_mg": 0.5, "selenium_ug": 55, "iodine_ug": 60,
-        "vit_c_mg": 0, "vit_b1_mg": 0.25, "vit_b2_mg": 0.9, "vit_b3_mg": 8.0, "vit_b5_mg": 2.5, "vit_b6_mg": 0.4,
-        "vit_b9_ug": 90, "vit_b12_ug": 1.8, "vit_a_ug": 220, "vit_d_ui": 85, "vit_e_mg": 2.5, "vit_k_ug": 8
+        "calcium_mg": 280,
+        "magnesium_mg": 65,
+        "potassium_mg": 450,
+        "sodium_mg": 950,
+        "phosphorus_mg": 480,
+        "iron_mg": 3.5,
+        "zinc_mg": 3.2,
+        "copper_mg": 0.2,
+        "manganese_mg": 0.5,
+        "selenium_ug": 55,
+        "iodine_ug": 60,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.25,
+        "vit_b2_mg": 0.9,
+        "vit_b3_mg": 8.0,
+        "vit_b5_mg": 2.5,
+        "vit_b6_mg": 0.4,
+        "vit_b9_ug": 90,
+        "vit_b12_ug": 1.8,
+        "vit_a_ug": 220,
+        "vit_d_ui": 85,
+        "vit_e_mg": 2.5,
+        "vit_k_ug": 8
       }
-    }
+    },
+    "categories": [
+      "COLAZIONE"
+    ]
   },
   {
     "id": "fit-tiramisu-fette-biscottate",
     "title": "Fit Tiramisù Proteico",
-    "category": "Colazione",
     "image_url": "https://blog.giallozafferano.it/atavolacontea/wp-content/uploads/2024/08/IMG_7131-copia-p.jpg",
-    "prep_time_min": 10,
-    "storage_notes": "Si prepara la sera prima o per più giorni. Conservare in frigo in un contenitore di vetro. Ottimo fino a 3-4 giorni.",
     "preparation_steps": [
       "Prepara 2 tazzine di caffè espresso, allungalo con un goccio d'acqua e lascialo intiepidire in un piatto fondo.",
       "In una ciotola, mescola energicamente lo yogurt greco con le proteine in polvere (gusto vaniglia) fino a ottenere una crema liscia.",
@@ -399,30 +929,74 @@
       "Chiudi con un abbondante strato di crema, spolvera la superficie con il cacao amaro in polvere e riponi in frigo per tutta la notte."
     ],
     "ingredients_single_serving": [
-      { "name": "Fette biscottate integrali (circa 6 fette)", "amount": 50, "unit": "g" },
-      { "name": "Yogurt Greco 0%", "amount": 200, "unit": "g" },
-      { "name": "Proteine in polvere (Vaniglia)", "amount": 15, "unit": "g" },
-      { "name": "Caffè espresso", "amount": 2, "unit": "tazzine" },
-      { "name": "Cacao amaro in polvere", "amount": 5, "unit": "g" }
+      {
+        "name": "Fette biscottate integrali (circa 6 fette)",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt Greco 0%",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Proteine in polvere (Vaniglia)",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Caffè espresso",
+        "amount": 2,
+        "unit": "tazzine"
+      },
+      {
+        "name": "Cacao amaro in polvere",
+        "amount": 5,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 375,
-      "macros": { "protein_g": 39.0, "carbs_g": 46.0, "fat_g": 3.5, "fiber_g": 6.0 },
+      "macros": {
+        "protein_g": 39.0,
+        "carbs_g": 46.0,
+        "fat_g": 3.5,
+        "fiber_g": 6.0
+      },
       "micros": {
-        "calcium_mg": 290, "magnesium_mg": 85, "potassium_mg": 510, "sodium_mg": 280, "phosphorus_mg": 320,
-        "iron_mg": 2.8, "zinc_mg": 2.1, "copper_mg": 0.3, "manganese_mg": 1.2, "selenium_ug": 22, "iodine_ug": 40,
-        "vit_c_mg": 0, "vit_b1_mg": 0.2, "vit_b2_mg": 0.5, "vit_b3_mg": 4.5, "vit_b5_mg": 1.1, "vit_b6_mg": 0.2,
-        "vit_b9_ug": 25, "vit_b12_ug": 1.5, "vit_a_ug": 45, "vit_d_ui": 0, "vit_e_mg": 0.5, "vit_k_ug": 2
+        "calcium_mg": 290,
+        "magnesium_mg": 85,
+        "potassium_mg": 510,
+        "sodium_mg": 280,
+        "phosphorus_mg": 320,
+        "iron_mg": 2.8,
+        "zinc_mg": 2.1,
+        "copper_mg": 0.3,
+        "manganese_mg": 1.2,
+        "selenium_ug": 22,
+        "iodine_ug": 40,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.2,
+        "vit_b2_mg": 0.5,
+        "vit_b3_mg": 4.5,
+        "vit_b5_mg": 1.1,
+        "vit_b6_mg": 0.2,
+        "vit_b9_ug": 25,
+        "vit_b12_ug": 1.5,
+        "vit_a_ug": 45,
+        "vit_d_ui": 0,
+        "vit_e_mg": 0.5,
+        "vit_k_ug": 2
       }
-    }
+    },
+    "categories": [
+      "COLAZIONE"
+    ]
   },
   {
     "id": "crepes-proteiche-batch",
     "title": "💥Crepes Proteiche Classiche (Meal Prep)",
-    "category": "Colazione",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKk0xuTCt3nizQIFUFm9GGIkVUQn70PvRdWvP3leb9Hz18IIe0itYyfLlL&s=10",
-    "prep_time_min": 20,
-    "storage_notes": "Cuocile tutte, lasciale raffreddare e impilale con un pezzo di carta forno tra una e l'altra. Si conservano in frigo per 4 giorni. Scaldare 15 sec al microonde prima di farcire.",
     "preparation_steps": [
       "In un frullatore o con una frusta, sbatti l'albume, l'uovo intero, il latte e la farina classica (00 o di farro) fino a ottenere una pastella molto liquida e senza grumi.",
       "Scalda una padella antiaderente larga, ungila leggermente con un tovagliolo imbevuto d'olio.",
@@ -431,31 +1005,79 @@
       "Al momento della colazione, farcisci con lo yogurt greco e un velo di marmellata, poi piega a portafoglio."
     ],
     "ingredients_single_serving": [
-      { "name": "Farina 00 (o di farro/riso)", "amount": 50, "unit": "g" },
-      { "name": "Albume d'uovo", "amount": 150, "unit": "g" },
-      { "name": "Uovo intero", "amount": 1, "unit": "pz" },
-      { "name": "Latte", "amount": 50, "unit": "ml" },
-      { "name": "Yogurt greco 0% (per farcire)", "amount": 100, "unit": "g" },
-      { "name": "Marmellata light (per farcire)", "amount": 20, "unit": "g" }
+      {
+        "name": "Farina 00 (o di farro/riso)",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Albume d'uovo",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Uovo intero",
+        "amount": 1,
+        "unit": "pz"
+      },
+      {
+        "name": "Latte",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "Yogurt greco 0% (per farcire)",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Marmellata light (per farcire)",
+        "amount": 20,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 415,
-      "macros": { "protein_g": 36.0, "carbs_g": 52.0, "fat_g": 6.5, "fiber_g": 2.0 },
+      "macros": {
+        "protein_g": 36.0,
+        "carbs_g": 52.0,
+        "fat_g": 6.5,
+        "fiber_g": 2.0
+      },
       "micros": {
-        "calcium_mg": 210, "magnesium_mg": 45, "potassium_mg": 480, "sodium_mg": 380, "phosphorus_mg": 320,
-        "iron_mg": 2.5, "zinc_mg": 1.8, "copper_mg": 0.1, "manganese_mg": 0.6, "selenium_ug": 45, "iodine_ug": 50,
-        "vit_c_mg": 2, "vit_b1_mg": 0.15, "vit_b2_mg": 0.8, "vit_b3_mg": 2.0, "vit_b5_mg": 1.5, "vit_b6_mg": 0.2,
-        "vit_b9_ug": 40, "vit_b12_ug": 1.1, "vit_a_ug": 110, "vit_d_ui": 35, "vit_e_mg": 0.8, "vit_k_ug": 1
+        "calcium_mg": 210,
+        "magnesium_mg": 45,
+        "potassium_mg": 480,
+        "sodium_mg": 380,
+        "phosphorus_mg": 320,
+        "iron_mg": 2.5,
+        "zinc_mg": 1.8,
+        "copper_mg": 0.1,
+        "manganese_mg": 0.6,
+        "selenium_ug": 45,
+        "iodine_ug": 50,
+        "vit_c_mg": 2,
+        "vit_b1_mg": 0.15,
+        "vit_b2_mg": 0.8,
+        "vit_b3_mg": 2.0,
+        "vit_b5_mg": 1.5,
+        "vit_b6_mg": 0.2,
+        "vit_b9_ug": 40,
+        "vit_b12_ug": 1.1,
+        "vit_a_ug": 110,
+        "vit_d_ui": 35,
+        "vit_e_mg": 0.8,
+        "vit_k_ug": 1
       }
-    }
+    },
+    "categories": [
+      "COLAZIONE"
+    ]
   },
   {
     "id": "teriyaki-chicken-bowl-arachidi",
     "title": "Teriyaki Bowl con Sovracosce e Arachidi",
-    "category": "Cena",
     "image_url": "https://reciperunner.com/wp-content/uploads/2021/06/teriyaki-chicken-rice-bowls-photo.jpg",
-    "prep_time_min": 25,
-    "storage_notes": "Le sovracosce rimangono morbidissime anche dopo 4 giorni in frigo. Il sapore migliora il giorno dopo.",
     "preparation_steps": [
       "Cuoci il riso Basmati e lascialo da parte.",
       "Taglia le sovracosce di pollo disossate a cubetti. Essendo più grasse del petto, non serve olio in padella.",
@@ -464,29 +1086,70 @@
       "Componi il contenitore: base di riso, pollo glassato sopra, e una manciata di arachidi tostate per la croccantezza e l'extra calorico."
     ],
     "ingredients_single_serving": [
-      { "name": "Riso Basmati", "amount": 130, "unit": "g" },
-      { "name": "Sovracosce di pollo (disossate e senza pelle)", "amount": 200, "unit": "g" },
-      { "name": "Salsa Teriyaki", "amount": 30, "unit": "g" },
-      { "name": "Arachidi tostate (non salate)", "amount": 25, "unit": "g" }
+      {
+        "name": "Riso Basmati",
+        "amount": 130,
+        "unit": "g"
+      },
+      {
+        "name": "Sovracosce di pollo (disossate e senza pelle)",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Salsa Teriyaki",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Arachidi tostate (non salate)",
+        "amount": 25,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 945,
-      "macros": { "protein_g": 52.0, "carbs_g": 115.0, "fat_g": 31.0, "fiber_g": 4.5 },
+      "macros": {
+        "protein_g": 52.0,
+        "carbs_g": 115.0,
+        "fat_g": 31.0,
+        "fiber_g": 4.5
+      },
       "micros": {
-        "calcium_mg": 65, "magnesium_mg": 150, "potassium_mg": 680, "sodium_mg": 950, "phosphorus_mg": 420,
-        "iron_mg": 3.5, "zinc_mg": 4.1, "copper_mg": 0.6, "manganese_mg": 2.1, "selenium_ug": 38, "iodine_ug": 10,
-        "vit_c_mg": 0, "vit_b1_mg": 0.4, "vit_b2_mg": 0.5, "vit_b3_mg": 22.0, "vit_b5_mg": 2.5, "vit_b6_mg": 1.2,
-        "vit_b9_ug": 50, "vit_b12_ug": 0.6, "vit_a_ug": 30, "vit_d_ui": 0, "vit_e_mg": 3.5, "vit_k_ug": 0
+        "calcium_mg": 65,
+        "magnesium_mg": 150,
+        "potassium_mg": 680,
+        "sodium_mg": 950,
+        "phosphorus_mg": 420,
+        "iron_mg": 3.5,
+        "zinc_mg": 4.1,
+        "copper_mg": 0.6,
+        "manganese_mg": 2.1,
+        "selenium_ug": 38,
+        "iodine_ug": 10,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.4,
+        "vit_b2_mg": 0.5,
+        "vit_b3_mg": 22.0,
+        "vit_b5_mg": 2.5,
+        "vit_b6_mg": 1.2,
+        "vit_b9_ug": 50,
+        "vit_b12_ug": 0.6,
+        "vit_a_ug": 30,
+        "vit_d_ui": 0,
+        "vit_e_mg": 3.5,
+        "vit_k_ug": 0
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "beef-mac-and-cheese",
     "title": "Beef Mac & Cheese (Pasta al Formaggio e Manzo)",
-    "category": "Pranzo",
     "image_url": "https://mykitchenserenity.com/wp-content/uploads/2023/07/Hamburger-Mac-and-Cheese-1.jpg",
-    "prep_time_min": 20,
-    "storage_notes": "Aggiungi un cucchiaio di latte o acqua prima di scaldare in microonde per far tornare cremosa la salsa al formaggio.",
     "preparation_steps": [
       "Cuoci la pasta corta (es. maccheroni o penne) in acqua salata e scolala al dente.",
       "In una padella grande, cuoci il macinato di manzo. Condisci con sale, pepe e un pizzico di paprika.",
@@ -495,30 +1158,75 @@
       "Versa la pasta nella padella e mescola bene per amalgamare il tutto."
     ],
     "ingredients_single_serving": [
-      { "name": "Pasta corta", "amount": 130, "unit": "g" },
-      { "name": "Macinato di manzo (10-15% grassi)", "amount": 150, "unit": "g" },
-      { "name": "Formaggio Cheddar grattugiato", "amount": 40, "unit": "g" },
-      { "name": "Latte", "amount": 50, "unit": "ml" },
-      { "name": "Olio EVO", "amount": 5, "unit": "g" }
+      {
+        "name": "Pasta corta",
+        "amount": 130,
+        "unit": "g"
+      },
+      {
+        "name": "Macinato di manzo (10-15% grassi)",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Formaggio Cheddar grattugiato",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Latte",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 5,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 960,
-      "macros": { "protein_g": 55.0, "carbs_g": 98.0, "fat_g": 38.0, "fiber_g": 4.0 },
+      "macros": {
+        "protein_g": 55.0,
+        "carbs_g": 98.0,
+        "fat_g": 38.0,
+        "fiber_g": 4.0
+      },
       "micros": {
-        "calcium_mg": 410, "magnesium_mg": 110, "potassium_mg": 580, "sodium_mg": 620, "phosphorus_mg": 510,
-        "iron_mg": 5.2, "zinc_mg": 7.5, "copper_mg": 0.4, "manganese_mg": 1.1, "selenium_ug": 45, "iodine_ug": 25,
-        "vit_c_mg": 0, "vit_b1_mg": 0.2, "vit_b2_mg": 0.6, "vit_b3_mg": 9.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.7,
-        "vit_b9_ug": 35, "vit_b12_ug": 3.8, "vit_a_ug": 210, "vit_d_ui": 15, "vit_e_mg": 1.1, "vit_k_ug": 2
+        "calcium_mg": 410,
+        "magnesium_mg": 110,
+        "potassium_mg": 580,
+        "sodium_mg": 620,
+        "phosphorus_mg": 510,
+        "iron_mg": 5.2,
+        "zinc_mg": 7.5,
+        "copper_mg": 0.4,
+        "manganese_mg": 1.1,
+        "selenium_ug": 45,
+        "iodine_ug": 25,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.2,
+        "vit_b2_mg": 0.6,
+        "vit_b3_mg": 9.5,
+        "vit_b5_mg": 1.2,
+        "vit_b6_mg": 0.7,
+        "vit_b9_ug": 35,
+        "vit_b12_ug": 3.8,
+        "vit_a_ug": 210,
+        "vit_d_ui": 15,
+        "vit_e_mg": 1.1,
+        "vit_k_ug": 2
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "pasta-ragu-bianco-tacchino",
     "title": "💥Pasta al Ragù Bianco di Tacchino",
-    "category": "Pranzo",
     "image_url": "https://www.aiafood.com/_next/image/?url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Fxxl_ragu_di_tacchino_la_ricetta_un_sugo_leggero_f72c856071.webp&w=1920&q=80",
-    "prep_time_min": 25,
-    "storage_notes": "Il ragù bianco si conserva in frigo per 4 giorni. Scaldando la pasta al microonde con un cucchiaio d'acqua torna perfetta.",
     "preparation_steps": [
       "In una padella fai un leggero soffritto con un cucchiaino d'olio, carota e sedano tritati finemente.",
       "Aggiungi il macinato di tacchino e sgrana bene con un cucchiaio di legno rosolandolo a fiamma viva.",
@@ -526,30 +1234,75 @@
       "Cuoci la pasta al dente, scolala e saltala nella padella con il ragù bianco aggiungendo il parmigiano per mantecare."
     ],
     "ingredients_single_serving": [
-      { "name": "Pasta (penne o rigatoni)", "amount": 120, "unit": "g" },
-      { "name": "Macinato di tacchino magro", "amount": 150, "unit": "g" },
-      { "name": "Misto soffritto (carota, sedano)", "amount": 30, "unit": "g" },
-      { "name": "Olio EVO", "amount": 5, "unit": "g" },
-      { "name": "Parmigiano Reggiano", "amount": 10, "unit": "g" }
+      {
+        "name": "Pasta (penne o rigatoni)",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Macinato di tacchino magro",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Misto soffritto (carota, sedano)",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Parmigiano Reggiano",
+        "amount": 10,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 710,
-      "macros": { "protein_g": 54.0, "carbs_g": 88.0, "fat_g": 14.0, "fiber_g": 4.5 },
+      "macros": {
+        "protein_g": 54.0,
+        "carbs_g": 88.0,
+        "fat_g": 14.0,
+        "fiber_g": 4.5
+      },
       "micros": {
-        "calcium_mg": 180, "magnesium_mg": 90, "potassium_mg": 520, "sodium_mg": 380, "phosphorus_mg": 410,
-        "iron_mg": 3.1, "zinc_mg": 4.2, "copper_mg": 0.3, "manganese_mg": 1.1, "selenium_ug": 32, "iodine_ug": 15,
-        "vit_c_mg": 2, "vit_b1_mg": 0.25, "vit_b2_mg": 0.35, "vit_b3_mg": 14.0, "vit_b5_mg": 1.5, "vit_b6_mg": 0.9,
-        "vit_b9_ug": 30, "vit_b12_ug": 1.1, "vit_a_ug": 120, "vit_d_ui": 5, "vit_e_mg": 1.2, "vit_k_ug": 10
+        "calcium_mg": 180,
+        "magnesium_mg": 90,
+        "potassium_mg": 520,
+        "sodium_mg": 380,
+        "phosphorus_mg": 410,
+        "iron_mg": 3.1,
+        "zinc_mg": 4.2,
+        "copper_mg": 0.3,
+        "manganese_mg": 1.1,
+        "selenium_ug": 32,
+        "iodine_ug": 15,
+        "vit_c_mg": 2,
+        "vit_b1_mg": 0.25,
+        "vit_b2_mg": 0.35,
+        "vit_b3_mg": 14.0,
+        "vit_b5_mg": 1.5,
+        "vit_b6_mg": 0.9,
+        "vit_b9_ug": 30,
+        "vit_b12_ug": 1.1,
+        "vit_a_ug": 120,
+        "vit_d_ui": 5,
+        "vit_e_mg": 1.2,
+        "vit_k_ug": 10
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "riso-crema-zucca-parmigiano",
     "title": "Riso alla Crema di Zucca e Parmigiano",
-    "category": "Pranzo",
     "image_url": "https://www.lavongolaverace.it/wp-content/uploads/IMG_8223.jpg",
-    "prep_time_min": 20,
-    "storage_notes": "Perfetto per il meal prep invernale. La crema di zucca avvolge il riso e previene che diventi secco in frigo (fino a 4 giorni).",
     "preparation_steps": [
       "Taglia la zucca a cubetti e cuocila in padella con mezzo bicchiere d'acqua e un pizzico di sale finché non si sfalda.",
       "Frulla la zucca cotta con un frullatore a immersione aggiungendo il parmigiano e l'olio EVO per creare una crema vellutata.",
@@ -557,29 +1310,70 @@
       "Aggiungi una spolverata di pepe nero e rosmarino tritato."
     ],
     "ingredients_single_serving": [
-      { "name": "Riso Basmati", "amount": 120, "unit": "g" },
-      { "name": "Zucca (pesata cruda)", "amount": 250, "unit": "g" },
-      { "name": "Parmigiano Reggiano", "amount": 15, "unit": "g" },
-      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+      {
+        "name": "Riso Basmati",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Zucca (pesata cruda)",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Parmigiano Reggiano",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 10,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 540,
-      "macros": { "protein_g": 16.0, "carbs_g": 95.0, "fat_g": 11.0, "fiber_g": 5.0 },
+      "macros": {
+        "protein_g": 16.0,
+        "carbs_g": 95.0,
+        "fat_g": 11.0,
+        "fiber_g": 5.0
+      },
       "micros": {
-        "calcium_mg": 240, "magnesium_mg": 85, "potassium_mg": 950, "sodium_mg": 180, "phosphorus_mg": 250,
-        "iron_mg": 2.2, "zinc_mg": 1.5, "copper_mg": 0.2, "manganese_mg": 1.2, "selenium_ug": 10, "iodine_ug": 8,
-        "vit_c_mg": 22, "vit_b1_mg": 0.15, "vit_b2_mg": 0.2, "vit_b3_mg": 3.5, "vit_b5_mg": 0.8, "vit_b6_mg": 0.4,
-        "vit_b9_ug": 45, "vit_b12_ug": 0.2, "vit_a_ug": 1100, "vit_d_ui": 2, "vit_e_mg": 2.1, "vit_k_ug": 5
+        "calcium_mg": 240,
+        "magnesium_mg": 85,
+        "potassium_mg": 950,
+        "sodium_mg": 180,
+        "phosphorus_mg": 250,
+        "iron_mg": 2.2,
+        "zinc_mg": 1.5,
+        "copper_mg": 0.2,
+        "manganese_mg": 1.2,
+        "selenium_ug": 10,
+        "iodine_ug": 8,
+        "vit_c_mg": 22,
+        "vit_b1_mg": 0.15,
+        "vit_b2_mg": 0.2,
+        "vit_b3_mg": 3.5,
+        "vit_b5_mg": 0.8,
+        "vit_b6_mg": 0.4,
+        "vit_b9_ug": 45,
+        "vit_b12_ug": 0.2,
+        "vit_a_ug": 1100,
+        "vit_d_ui": 2,
+        "vit_e_mg": 2.1,
+        "vit_k_ug": 5
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "bocconcini-pollo-limone",
     "title": "Bocconcini di Pollo al Limone (Non Stopposi)",
-    "category": "Cena",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLtWg0aYY-3_ciMQfNdi0DMir_QPOY1D0F5lA8xl-Y1yx0prLhdcCJp2U&s=10",
-    "prep_time_min": 15,
-    "storage_notes": "L'infarinatura crea una cremina che mantiene il pollo umido anche quando lo riscaldi nei giorni successivi. Dura 4 giorni in frigo.",
     "preparation_steps": [
       "Taglia il petto di pollo a bocconcini regolari e passali velocemente nella farina, rimuovendo l'eccesso.",
       "Scalda l'olio in una padella antiaderente e dora i bocconcini di pollo a fuoco vivo su tutti i lati.",
@@ -587,29 +1381,70 @@
       "Fai restringere per 3-4 minuti finché non si forma una glassa cremosa. Servi caldo o riponi nel tupperware."
     ],
     "ingredients_single_serving": [
-      { "name": "Petto di pollo intero", "amount": 200, "unit": "g" },
-      { "name": "Farina 00 (per infarinare)", "amount": 15, "unit": "g" },
-      { "name": "Olio EVO", "amount": 10, "unit": "g" },
-      { "name": "Succo di limone", "amount": 1, "unit": "mezzo" }
+      {
+        "name": "Petto di pollo intero",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Farina 00 (per infarinare)",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Succo di limone",
+        "amount": 1,
+        "unit": "mezzo"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 330,
-      "macros": { "protein_g": 46.0, "carbs_g": 11.0, "fat_g": 11.5, "fiber_g": 0.5 },
+      "macros": {
+        "protein_g": 46.0,
+        "carbs_g": 11.0,
+        "fat_g": 11.5,
+        "fiber_g": 0.5
+      },
       "micros": {
-        "calcium_mg": 25, "magnesium_mg": 55, "potassium_mg": 520, "sodium_mg": 150, "phosphorus_mg": 410,
-        "iron_mg": 1.2, "zinc_mg": 2.0, "copper_mg": 0.1, "manganese_mg": 0.2, "selenium_ug": 28, "iodine_ug": 8,
-        "vit_c_mg": 15, "vit_b1_mg": 0.15, "vit_b2_mg": 0.2, "vit_b3_mg": 18.0, "vit_b5_mg": 1.5, "vit_b6_mg": 1.1,
-        "vit_b9_ug": 10, "vit_b12_ug": 0.4, "vit_a_ug": 15, "vit_d_ui": 0, "vit_e_mg": 1.8, "vit_k_ug": 2
+        "calcium_mg": 25,
+        "magnesium_mg": 55,
+        "potassium_mg": 520,
+        "sodium_mg": 150,
+        "phosphorus_mg": 410,
+        "iron_mg": 1.2,
+        "zinc_mg": 2.0,
+        "copper_mg": 0.1,
+        "manganese_mg": 0.2,
+        "selenium_ug": 28,
+        "iodine_ug": 8,
+        "vit_c_mg": 15,
+        "vit_b1_mg": 0.15,
+        "vit_b2_mg": 0.2,
+        "vit_b3_mg": 18.0,
+        "vit_b5_mg": 1.5,
+        "vit_b6_mg": 1.1,
+        "vit_b9_ug": 10,
+        "vit_b12_ug": 0.4,
+        "vit_a_ug": 15,
+        "vit_d_ui": 0,
+        "vit_e_mg": 1.8,
+        "vit_k_ug": 2
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "gnocchi-salsiccia-gorgonzola-noci",
     "title": "Gnocchi alla Salsiccia, Gorgonzola e Noci",
-    "category": "Pranzo",
     "image_url": "https://www.casapappagallo.it/storage/19926/gnocchi-gorgonzola-e-salsiccia-%28sito%29.JPG",
-    "prep_time_min": 15,
-    "storage_notes": "Si conserva in frigo per 3 giorni. Aggiungi un goccio di latte prima di scaldare in microonde per far fondere di nuovo i formaggi.",
     "preparation_steps": [
       "Metti a bollire l'acqua per gli gnocchi.",
       "In una padella a fuoco vivo, sbriciola la salsiccia (privata del budello) e rosolala finché non è ben cotta. Non serve olio, userà il suo grasso.",
@@ -618,29 +1453,70 @@
       "Manteca tutto insieme e guarnisci con le noci tritate grossolanamente per il tocco croccante e calorie extra."
     ],
     "ingredients_single_serving": [
-      { "name": "Gnocchi di patate", "amount": 250, "unit": "g" },
-      { "name": "Salsiccia di suino (o pollo/tacchino se preferisci meno grassi)", "amount": 150, "unit": "g" },
-      { "name": "Gorgonzola (dolce o piccante)", "amount": 50, "unit": "g" },
-      { "name": "Noci sgusciate", "amount": 20, "unit": "g" }
+      {
+        "name": "Gnocchi di patate",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Salsiccia di suino (o pollo/tacchino se preferisci meno grassi)",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Gorgonzola (dolce o piccante)",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Noci sgusciate",
+        "amount": 20,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 1080,
-      "macros": { "protein_g": 38.0, "carbs_g": 95.0, "fat_g": 62.0, "fiber_g": 6.5 },
+      "macros": {
+        "protein_g": 38.0,
+        "carbs_g": 95.0,
+        "fat_g": 62.0,
+        "fiber_g": 6.5
+      },
       "micros": {
-        "calcium_mg": 380, "magnesium_mg": 140, "potassium_mg": 850, "sodium_mg": 1450, "phosphorus_mg": 520,
-        "iron_mg": 4.5, "zinc_mg": 5.8, "copper_mg": 0.8, "manganese_mg": 2.5, "selenium_ug": 45, "iodine_ug": 20,
-        "vit_c_mg": 5, "vit_b1_mg": 0.8, "vit_b2_mg": 0.6, "vit_b3_mg": 15.0, "vit_b5_mg": 2.1, "vit_b6_mg": 0.9,
-        "vit_b9_ug": 45, "vit_b12_ug": 2.2, "vit_a_ug": 210, "vit_d_ui": 25, "vit_e_mg": 2.5, "vit_k_ug": 5
+        "calcium_mg": 380,
+        "magnesium_mg": 140,
+        "potassium_mg": 850,
+        "sodium_mg": 1450,
+        "phosphorus_mg": 520,
+        "iron_mg": 4.5,
+        "zinc_mg": 5.8,
+        "copper_mg": 0.8,
+        "manganese_mg": 2.5,
+        "selenium_ug": 45,
+        "iodine_ug": 20,
+        "vit_c_mg": 5,
+        "vit_b1_mg": 0.8,
+        "vit_b2_mg": 0.6,
+        "vit_b3_mg": 15.0,
+        "vit_b5_mg": 2.1,
+        "vit_b6_mg": 0.9,
+        "vit_b9_ug": 45,
+        "vit_b12_ug": 2.2,
+        "vit_a_ug": 210,
+        "vit_d_ui": 25,
+        "vit_e_mg": 2.5,
+        "vit_k_ug": 5
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "doppio-smashburger-bacon-uovo",
     "title": "Doppio Smashburger con Bacon e Uovo Fritto",
-    "category": "Cena",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNdBzphPu4FDgg9AWsdkK3H1QuEp84eF4cmrlJcx8hmsyCwEs7Mxq3pg&s=10",
-    "prep_time_min": 15,
-    "storage_notes": "Assolutamente da consumare al momento. Non fare meal prep con questo.",
     "preparation_steps": [
       "Dividi il macinato in due palline senza pressarle troppo.",
       "Scalda una piastra o padella in ghisa finché non è rovente. Appoggia le palline di carne e schiacciale piatte con una spatola (smash).",
@@ -649,31 +1525,80 @@
       "Tosta il panino nel grasso del bacon, spalma la maionese e componi: base, primo burger, secondo burger, bacon, uovo fritto, chiusura."
     ],
     "ingredients_single_serving": [
-      { "name": "Panino per hamburger (Brioche Bun grande)", "amount": 1, "unit": "pz (circa 90g)" },
-      { "name": "Macinato di manzo (20% grassi)", "amount": 250, "unit": "g" },
-      { "name": "Formaggio Cheddar", "amount": 4, "unit": "fette" },
-      { "name": "Bacon affumicato", "amount": 40, "unit": "g" },
-      { "name": "Uovo", "amount": 1, "unit": "pz" },
-      { "name": "Maionese", "amount": 20, "unit": "g" }
+      {
+        "name": "Panino per hamburger (Brioche Bun grande)",
+        "amount": 1,
+        "unit": "pz (circa 90g)"
+      },
+      {
+        "name": "Macinato di manzo (20% grassi)",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Formaggio Cheddar",
+        "amount": 4,
+        "unit": "fette"
+      },
+      {
+        "name": "Bacon affumicato",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Uovo",
+        "amount": 1,
+        "unit": "pz"
+      },
+      {
+        "name": "Maionese",
+        "amount": 20,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 1320,
-      "macros": { "protein_g": 82.0, "carbs_g": 55.0, "fat_g": 85.0, "fiber_g": 2.0 },
+      "macros": {
+        "protein_g": 82.0,
+        "carbs_g": 55.0,
+        "fat_g": 85.0,
+        "fiber_g": 2.0
+      },
       "micros": {
-        "calcium_mg": 650, "magnesium_mg": 85, "potassium_mg": 850, "sodium_mg": 1800, "phosphorus_mg": 720,
-        "iron_mg": 6.5, "zinc_mg": 11.2, "copper_mg": 0.3, "manganese_mg": 0.5, "selenium_ug": 65, "iodine_ug": 45,
-        "vit_c_mg": 0, "vit_b1_mg": 0.4, "vit_b2_mg": 0.9, "vit_b3_mg": 14.0, "vit_b5_mg": 2.2, "vit_b6_mg": 0.8,
-        "vit_b9_ug": 65, "vit_b12_ug": 5.2, "vit_a_ug": 320, "vit_d_ui": 65, "vit_e_mg": 2.5, "vit_k_ug": 15
+        "calcium_mg": 650,
+        "magnesium_mg": 85,
+        "potassium_mg": 850,
+        "sodium_mg": 1800,
+        "phosphorus_mg": 720,
+        "iron_mg": 6.5,
+        "zinc_mg": 11.2,
+        "copper_mg": 0.3,
+        "manganese_mg": 0.5,
+        "selenium_ug": 65,
+        "iodine_ug": 45,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.4,
+        "vit_b2_mg": 0.9,
+        "vit_b3_mg": 14.0,
+        "vit_b5_mg": 2.2,
+        "vit_b6_mg": 0.8,
+        "vit_b9_ug": 65,
+        "vit_b12_ug": 5.2,
+        "vit_a_ug": 320,
+        "vit_d_ui": 65,
+        "vit_e_mg": 2.5,
+        "vit_k_ug": 15
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "crema-pasticcera-caffe-fit",
     "title": "Vera Crema Pasticcera al Caffè (High Protein)",
-    "category": "Colazione",
     "image_url": "https://www.misya.info/wp-content/uploads/2014/01/Crema-pasticcera-al-caffe.jpg",
-    "prep_time_min": 10,
-    "storage_notes": "Coprire con pellicola a contatto per evitare la pellicina in superficie. Si conserva in frigo per 3 giorni.",
     "preparation_steps": [
       "In un pentolino, scalda il latte insieme alla tazzina di caffè espresso senza farlo bollire.",
       "In una ciotola a parte, sbatti vigorosamente il tuorlo d'uovo con lo zucchero (o eritritolo) e l'amido di mais fino a ottenere una pastella liscia.",
@@ -682,31 +1607,79 @@
       "Spegni il fuoco. Lascia intiepidire per 5 minuti, poi incorpora le proteine in polvere mescolando bene per non formare grumi."
     ],
     "ingredients_single_serving": [
-      { "name": "Latte (parzialmente scremato)", "amount": 200, "unit": "ml" },
-      { "name": "Tuorlo d'uovo", "amount": 1, "unit": "pz" },
-      { "name": "Zucchero (o Eritritolo per zero kcal)", "amount": 15, "unit": "g" },
-      { "name": "Amido di mais (Maizena)", "amount": 15, "unit": "g" },
-      { "name": "Caffè espresso", "amount": 1, "unit": "tazzina" },
-      { "name": "Proteine in polvere (Vaniglia)", "amount": 20, "unit": "g" }
+      {
+        "name": "Latte (parzialmente scremato)",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "Tuorlo d'uovo",
+        "amount": 1,
+        "unit": "pz"
+      },
+      {
+        "name": "Zucchero (o Eritritolo per zero kcal)",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Amido di mais (Maizena)",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Caffè espresso",
+        "amount": 1,
+        "unit": "tazzina"
+      },
+      {
+        "name": "Proteine in polvere (Vaniglia)",
+        "amount": 20,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 290,
-      "macros": { "protein_g": 26.0, "carbs_g": 28.0, "fat_g": 8.0, "fiber_g": 0.5 },
+      "macros": {
+        "protein_g": 26.0,
+        "carbs_g": 28.0,
+        "fat_g": 8.0,
+        "fiber_g": 0.5
+      },
       "micros": {
-        "calcium_mg": 310, "magnesium_mg": 45, "potassium_mg": 380, "sodium_mg": 120, "phosphorus_mg": 310,
-        "iron_mg": 1.5, "zinc_mg": 2.1, "copper_mg": 0.1, "manganese_mg": 0.1, "selenium_ug": 25, "iodine_ug": 45,
-        "vit_c_mg": 0, "vit_b1_mg": 0.15, "vit_b2_mg": 0.5, "vit_b3_mg": 1.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.2,
-        "vit_b9_ug": 35, "vit_b12_ug": 1.4, "vit_a_ug": 280, "vit_d_ui": 60, "vit_e_mg": 0.8, "vit_k_ug": 1
+        "calcium_mg": 310,
+        "magnesium_mg": 45,
+        "potassium_mg": 380,
+        "sodium_mg": 120,
+        "phosphorus_mg": 310,
+        "iron_mg": 1.5,
+        "zinc_mg": 2.1,
+        "copper_mg": 0.1,
+        "manganese_mg": 0.1,
+        "selenium_ug": 25,
+        "iodine_ug": 45,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.15,
+        "vit_b2_mg": 0.5,
+        "vit_b3_mg": 1.5,
+        "vit_b5_mg": 1.2,
+        "vit_b6_mg": 0.2,
+        "vit_b9_ug": 35,
+        "vit_b12_ug": 1.4,
+        "vit_a_ug": 280,
+        "vit_d_ui": 60,
+        "vit_e_mg": 0.8,
+        "vit_k_ug": 1
       }
-    }
+    },
+    "categories": [
+      "COLAZIONE"
+    ]
   },
   {
     "id": "sushi-burrito-xl-modulare",
     "title": "Sushi Burrito XL (Pollo, Gamberi o Tofu)",
-    "category": "Pranzo",
     "image_url": "https://snapcalorie-webflow-website.s3.us-east-2.amazonaws.com/media/food_pics_v2/medium/sushi_burrito_shrimo_tempura.jpg",
-    "prep_time_min": 25,
-    "storage_notes": "Avvolgi strettamente nella pellicola. In frigo dura 3 giorni. La crema di sesamo manterrà il ripieno umido e saporito.",
     "preparation_steps": [
       "Cuoci e condisci il riso per sushi (dose aumentata per un burrito più largo).",
       "Prepara la proteina: taglia il pollo o il tofu a striscioline (se usi i gamberi lasciali interi). Rosola in padella a fuoco vivo e sfuma con la salsa Teriyaki a fine cottura.",
@@ -715,32 +1688,85 @@
       "Aggiungi la tua proteina glassata, versa sopra la crema di sesamo e arrotola stringendo bene per formare un cilindro compatto."
     ],
     "ingredients_single_serving": [
-      { "name": "Alga Nori", "amount": 1, "unit": "foglio grande" },
-      { "name": "Riso per sushi (pesato a crudo)", "amount": 120, "unit": "g" },
-      { "name": "Petto di pollo, Gamberi o Tofu", "amount": 150, "unit": "g" },
-      { "name": "Carote e Cetrioli a julienne", "amount": 80, "unit": "g" },
-      { "name": "Germogli di soia", "amount": 30, "unit": "g" },
-      { "name": "Salsa Teriyaki", "amount": 20, "unit": "g" },
-      { "name": "Crema di Sesamo (Tahina 100%)", "amount": 15, "unit": "g" }
+      {
+        "name": "Alga Nori",
+        "amount": 1,
+        "unit": "foglio grande"
+      },
+      {
+        "name": "Riso per sushi (pesato a crudo)",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Petto di pollo, Gamberi o Tofu",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Carote e Cetrioli a julienne",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Germogli di soia",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Salsa Teriyaki",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Crema di Sesamo (Tahina 100%)",
+        "amount": 15,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 780,
-      "macros": { "protein_g": 42.0, "carbs_g": 105.0, "fat_g": 20.0, "fiber_g": 7.0 },
+      "macros": {
+        "protein_g": 42.0,
+        "carbs_g": 105.0,
+        "fat_g": 20.0,
+        "fiber_g": 7.0
+      },
       "micros": {
-        "calcium_mg": 180, "magnesium_mg": 140, "potassium_mg": 680, "sodium_mg": 950, "phosphorus_mg": 520,
-        "iron_mg": 4.5, "zinc_mg": 3.8, "copper_mg": 0.5, "manganese_mg": 1.5, "selenium_ug": 35, "iodine_ug": 85,
-        "vit_c_mg": 12, "vit_b1_mg": 0.35, "vit_b2_mg": 0.25, "vit_b3_mg": 14.0, "vit_b5_mg": 1.8, "vit_b6_mg": 1.1,
-        "vit_b9_ug": 85, "vit_b12_ug": 0.5, "vit_a_ug": 850, "vit_d_ui": 0, "vit_e_mg": 2.2, "vit_k_ug": 25
+        "calcium_mg": 180,
+        "magnesium_mg": 140,
+        "potassium_mg": 680,
+        "sodium_mg": 950,
+        "phosphorus_mg": 520,
+        "iron_mg": 4.5,
+        "zinc_mg": 3.8,
+        "copper_mg": 0.5,
+        "manganese_mg": 1.5,
+        "selenium_ug": 35,
+        "iodine_ug": 85,
+        "vit_c_mg": 12,
+        "vit_b1_mg": 0.35,
+        "vit_b2_mg": 0.25,
+        "vit_b3_mg": 14.0,
+        "vit_b5_mg": 1.8,
+        "vit_b6_mg": 1.1,
+        "vit_b9_ug": 85,
+        "vit_b12_ug": 0.5,
+        "vit_a_ug": 850,
+        "vit_d_ui": 0,
+        "vit_e_mg": 2.2,
+        "vit_k_ug": 25
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "maki-roll-croccante-modulare",
     "title": "Maki Roll Croccante (Pollo, Gamberi o Tofu)",
-    "category": "Cena",
     "image_url": "https://www.kikkoman.it/fileadmin/_processed_/3/f/csm_945-recipe-page-gunkan-maki-sushi-with-prawn-cucumber_mobile_e460fb5c20.webp",
-    "prep_time_min": 25,
-    "storage_notes": "Conservare intero in frigo avvolto nella pellicola (fino a 3 giorni). Tagliare a rondelle e passare 15 secondi in microonde prima di consumare.",
     "preparation_steps": [
       "Cuoci in padella con un filo d'olio il pollo a straccetti, i gamberi o il tofu tagliato a bastoncini spessi (quest'ultimo passalo in poco amido di mais per fare la crosticina).",
       "Sfuma la proteina scelta con la salsa teriyaki e lasciala intiepidire.",
@@ -748,30 +1774,75 @@
       "Arrotola strettamente con la stuoietta, sigilla il bordo con un goccio d'acqua e taglia a rondelle."
     ],
     "ingredients_single_serving": [
-      { "name": "Alga Nori", "amount": 1, "unit": "foglio" },
-      { "name": "Riso per sushi (pesato crudo)", "amount": 100, "unit": "g" },
-      { "name": "Petto di pollo, Gamberi o Tofu", "amount": 120, "unit": "g" },
-      { "name": "Cetriolo, Carote e Germogli di soia", "amount": 60, "unit": "g" },
-      { "name": "Salsa Teriyaki", "amount": 15, "unit": "g" }
+      {
+        "name": "Alga Nori",
+        "amount": 1,
+        "unit": "foglio"
+      },
+      {
+        "name": "Riso per sushi (pesato crudo)",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Petto di pollo, Gamberi o Tofu",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Cetriolo, Carote e Germogli di soia",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Salsa Teriyaki",
+        "amount": 15,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 520,
-      "macros": { "protein_g": 32.0, "carbs_g": 85.0, "fat_g": 8.0, "fiber_g": 4.5 },
+      "macros": {
+        "protein_g": 32.0,
+        "carbs_g": 85.0,
+        "fat_g": 8.0,
+        "fiber_g": 4.5
+      },
       "micros": {
-        "calcium_mg": 90, "magnesium_mg": 85, "potassium_mg": 420, "sodium_mg": 680, "phosphorus_mg": 360,
-        "iron_mg": 3.2, "zinc_mg": 2.5, "copper_mg": 0.3, "manganese_mg": 1.1, "selenium_ug": 25, "iodine_ug": 65,
-        "vit_c_mg": 8, "vit_b1_mg": 0.2, "vit_b2_mg": 0.15, "vit_b3_mg": 8.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.6,
-        "vit_b9_ug": 55, "vit_b12_ug": 0.3, "vit_a_ug": 650, "vit_d_ui": 0, "vit_e_mg": 1.1, "vit_k_ug": 15
+        "calcium_mg": 90,
+        "magnesium_mg": 85,
+        "potassium_mg": 420,
+        "sodium_mg": 680,
+        "phosphorus_mg": 360,
+        "iron_mg": 3.2,
+        "zinc_mg": 2.5,
+        "copper_mg": 0.3,
+        "manganese_mg": 1.1,
+        "selenium_ug": 25,
+        "iodine_ug": 65,
+        "vit_c_mg": 8,
+        "vit_b1_mg": 0.2,
+        "vit_b2_mg": 0.15,
+        "vit_b3_mg": 8.5,
+        "vit_b5_mg": 1.2,
+        "vit_b6_mg": 0.6,
+        "vit_b9_ug": 55,
+        "vit_b12_ug": 0.3,
+        "vit_a_ug": 650,
+        "vit_d_ui": 0,
+        "vit_e_mg": 1.1,
+        "vit_k_ug": 15
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "poke-bowl-flessibile",
     "title": "💥Poke Bowl Flessibile (Tofu, Pollo o Gamberi)",
-    "category": "Pranzo",
     "image_url": "https://ilovepoke.it/wp-content/uploads/2026/03/poke-bowl-crispy-chicken-croccantezza-irresistibile-1774281960.png",
-    "prep_time_min": 15,
-    "storage_notes": "Perfetta per il meal prep. Tieni il condimento liquido in un piccolo contenitore a parte e versalo prima di mangiare.",
     "preparation_steps": [
       "Cuoci il farro o il riso, scolalo e lascialo raffreddare.",
       "Sbollenta gli edamame surgelati per 3 minuti e sgusciali.",
@@ -781,30 +1852,75 @@
       "Disponi il farro alla base della bowl. Aggiungi sopra a spicchi la proteina, gli edamame e le verdure. Condisci con la salsa."
     ],
     "ingredients_single_serving": [
-      { "name": "Farro perlato (o Riso)", "amount": 80, "unit": "g" },
-      { "name": "Pollo, Gamberi o Tofu", "amount": 100, "unit": "g" },
-      { "name": "Fagioli Edamame sgusciati", "amount": 60, "unit": "g" },
-      { "name": "Cetrioli e Carote", "amount": 80, "unit": "g" },
-      { "name": "Dressing (Salsa di soia, Olio di sesamo, Lime)", "amount": 20, "unit": "g" }
+      {
+        "name": "Farro perlato (o Riso)",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Pollo, Gamberi o Tofu",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Fagioli Edamame sgusciati",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Cetrioli e Carote",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Dressing (Salsa di soia, Olio di sesamo, Lime)",
+        "amount": 20,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 560,
-      "macros": { "protein_g": 38.0, "carbs_g": 65.0, "fat_g": 16.0, "fiber_g": 10.0 },
+      "macros": {
+        "protein_g": 38.0,
+        "carbs_g": 65.0,
+        "fat_g": 16.0,
+        "fiber_g": 10.0
+      },
       "micros": {
-        "calcium_mg": 120, "magnesium_mg": 145, "potassium_mg": 720, "sodium_mg": 1150, "phosphorus_mg": 460,
-        "iron_mg": 4.5, "zinc_mg": 3.5, "copper_mg": 0.5, "manganese_mg": 1.6, "selenium_ug": 28, "iodine_ug": 35,
-        "vit_c_mg": 18, "vit_b1_mg": 0.25, "vit_b2_mg": 0.2, "vit_b3_mg": 10.5, "vit_b5_mg": 1.4, "vit_b6_mg": 0.8,
-        "vit_b9_ug": 110, "vit_b12_ug": 0.5, "vit_a_ug": 750, "vit_d_ui": 0, "vit_e_mg": 1.8, "vit_k_ug": 35
+        "calcium_mg": 120,
+        "magnesium_mg": 145,
+        "potassium_mg": 720,
+        "sodium_mg": 1150,
+        "phosphorus_mg": 460,
+        "iron_mg": 4.5,
+        "zinc_mg": 3.5,
+        "copper_mg": 0.5,
+        "manganese_mg": 1.6,
+        "selenium_ug": 28,
+        "iodine_ug": 35,
+        "vit_c_mg": 18,
+        "vit_b1_mg": 0.25,
+        "vit_b2_mg": 0.2,
+        "vit_b3_mg": 10.5,
+        "vit_b5_mg": 1.4,
+        "vit_b6_mg": 0.8,
+        "vit_b9_ug": 110,
+        "vit_b12_ug": 0.5,
+        "vit_a_ug": 750,
+        "vit_d_ui": 0,
+        "vit_e_mg": 1.8,
+        "vit_k_ug": 35
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "focaccine-yogurt-tacchino",
     "title": "Focaccine allo Yogurt Ripiene (Tacchino e Spinaci)",
-    "category": "Pranzo",
     "image_url": "https://www.fattoincasadabenedetta.it/wp-content/uploads/2022/03/Focaccine-in-padella-senza-lievitazione-foto-sito-4-1200x900.jpg",
-    "prep_time_min": 15,
-    "storage_notes": "Le focaccine vuote si conservano 2 giorni in un sacchetto di carta. Farcire solo al momento di consumare per non inumidire l'impasto.",
     "preparation_steps": [
       "In una ciotola, mescola la farina, il lievito istantaneo, un pizzico di sale e lo yogurt greco. Impasta con le mani per 2-3 minuti fino a formare un panetto liscio e non appiccicoso.",
       "Dividi l'impasto in due o tre palline e stendile con le mani o con un matterello fino a uno spessore di circa 1 cm.",
@@ -812,31 +1928,80 @@
       "Tagliale a metà come un panino e farcisci con la fesa di tacchino, gli spinacini freschi e i pomodorini tagliati a fette."
     ],
     "ingredients_single_serving": [
-      { "name": "Yogurt Greco 0%", "amount": 150, "unit": "g" },
-      { "name": "Farina (00, Avena o Farro)", "amount": 150, "unit": "g" },
-      { "name": "Lievito istantaneo per torte salate", "amount": 4, "unit": "g" },
-      { "name": "Fesa di tacchino a fette", "amount": 100, "unit": "g" },
-      { "name": "Spinacino fresco", "amount": 30, "unit": "g" },
-      { "name": "Pomodorini", "amount": 50, "unit": "g" }
+      {
+        "name": "Yogurt Greco 0%",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Farina (00, Avena o Farro)",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Lievito istantaneo per torte salate",
+        "amount": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Fesa di tacchino a fette",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Spinacino fresco",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Pomodorini",
+        "amount": 50,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 710,
-      "macros": { "protein_g": 54.0, "carbs_g": 115.0, "fat_g": 3.5, "fiber_g": 5.0 },
+      "macros": {
+        "protein_g": 54.0,
+        "carbs_g": 115.0,
+        "fat_g": 3.5,
+        "fiber_g": 5.0
+      },
       "micros": {
-        "calcium_mg": 320, "magnesium_mg": 75, "potassium_mg": 610, "sodium_mg": 890, "phosphorus_mg": 410,
-        "iron_mg": 3.2, "zinc_mg": 2.5, "copper_mg": 0.2, "manganese_mg": 1.1, "selenium_ug": 30, "iodine_ug": 15,
-        "vit_c_mg": 15, "vit_b1_mg": 0.3, "vit_b2_mg": 0.45, "vit_b3_mg": 14.0, "vit_b5_mg": 1.2, "vit_b6_mg": 0.8,
-        "vit_b9_ug": 65, "vit_b12_ug": 1.1, "vit_a_ug": 350, "vit_d_ui": 0, "vit_e_mg": 0.8, "vit_k_ug": 140
+        "calcium_mg": 320,
+        "magnesium_mg": 75,
+        "potassium_mg": 610,
+        "sodium_mg": 890,
+        "phosphorus_mg": 410,
+        "iron_mg": 3.2,
+        "zinc_mg": 2.5,
+        "copper_mg": 0.2,
+        "manganese_mg": 1.1,
+        "selenium_ug": 30,
+        "iodine_ug": 15,
+        "vit_c_mg": 15,
+        "vit_b1_mg": 0.3,
+        "vit_b2_mg": 0.45,
+        "vit_b3_mg": 14.0,
+        "vit_b5_mg": 1.2,
+        "vit_b6_mg": 0.8,
+        "vit_b9_ug": 65,
+        "vit_b12_ug": 1.1,
+        "vit_a_ug": 350,
+        "vit_d_ui": 0,
+        "vit_e_mg": 0.8,
+        "vit_k_ug": 140
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "merluzzo-crosta-noci",
     "title": "💥Merluzzo in Crosta di Noci con Broccoli",
-    "category": "Cena",
     "image_url": "https://www.giallozafferano.it/images/179-17934/Merluzzo-in-crosta-di-noci_650x433_wm.jpg",
-    "prep_time_min": 25,
-    "storage_notes": "Conservare in frigo fino a 2 giorni. Scaldare in forno a 180°C per 5 minuti per ridare croccantezza alla panatura. Evitare il microonde che lo rende gommoso.",
     "preparation_steps": [
       "Preriscalda il forno a 200°C. Se usi merluzzo surgelato, assicurati di averlo fatto scongelare e tamponalo bene con carta assorbente.",
       "Trita le noci sgusciate fino a ridurle in granella fine. Mescolale in una ciotolina con il pangrattato, il prezzemolo tritato, sale, pepe e l'olio EVO.",
@@ -845,31 +2010,80 @@
       "Inforna per 15-20 minuti finché la crosta non risulta dorata e i broccoli teneri ma ancora croccanti."
     ],
     "ingredients_single_serving": [
-      { "name": "Cuori di merluzzo (o nasello)", "amount": 250, "unit": "g" },
-      { "name": "Noci sgusciate", "amount": 30, "unit": "g" },
-      { "name": "Pangrattato", "amount": 15, "unit": "g" },
-      { "name": "Olio EVO", "amount": 10, "unit": "g" },
-      { "name": "Prezzemolo fresco", "amount": 5, "unit": "g" },
-      { "name": "Broccoli freschi", "amount": 200, "unit": "g" }
+      {
+        "name": "Cuori di merluzzo (o nasello)",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Noci sgusciate",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Pangrattato",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Prezzemolo fresco",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Broccoli freschi",
+        "amount": 200,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 615,
-      "macros": { "protein_g": 57.0, "carbs_g": 29.0, "fat_g": 31.0, "fiber_g": 8.5 },
+      "macros": {
+        "protein_g": 57.0,
+        "carbs_g": 29.0,
+        "fat_g": 31.0,
+        "fiber_g": 8.5
+      },
       "micros": {
-        "calcium_mg": 185, "magnesium_mg": 125, "potassium_mg": 1350, "sodium_mg": 380, "phosphorus_mg": 680,
-        "iron_mg": 3.8, "zinc_mg": 2.9, "copper_mg": 0.6, "manganese_mg": 1.4, "selenium_ug": 85, "iodine_ug": 110,
-        "vit_c_mg": 180, "vit_b1_mg": 0.4, "vit_b2_mg": 0.35, "vit_b3_mg": 8.0, "vit_b5_mg": 1.5, "vit_b6_mg": 1.0,
-        "vit_b9_ug": 135, "vit_b12_ug": 2.5, "vit_a_ug": 120, "vit_d_ui": 45, "vit_e_mg": 2.5, "vit_k_ug": 210
+        "calcium_mg": 185,
+        "magnesium_mg": 125,
+        "potassium_mg": 1350,
+        "sodium_mg": 380,
+        "phosphorus_mg": 680,
+        "iron_mg": 3.8,
+        "zinc_mg": 2.9,
+        "copper_mg": 0.6,
+        "manganese_mg": 1.4,
+        "selenium_ug": 85,
+        "iodine_ug": 110,
+        "vit_c_mg": 180,
+        "vit_b1_mg": 0.4,
+        "vit_b2_mg": 0.35,
+        "vit_b3_mg": 8.0,
+        "vit_b5_mg": 1.5,
+        "vit_b6_mg": 1.0,
+        "vit_b9_ug": 135,
+        "vit_b12_ug": 2.5,
+        "vit_a_ug": 120,
+        "vit_d_ui": 45,
+        "vit_e_mg": 2.5,
+        "vit_k_ug": 210
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "ragu-lenticchie-rosse-basmati",
     "title": "Ragù di Lenticchie Rosse e Riso Basmati",
-    "category": "Pranzo",
     "image_url": "https://media-assets.lacucinaitaliana.it/photos/61f953ed983c2763df3cc6fa/1:1/w_2560%2Cc_limit/Ragu-di-lenticchie-rosse-con-pasta-corta.jpg",
-    "prep_time_min": 25,
-    "storage_notes": "Eccezionale per il meal prep, si conserva 4-5 giorni in frigo e si può congelare a porzioni. Le lenticchie decorticate mantengono bene la consistenza.",
     "preparation_steps": [
       "Cuoci il riso Basmati, scolalo e tienilo da parte.",
       "Sciacqua molto bene le lenticchie rosse decorticate sotto l'acqua corrente (non serve ammollo).",
@@ -879,29 +2093,70 @@
       "A fuoco spento, sala, aggiungi l'olio EVO a crudo e condisci il riso con questo ragù."
     ],
     "ingredients_single_serving": [
-      { "name": "Lenticchie rosse decorticate", "amount": 100, "unit": "g" },
-      { "name": "Riso Basmati", "amount": 100, "unit": "g" },
-      { "name": "Misto soffritto (carota, sedano)", "amount": 30, "unit": "g" },
-      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+      {
+        "name": "Lenticchie rosse decorticate",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Riso Basmati",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Misto soffritto (carota, sedano)",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 10,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 840,
-      "macros": { "protein_g": 35.0, "carbs_g": 145.0, "fat_g": 13.0, "fiber_g": 14.5 },
+      "macros": {
+        "protein_g": 35.0,
+        "carbs_g": 145.0,
+        "fat_g": 13.0,
+        "fiber_g": 14.5
+      },
       "micros": {
-        "calcium_mg": 95, "magnesium_mg": 165, "potassium_mg": 1250, "sodium_mg": 350, "phosphorus_mg": 520,
-        "iron_mg": 8.5, "zinc_mg": 4.8, "copper_mg": 1.1, "manganese_mg": 2.2, "selenium_ug": 18, "iodine_ug": 10,
-        "vit_c_mg": 25, "vit_b1_mg": 0.7, "vit_b2_mg": 0.25, "vit_b3_mg": 7.5, "vit_b5_mg": 2.1, "vit_b6_mg": 0.6,
-        "vit_b9_ug": 480, "vit_b12_ug": 0.0, "vit_a_ug": 750, "vit_d_ui": 0, "vit_e_mg": 2.5, "vit_k_ug": 15
+        "calcium_mg": 95,
+        "magnesium_mg": 165,
+        "potassium_mg": 1250,
+        "sodium_mg": 350,
+        "phosphorus_mg": 520,
+        "iron_mg": 8.5,
+        "zinc_mg": 4.8,
+        "copper_mg": 1.1,
+        "manganese_mg": 2.2,
+        "selenium_ug": 18,
+        "iodine_ug": 10,
+        "vit_c_mg": 25,
+        "vit_b1_mg": 0.7,
+        "vit_b2_mg": 0.25,
+        "vit_b3_mg": 7.5,
+        "vit_b5_mg": 2.1,
+        "vit_b6_mg": 0.6,
+        "vit_b9_ug": 480,
+        "vit_b12_ug": 0.0,
+        "vit_a_ug": 750,
+        "vit_d_ui": 0,
+        "vit_e_mg": 2.5,
+        "vit_k_ug": 15
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "straccetti-manzo-broccoli-mandorle",
     "title": "💥Straccetti di Manzo, Broccoli e Mandorle",
-    "category": "Cena",
     "image_url": "https://hips.hearstapps.com/hmg-prod/images/beef-and-broccoli-index-640a1b66df825.jpg",
-    "prep_time_min": 20,
-    "storage_notes": "Si conserva per 3 giorni in frigo. Il riso tenderà ad assorbire la salsa, quindi aggiungi un cucchiaino di acqua o salsa di soia prima di scaldare in microonde.",
     "preparation_steps": [
       "Cuoci il riso Basmati e lascialo da parte.",
       "Taglia i broccoli a cimette piccole e sbollentali per 4-5 minuti in acqua (o cuocili a vapore/microonde) affinché siano cotti ma sodi.",
@@ -910,31 +2165,80 @@
       "Fai saltare tutto insieme per un altro minuto in modo che la soia glassi la carne e i broccoli. Servi sul letto di riso."
     ],
     "ingredients_single_serving": [
-      { "name": "Fettine di manzo magro (es. noce o girello)", "amount": 200, "unit": "g" },
-      { "name": "Broccoli freschi", "amount": 150, "unit": "g" },
-      { "name": "Mandorle a scaglie", "amount": 20, "unit": "g" },
-      { "name": "Salsa di soia", "amount": 15, "unit": "g" },
-      { "name": "Olio EVO", "amount": 5, "unit": "g" },
-      { "name": "Riso Basmati", "amount": 100, "unit": "g" }
+      {
+        "name": "Fettine di manzo magro (es. noce o girello)",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Broccoli freschi",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Mandorle a scaglie",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Salsa di soia",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Riso Basmati",
+        "amount": 100,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 770,
-      "macros": { "protein_g": 58.0, "carbs_g": 92.0, "fat_g": 20.0, "fiber_g": 8.0 },
+      "macros": {
+        "protein_g": 58.0,
+        "carbs_g": 92.0,
+        "fat_g": 20.0,
+        "fiber_g": 8.0
+      },
       "micros": {
-        "calcium_mg": 165, "magnesium_mg": 150, "potassium_mg": 1380, "sodium_mg": 980, "phosphorus_mg": 650,
-        "iron_mg": 7.5, "zinc_mg": 9.5, "copper_mg": 0.7, "manganese_mg": 1.8, "selenium_ug": 45, "iodine_ug": 15,
-        "vit_c_mg": 135, "vit_b1_mg": 0.45, "vit_b2_mg": 0.65, "vit_b3_mg": 18.0, "vit_b5_mg": 2.1, "vit_b6_mg": 1.4,
-        "vit_b9_ug": 125, "vit_b12_ug": 4.5, "vit_a_ug": 110, "vit_d_ui": 5, "vit_e_mg": 6.5, "vit_k_ug": 155
+        "calcium_mg": 165,
+        "magnesium_mg": 150,
+        "potassium_mg": 1380,
+        "sodium_mg": 980,
+        "phosphorus_mg": 650,
+        "iron_mg": 7.5,
+        "zinc_mg": 9.5,
+        "copper_mg": 0.7,
+        "manganese_mg": 1.8,
+        "selenium_ug": 45,
+        "iodine_ug": 15,
+        "vit_c_mg": 135,
+        "vit_b1_mg": 0.45,
+        "vit_b2_mg": 0.65,
+        "vit_b3_mg": 18.0,
+        "vit_b5_mg": 2.1,
+        "vit_b6_mg": 1.4,
+        "vit_b9_ug": 125,
+        "vit_b12_ug": 4.5,
+        "vit_a_ug": 110,
+        "vit_d_ui": 5,
+        "vit_e_mg": 6.5,
+        "vit_k_ug": 155
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "pasta-pesto-zucchine-pollo",
     "title": "Pasta Integrale al Pesto di Zucchine e Mandorle con Pollo",
-    "category": "Pranzo",
     "image_url": "https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2018/06/fusilli-al-pesto-di-zucchine-e-mandorle/fusilli-pesto-zucchine-mandorle-rit.jpg",
-    "prep_time_min": 15,
-    "storage_notes": "Ottima sia calda che fredda. In frigo dura 3-4 giorni. Se si asciuga troppo, mescola bene aggiungendo un cucchiaino d'acqua al momento del consumo.",
     "preparation_steps": [
       "Cuoci la pasta integrale in abbondante acqua salata.",
       "Nel frattempo, lava la zucchina e tagliala a pezzetti (puoi usarla a crudo o sbollentarla 2 minuti in acqua per un colore più brillante).",
@@ -943,31 +2247,80 @@
       "Scola la pasta e saltala in padella col pollo e il pesto di zucchine, aggiungendo pochissima acqua di cottura se necessario."
     ],
     "ingredients_single_serving": [
-      { "name": "Pasta integrale (fusilli o penne)", "amount": 120, "unit": "g" },
-      { "name": "Zucchina cruda", "amount": 150, "unit": "g" },
-      { "name": "Mandorle sgusciate", "amount": 20, "unit": "g" },
-      { "name": "Parmigiano Reggiano", "amount": 10, "unit": "g" },
-      { "name": "Olio EVO", "amount": 5, "unit": "g" },
-      { "name": "Petto di pollo", "amount": 150, "unit": "g" }
+      {
+        "name": "Pasta integrale (fusilli o penne)",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Zucchina cruda",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Mandorle sgusciate",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Parmigiano Reggiano",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Petto di pollo",
+        "amount": 150,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 820,
-      "macros": { "protein_g": 60.0, "carbs_g": 85.0, "fat_g": 23.0, "fiber_g": 13.0 },
+      "macros": {
+        "protein_g": 60.0,
+        "carbs_g": 85.0,
+        "fat_g": 23.0,
+        "fiber_g": 13.0
+      },
       "micros": {
-        "calcium_mg": 285, "magnesium_mg": 210, "potassium_mg": 950, "sodium_mg": 250, "phosphorus_mg": 680,
-        "iron_mg": 5.8, "zinc_mg": 5.2, "copper_mg": 0.8, "manganese_mg": 3.8, "selenium_ug": 85, "iodine_ug": 25,
-        "vit_c_mg": 25, "vit_b1_mg": 0.6, "vit_b2_mg": 0.45, "vit_b3_mg": 26.0, "vit_b5_mg": 2.5, "vit_b6_mg": 1.4,
-        "vit_b9_ug": 95, "vit_b12_ug": 0.5, "vit_a_ug": 85, "vit_d_ui": 0, "vit_e_mg": 6.8, "vit_k_ug": 15
+        "calcium_mg": 285,
+        "magnesium_mg": 210,
+        "potassium_mg": 950,
+        "sodium_mg": 250,
+        "phosphorus_mg": 680,
+        "iron_mg": 5.8,
+        "zinc_mg": 5.2,
+        "copper_mg": 0.8,
+        "manganese_mg": 3.8,
+        "selenium_ug": 85,
+        "iodine_ug": 25,
+        "vit_c_mg": 25,
+        "vit_b1_mg": 0.6,
+        "vit_b2_mg": 0.45,
+        "vit_b3_mg": 26.0,
+        "vit_b5_mg": 2.5,
+        "vit_b6_mg": 1.4,
+        "vit_b9_ug": 95,
+        "vit_b12_ug": 0.5,
+        "vit_a_ug": 85,
+        "vit_d_ui": 0,
+        "vit_e_mg": 6.8,
+        "vit_k_ug": 15
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "curry-vegano-tofu-cavolo-nero",
     "title": "Curry Vegano di Tofu e Cavolo Nero con Quinoa",
-    "category": "Cena",
     "image_url": "https://www.connoisseurusveg.com/wp-content/uploads/2021/01/tofu-curry-sq-1.jpg",
-    "prep_time_min": 20,
-    "storage_notes": "Perfetto per il meal prep. Il cavolo nero nel latte di cocco si ammorbidisce col passare dei giorni e assorbe il curry. Si conserva in frigo per 4 giorni.",
     "preparation_steps": [
       "Sciacqua bene la quinoa sotto l'acqua per togliere l'amaro (saponine) e cuocila in acqua bollente salata per circa 12-15 minuti. Scola e tieni da parte.",
       "Lava il cavolo nero e rimuovi la costa centrale dura. Taglia le foglie a listarelle sottili.",
@@ -977,31 +2330,80 @@
       "Servi il curry di tofu caldo sopra il letto di quinoa."
     ],
     "ingredients_single_serving": [
-      { "name": "Tofu fermo (al naturale)", "amount": 200, "unit": "g" },
-      { "name": "Quinoa", "amount": 100, "unit": "g" },
-      { "name": "Cavolo nero fresco (pesato pulito)", "amount": 150, "unit": "g" },
-      { "name": "Latte di cocco light (in lattina o brick)", "amount": 60, "unit": "ml" },
-      { "name": "Curry in polvere", "amount": 5, "unit": "g" },
-      { "name": "Olio EVO", "amount": 5, "unit": "g" }
+      {
+        "name": "Tofu fermo (al naturale)",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Cavolo nero fresco (pesato pulito)",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Latte di cocco light (in lattina o brick)",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "Curry in polvere",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 5,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 720,
-      "macros": { "protein_g": 42.0, "carbs_g": 72.0, "fat_g": 26.0, "fiber_g": 16.0 },
+      "macros": {
+        "protein_g": 42.0,
+        "carbs_g": 72.0,
+        "fat_g": 26.0,
+        "fiber_g": 16.0
+      },
       "micros": {
-        "calcium_mg": 450, "magnesium_mg": 290, "potassium_mg": 1200, "sodium_mg": 150, "phosphorus_mg": 680,
-        "iron_mg": 10.5, "zinc_mg": 5.2, "copper_mg": 1.1, "manganese_mg": 3.8, "selenium_ug": 15, "iodine_ug": 5,
-        "vit_c_mg": 140, "vit_b1_mg": 0.4, "vit_b2_mg": 0.3, "vit_b3_mg": 3.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.6,
-        "vit_b9_ug": 180, "vit_b12_ug": 0.0, "vit_a_ug": 950, "vit_d_ui": 0, "vit_e_mg": 3.5, "vit_k_ug": 650
+        "calcium_mg": 450,
+        "magnesium_mg": 290,
+        "potassium_mg": 1200,
+        "sodium_mg": 150,
+        "phosphorus_mg": 680,
+        "iron_mg": 10.5,
+        "zinc_mg": 5.2,
+        "copper_mg": 1.1,
+        "manganese_mg": 3.8,
+        "selenium_ug": 15,
+        "iodine_ug": 5,
+        "vit_c_mg": 140,
+        "vit_b1_mg": 0.4,
+        "vit_b2_mg": 0.3,
+        "vit_b3_mg": 3.5,
+        "vit_b5_mg": 1.2,
+        "vit_b6_mg": 0.6,
+        "vit_b9_ug": 180,
+        "vit_b12_ug": 0.0,
+        "vit_a_ug": 950,
+        "vit_d_ui": 0,
+        "vit_e_mg": 3.5,
+        "vit_k_ug": 650
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "tempeh-patate-dolci-cavoletti",
     "title": "Bowl Vegana: Tempeh Glassato, Patate Dolci e Cavoletti",
-    "category": "Pranzo",
     "image_url": "https://choosingchia.com/janna/wp-content/uploads/2019/11/Balsamic-roasted-brussels-sprouts-sweet-potatoes-2.jpg",
-    "prep_time_min": 30,
-    "storage_notes": "Si conserva in frigo per 4 giorni. Le patate dolci e il tempeh sono ottimi anche mangiati a temperatura ambiente, ideale se non hai un microonde all'università.",
     "preparation_steps": [
       "Preriscalda il forno a 200°C.",
       "Lava le patate dolci (americane) e tagliale a cubetti regolari. Pulisci i cavoletti di Bruxelles (o i broccoli) e tagliali a metà. Disponili su una teglia con carta forno, condisci con un filo d'olio, sale e pepe e inforna per 25-30 minuti.",
@@ -1011,31 +2413,80 @@
       "Componi la tua bowl con le verdure arrosto ad alto contenuto di fibre e il tempeh glassato al centro."
     ],
     "ingredients_single_serving": [
-      { "name": "Tempeh al naturale", "amount": 150, "unit": "g" },
-      { "name": "Patate dolci (Batata)", "amount": 300, "unit": "g" },
-      { "name": "Cavoletti di Bruxelles (o Broccoli)", "amount": 200, "unit": "g" },
-      { "name": "Salsa di soia", "amount": 15, "unit": "g" },
-      { "name": "Sciroppo d'acero (o zucchero/miele)", "amount": 5, "unit": "g" },
-      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+      {
+        "name": "Tempeh al naturale",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Patate dolci (Batata)",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Cavoletti di Bruxelles (o Broccoli)",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Salsa di soia",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Sciroppo d'acero (o zucchero/miele)",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 10,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 715,
-      "macros": { "protein_g": 38.0, "carbs_g": 85.0, "fat_g": 22.0, "fiber_g": 18.5 },
+      "macros": {
+        "protein_g": 38.0,
+        "carbs_g": 85.0,
+        "fat_g": 22.0,
+        "fiber_g": 18.5
+      },
       "micros": {
-        "calcium_mg": 280, "magnesium_mg": 210, "potassium_mg": 1750, "sodium_mg": 850, "phosphorus_mg": 560,
-        "iron_mg": 6.8, "zinc_mg": 4.5, "copper_mg": 0.8, "manganese_mg": 2.1, "selenium_ug": 10, "iodine_ug": 12,
-        "vit_c_mg": 185, "vit_b1_mg": 0.35, "vit_b2_mg": 0.5, "vit_b3_mg": 7.0, "vit_b5_mg": 2.2, "vit_b6_mg": 0.9,
-        "vit_b9_ug": 155, "vit_b12_ug": 0.0, "vit_a_ug": 2200, "vit_d_ui": 0, "vit_e_mg": 2.8, "vit_k_ug": 320
+        "calcium_mg": 280,
+        "magnesium_mg": 210,
+        "potassium_mg": 1750,
+        "sodium_mg": 850,
+        "phosphorus_mg": 560,
+        "iron_mg": 6.8,
+        "zinc_mg": 4.5,
+        "copper_mg": 0.8,
+        "manganese_mg": 2.1,
+        "selenium_ug": 10,
+        "iodine_ug": 12,
+        "vit_c_mg": 185,
+        "vit_b1_mg": 0.35,
+        "vit_b2_mg": 0.5,
+        "vit_b3_mg": 7.0,
+        "vit_b5_mg": 2.2,
+        "vit_b6_mg": 0.9,
+        "vit_b9_ug": 155,
+        "vit_b12_ug": 0.0,
+        "vit_a_ug": 2200,
+        "vit_d_ui": 0,
+        "vit_e_mg": 2.8,
+        "vit_k_ug": 320
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "curry-pollo-broccoli-ceci",
     "title": "💥Curry di Pollo, Broccoli e Ceci (High Fiber)",
-    "category": "Cena",
     "image_url": "https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2019/11/curry-di-pollo-con-ceci-e-spinaci/curry-pollo-ceci-spinaci-rit.jpg",
-    "prep_time_min": 20,
-    "storage_notes": "Eccezionale per il meal prep. I broccoli nel curry si ammorbidiscono e assorbono il sapore. Conservare in frigo per 4 giorni.",
     "preparation_steps": [
       "Dividi il broccolo in cimette piccole. Sbollentale in acqua per 3 minuti o passale al microonde affinché siano cotte ma ancora tenaci.",
       "Cuoci il riso Basmati a parte.",
@@ -1045,31 +2496,80 @@
       "Abbassa la fiamma, metti il coperchio e lascia restringere per 5 minuti. Servi il curry sul letto di riso."
     ],
     "ingredients_single_serving": [
-      { "name": "Petto di pollo", "amount": 150, "unit": "g" },
-      { "name": "Broccoli freschi", "amount": 200, "unit": "g" },
-      { "name": "Ceci in scatola (sgocciolati)", "amount": 100, "unit": "g" },
-      { "name": "Riso Basmati", "amount": 80, "unit": "g" },
-      { "name": "Curry in polvere", "amount": 5, "unit": "g" },
-      { "name": "Olio EVO", "amount": 10, "unit": "g" }
+      {
+        "name": "Petto di pollo",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Broccoli freschi",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Ceci in scatola (sgocciolati)",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Riso Basmati",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Curry in polvere",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 10,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 670,
-      "macros": { "protein_g": 54.0, "carbs_g": 78.0, "fat_g": 14.5, "fiber_g": 15.0 },
+      "macros": {
+        "protein_g": 54.0,
+        "carbs_g": 78.0,
+        "fat_g": 14.5,
+        "fiber_g": 15.0
+      },
       "micros": {
-        "calcium_mg": 165, "magnesium_mg": 115, "potassium_mg": 1250, "sodium_mg": 410, "phosphorus_mg": 520,
-        "iron_mg": 5.2, "zinc_mg": 4.1, "copper_mg": 0.6, "manganese_mg": 1.8, "selenium_ug": 35, "iodine_ug": 15,
-        "vit_c_mg": 175, "vit_b1_mg": 0.4, "vit_b2_mg": 0.35, "vit_b3_mg": 19.0, "vit_b5_mg": 2.1, "vit_b6_mg": 1.4,
-        "vit_b9_ug": 190, "vit_b12_ug": 0.5, "vit_a_ug": 130, "vit_d_ui": 0, "vit_e_mg": 2.5, "vit_k_ug": 200
+        "calcium_mg": 165,
+        "magnesium_mg": 115,
+        "potassium_mg": 1250,
+        "sodium_mg": 410,
+        "phosphorus_mg": 520,
+        "iron_mg": 5.2,
+        "zinc_mg": 4.1,
+        "copper_mg": 0.6,
+        "manganese_mg": 1.8,
+        "selenium_ug": 35,
+        "iodine_ug": 15,
+        "vit_c_mg": 175,
+        "vit_b1_mg": 0.4,
+        "vit_b2_mg": 0.35,
+        "vit_b3_mg": 19.0,
+        "vit_b5_mg": 2.1,
+        "vit_b6_mg": 1.4,
+        "vit_b9_ug": 190,
+        "vit_b12_ug": 0.5,
+        "vit_a_ug": 130,
+        "vit_d_ui": 0,
+        "vit_e_mg": 2.5,
+        "vit_k_ug": 200
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "chili-vegano-tofu-fagioli",
     "title": "Chili Vegano (Tofu Sbriciolato e Fagioli Neri)",
-    "category": "Pranzo",
     "image_url": "https://cookieandkate.com/images/2015/11/vegetarian-chili-recipe-2.jpg",
-    "prep_time_min": 25,
-    "storage_notes": "Come ogni chili, il giorno dopo è ancora più buono. Si congela perfettamente in monoporzioni. In frigo dura fino a 5 giorni.",
     "preparation_steps": [
       "Cuoci il riso a parte.",
       "Prendi il panetto di tofu (meglio se affumicato per dare il sapore 'barbecue', ma va bene anche naturale) e asciugalo con carta assorbente. Sbriciolalo grossolanamente con le mani in una ciotola (deve sembrare macinato).",
@@ -1079,32 +2579,85 @@
       "Lascia sobbollire per 15 minuti finché il sugo non diventa denso e cremoso. Servi nella bowl separato dal riso."
     ],
     "ingredients_single_serving": [
-      { "name": "Tofu al naturale o Affumicato", "amount": 150, "unit": "g" },
-      { "name": "Fagioli Neri in scatola (sgocciolati)", "amount": 120, "unit": "g" },
-      { "name": "Mais dolce in scatola", "amount": 50, "unit": "g" },
-      { "name": "Passata di pomodoro", "amount": 150, "unit": "g" },
-      { "name": "Mix spezie (Paprika, Cumino, Peperoncino)", "amount": 5, "unit": "g" },
-      { "name": "Olio EVO", "amount": 10, "unit": "g" },
-      { "name": "Riso Integrale o Basmati", "amount": 100, "unit": "g" }
+      {
+        "name": "Tofu al naturale o Affumicato",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Fagioli Neri in scatola (sgocciolati)",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Mais dolce in scatola",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Passata di pomodoro",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Mix spezie (Paprika, Cumino, Peperoncino)",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Olio EVO",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Riso Integrale o Basmati",
+        "amount": 100,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 790,
-      "macros": { "protein_g": 42.0, "carbs_g": 108.0, "fat_g": 22.0, "fiber_g": 17.5 },
+      "macros": {
+        "protein_g": 42.0,
+        "carbs_g": 108.0,
+        "fat_g": 22.0,
+        "fiber_g": 17.5
+      },
       "micros": {
-        "calcium_mg": 380, "magnesium_mg": 210, "potassium_mg": 1150, "sodium_mg": 450, "phosphorus_mg": 580,
-        "iron_mg": 8.5, "zinc_mg": 4.2, "copper_mg": 0.8, "manganese_mg": 2.5, "selenium_ug": 22, "iodine_ug": 10,
-        "vit_c_mg": 15, "vit_b1_mg": 0.6, "vit_b2_mg": 0.35, "vit_b3_mg": 6.0, "vit_b5_mg": 1.2, "vit_b6_mg": 0.5,
-        "vit_b9_ug": 210, "vit_b12_ug": 0.0, "vit_a_ug": 450, "vit_d_ui": 0, "vit_e_mg": 2.8, "vit_k_ug": 12
+        "calcium_mg": 380,
+        "magnesium_mg": 210,
+        "potassium_mg": 1150,
+        "sodium_mg": 450,
+        "phosphorus_mg": 580,
+        "iron_mg": 8.5,
+        "zinc_mg": 4.2,
+        "copper_mg": 0.8,
+        "manganese_mg": 2.5,
+        "selenium_ug": 22,
+        "iodine_ug": 10,
+        "vit_c_mg": 15,
+        "vit_b1_mg": 0.6,
+        "vit_b2_mg": 0.35,
+        "vit_b3_mg": 6.0,
+        "vit_b5_mg": 1.2,
+        "vit_b6_mg": 0.5,
+        "vit_b9_ug": 210,
+        "vit_b12_ug": 0.0,
+        "vit_a_ug": 450,
+        "vit_d_ui": 0,
+        "vit_e_mg": 2.8,
+        "vit_k_ug": 12
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "💥💥cinnamon-rolls-lievitazione-vera",
     "title": "Cinnamon Rolls Proteici (Vera Lievitazione)",
-    "category": "Colazione",
     "image_url": "https://images.unsplash.com/photo-1509365465994-3e5dfd5a2106?auto=format&fit=crop&w=1000&q=85",
-    "prep_time_min": 120,
-    "storage_notes": "Grazie al lievito di birra, si mantengono morbidi molto più a lungo. Conservali in un contenitore chiuso in frigo per 4 giorni. Basteranno 20 secondi di microonde per farli tornare caldi e soffici come appena sfornati.",
     "preparation_steps": [
       "In una tazzina, scalda leggermente il latte (deve essere tiepido, non bollente), scioglici dentro il miele e il lievito di birra secco. Lascia riposare 5 minuti finché non fa una leggera schiuma.",
       "In una ciotola, mescola la farina (meglio se Manitoba) e 20g di proteine di pisello. Aggiungi il composto di latte e lievito e impasta energicamente per 5-10 minuti fino a ottenere un panetto liscio ed elastico. (Se serve, aggiungi pochissima acqua).",
@@ -1114,34 +2667,94 @@
       "Cuoci a 180°C per 18-20 minuti. Sforna e, mentre sono roventi, glassali con la cremina fatta mescolando lo yogurt greco, i restanti 10g di proteine e un goccio di latte."
     ],
     "ingredients_single_serving": [
-      { "name": "Farina (Manitoba o 00 forte)", "amount": 120, "unit": "g" },
-      { "name": "Proteine in polvere (Pisello, Vaniglia o Neutre)", "amount": 30, "unit": "g" },
-      { "name": "Latte (parzialmente scremato o vegetale)", "amount": 80, "unit": "ml" },
-      { "name": "Lievito di birra secco", "amount": 3, "unit": "g (circa mezza bustina)" },
-      { "name": "Miele (per attivare il lievito)", "amount": 5, "unit": "g" },
-      { "name": "Burro fuso (per il ripieno)", "amount": 10, "unit": "g" },
-      { "name": "Cannella in polvere", "amount": 10, "unit": "g" },
-      { "name": "Eritritolo (o zucchero)", "amount": 15, "unit": "g" },
-      { "name": "Yogurt Greco 0% (per la glassa)", "amount": 30, "unit": "g" }
+      {
+        "name": "Farina (Manitoba o 00 forte)",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Proteine in polvere (Pisello, Vaniglia o Neutre)",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Latte (parzialmente scremato o vegetale)",
+        "amount": 80,
+        "unit": "ml"
+      },
+      {
+        "name": "Lievito di birra secco",
+        "amount": 3,
+        "unit": "g (circa mezza bustina)"
+      },
+      {
+        "name": "Miele (per attivare il lievito)",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Burro fuso (per il ripieno)",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Cannella in polvere",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Eritritolo (o zucchero)",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt Greco 0% (per la glassa)",
+        "amount": 30,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 700,
-      "macros": { "protein_g": 42.0, "carbs_g": 95.0, "fat_g": 12.0, "fiber_g": 7.0 },
+      "macros": {
+        "protein_g": 42.0,
+        "carbs_g": 95.0,
+        "fat_g": 12.0,
+        "fiber_g": 7.0
+      },
       "micros": {
-        "calcium_mg": 210, "magnesium_mg": 85, "potassium_mg": 380, "sodium_mg": 290, "phosphorus_mg": 310,
-        "iron_mg": 5.2, "zinc_mg": 2.8, "copper_mg": 0.5, "manganese_mg": 1.4, "selenium_ug": 25, "iodine_ug": 18,
-        "vit_c_mg": 0, "vit_b1_mg": 0.4, "vit_b2_mg": 0.35, "vit_b3_mg": 5.0, "vit_b5_mg": 1.1, "vit_b6_mg": 0.4,
-        "vit_b9_ug": 85, "vit_b12_ug": 0.8, "vit_a_ug": 180, "vit_d_ui": 25, "vit_e_mg": 1.1, "vit_k_ug": 4
+        "calcium_mg": 210,
+        "magnesium_mg": 85,
+        "potassium_mg": 380,
+        "sodium_mg": 290,
+        "phosphorus_mg": 310,
+        "iron_mg": 5.2,
+        "zinc_mg": 2.8,
+        "copper_mg": 0.5,
+        "manganese_mg": 1.4,
+        "selenium_ug": 25,
+        "iodine_ug": 18,
+        "vit_c_mg": 0,
+        "vit_b1_mg": 0.4,
+        "vit_b2_mg": 0.35,
+        "vit_b3_mg": 5.0,
+        "vit_b5_mg": 1.1,
+        "vit_b6_mg": 0.4,
+        "vit_b9_ug": 85,
+        "vit_b12_ug": 0.8,
+        "vit_a_ug": 180,
+        "vit_d_ui": 25,
+        "vit_e_mg": 1.1,
+        "vit_k_ug": 4
       }
-    }
+    },
+    "categories": [
+      "COLAZIONE"
+    ]
   },
   {
     "id": "spiced-chicken-basmati-bowl",
     "title": "Bowl di Pollo Speziato, Basmati, Batata e Broccoli",
-    "category": "Pranzo",
     "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1000&q=85",
-    "prep_time_min": 35,
-    "storage_notes": "Si conserva 4 giorni in frigo in contenitore ermetico. Il pollo cotto e il riso possono essere congelati per un massimo di 2-3 mesi. Per rigenerare al microonde, aggiungere un cucchiaio d'acqua sul riso prima di scaldare per 2 minuti.",
     "preparation_steps": [
       "Taglia il petto di pollo a bocconcini e marinalo per almeno 20 minuti con yogurt greco magro, paprika dolce, curcuma, origano, sale e pepe.",
       "Lava e pela la patata dolce, tagliala a cubetti regolari (circa 1,5 cm), disponila su una teglia con carta forno e cuoci a 200°C per 25 minuti.",
@@ -1151,32 +2764,85 @@
       "Componi la bowl disponendo il riso basmati, i cubetti di batata, i broccoli e il pollo speziato, completando con un filo di olio EVO a crudo."
     ],
     "ingredients_single_serving": [
-      { "name": "Petto di pollo", "amount": 160, "unit": "g" },
-      { "name": "Riso basmati (a crudo)", "amount": 60, "unit": "g" },
-      { "name": "Patata dolce (batata)", "amount": 100, "unit": "g" },
-      { "name": "Cimette di broccolo", "amount": 150, "unit": "g" },
-      { "name": "Yogurt greco magro 0%", "amount": 30, "unit": "g" },
-      { "name": "Olio extravergine d'oliva", "amount": 10, "unit": "g" },
-      { "name": "Mix spezie (paprika dolce, curcuma, origano)", "amount": 3, "unit": "g" }
+      {
+        "name": "Petto di pollo",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "Riso basmati (a crudo)",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Patata dolce (batata)",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Cimette di broccolo",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt greco magro 0%",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Olio extravergine d'oliva",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Mix spezie (paprika dolce, curcuma, origano)",
+        "amount": 3,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 558,
-      "macros": { "protein_g": 44.5, "carbs_g": 62.4, "fat_g": 13.8, "fiber_g": 7.2 },
+      "macros": {
+        "protein_g": 44.5,
+        "carbs_g": 62.4,
+        "fat_g": 13.8,
+        "fiber_g": 7.2
+      },
       "micros": {
-        "calcium_mg": 135, "magnesium_mg": 78, "potassium_mg": 980, "sodium_mg": 280, "phosphorus_mg": 480,
-        "iron_mg": 2.9, "zinc_mg": 2.4, "copper_mg": 0.22, "manganese_mg": 0.65, "selenium_ug": 34, "iodine_ug": 18,
-        "vit_c_mg": 115, "vit_b1_mg": 0.24, "vit_b2_mg": 0.32, "vit_b3_mg": 16.8, "vit_b5_mg": 2.1, "vit_b6_mg": 1.25,
-        "vit_b9_ug": 110, "vit_b12_ug": 0.6, "vit_a_ug": 780, "vit_d_ui": 8, "vit_e_mg": 2.8, "vit_k_ug": 145
+        "calcium_mg": 135,
+        "magnesium_mg": 78,
+        "potassium_mg": 980,
+        "sodium_mg": 280,
+        "phosphorus_mg": 480,
+        "iron_mg": 2.9,
+        "zinc_mg": 2.4,
+        "copper_mg": 0.22,
+        "manganese_mg": 0.65,
+        "selenium_ug": 34,
+        "iodine_ug": 18,
+        "vit_c_mg": 115,
+        "vit_b1_mg": 0.24,
+        "vit_b2_mg": 0.32,
+        "vit_b3_mg": 16.8,
+        "vit_b5_mg": 2.1,
+        "vit_b6_mg": 1.25,
+        "vit_b9_ug": 110,
+        "vit_b12_ug": 0.6,
+        "vit_a_ug": 780,
+        "vit_d_ui": 8,
+        "vit_e_mg": 2.8,
+        "vit_k_ug": 145
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   },
   {
     "id": "spelt-roasted-chickpea-feta-salad",
     "title": "Insalata Fredda di Farro con Ceci Arrostiti, Feta e Spinacini",
-    "category": "Pranzo",
     "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1000&q=85",
-    "prep_time_min": 30,
-    "storage_notes": "Si conserva perfettamente in frigorifero per 4-5 giorni in un contenitore a chiusura ermetica. Pioggia o spinacini freschi sul fondo per preservarne la consistenza. Da consumare freddo o a temperatura ambiente; sconsigliata la congelazione per via della feta e degli spinacini crudi.",
     "preparation_steps": [
       "Lava e lessa il farro perlato in abbondante acqua salata per circa 20-25 minuti, scolalo e lascialo raffreddare completamente.",
       "Sciacqua e asciuga accuratamente i ceci precotti con carta assorbente per rimuovere tutta l'umidità superficiale.",
@@ -1186,23 +2852,79 @@
       "Unisci il farro, i ceci tostati, la feta, le olive taggiasche e i pomodori secchi; condisci con l'olio extravergine d'oliva e mescola delicatamente prima di chiudere."
     ],
     "ingredients_single_serving": [
-      { "name": "Farro perlato (a crudo)", "amount": 65, "unit": "g" },
-      { "name": "Ceci cotti (sgocciolati)", "amount": 130, "unit": "g" },
-      { "name": "Feta DOP", "amount": 40, "unit": "g" },
-      { "name": "Spinacini freschi baby", "amount": 50, "unit": "g" },
-      { "name": "Pomodori secchi sott'olio (sgocciolati)", "amount": 20, "unit": "g" },
-      { "name": "Olive taggiasche denocciolate", "amount": 15, "unit": "g" },
-      { "name": "Olio extravergine d'oliva", "amount": 8, "unit": "g" }
+      {
+        "name": "Farro perlato (a crudo)",
+        "amount": 65,
+        "unit": "g"
+      },
+      {
+        "name": "Ceci cotti (sgocciolati)",
+        "amount": 130,
+        "unit": "g"
+      },
+      {
+        "name": "Feta DOP",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Spinacini freschi baby",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Pomodori secchi sott'olio (sgocciolati)",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Olive taggiasche denocciolate",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Olio extravergine d'oliva",
+        "amount": 8,
+        "unit": "g"
+      }
     ],
     "nutrition_single_serving": {
       "calories": 564,
-      "macros": { "protein_g": 24.2, "carbs_g": 61.8, "fat_g": 22.8, "fiber_g": 13.5 },
+      "macros": {
+        "protein_g": 24.2,
+        "carbs_g": 61.8,
+        "fat_g": 22.8,
+        "fiber_g": 13.5
+      },
       "micros": {
-        "calcium_mg": 320, "magnesium_mg": 115, "potassium_mg": 740, "sodium_mg": 860, "phosphorus_mg": 410,
-        "iron_mg": 5.4, "zinc_mg": 3.1, "copper_mg": 0.48, "manganese_mg": 1.9, "selenium_ug": 19, "iodine_ug": 22,
-        "vit_c_mg": 19, "vit_b1_mg": 0.38, "vit_b2_mg": 0.28, "vit_b3_mg": 4.1, "vit_b5_mg": 1.1, "vit_b6_mg": 0.42,
-        "vit_b9_ug": 195, "vit_b12_ug": 0.7, "vit_a_ug": 260, "vit_d_ui": 14, "vit_e_mg": 3.6, "vit_k_ug": 210
+        "calcium_mg": 320,
+        "magnesium_mg": 115,
+        "potassium_mg": 740,
+        "sodium_mg": 860,
+        "phosphorus_mg": 410,
+        "iron_mg": 5.4,
+        "zinc_mg": 3.1,
+        "copper_mg": 0.48,
+        "manganese_mg": 1.9,
+        "selenium_ug": 19,
+        "iodine_ug": 22,
+        "vit_c_mg": 19,
+        "vit_b1_mg": 0.38,
+        "vit_b2_mg": 0.28,
+        "vit_b3_mg": 4.1,
+        "vit_b5_mg": 1.1,
+        "vit_b6_mg": 0.42,
+        "vit_b9_ug": 195,
+        "vit_b12_ug": 0.7,
+        "vit_a_ug": 260,
+        "vit_d_ui": 14,
+        "vit_e_mg": 3.6,
+        "vit_k_ug": 210
       }
-    }
+    },
+    "categories": [
+      "PRANZO",
+      "CENA"
+    ]
   }
 ]
