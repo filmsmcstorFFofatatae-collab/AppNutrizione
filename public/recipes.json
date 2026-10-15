@@ -31,19 +31,20 @@
       "Cuoci il farro in abbondante acqua salata, scolalo e passalo sotto l'acqua fredda per bloccare la cottura.",
       "Taglia la fesa di tacchino arrosto a cubetti spessi.",
       "Sciacqua molto bene i ceci in scatola sotto l'acqua corrente per eliminare il sale in eccesso.",
-      "In un contenitore capiente, mescola il farro, il tacchino, i ceci e pomodorini tagliati a metà (o verdure a piacere).",
+      "In un contenitore capiente, mescola il farro, il tacchino, i ceci, pomodorini tagliati a metà e i ravanelli a fettine per dare croccantezza.",
       "Condisci con olio EVO, sale, pepe e un cucchiaio di succo di limone per dare freschezza."
     ],
     "ingredients_single_serving": [
       {"name": "Farro perlato", "amount": 100, "unit": "g"},
       {"name": "Fesa di tacchino arrosto (al taglio, in un'unica fetta spessa)", "amount": 120, "unit": "g"},
       {"name": "Ceci in scatola (sgocciolati)", "amount": 80, "unit": "g"},
+      {"name": "Ravanelli", "amount": 30, "unit": "g"},
       {"name": "Olio EVO", "amount": 10, "unit": "g"}
     ],
     "nutrition_single_serving": {
-      "calories": 640,
-      "macros": {"protein_g": 45.0, "carbs_g": 82.0, "fat_g": 14.5, "fiber_g": 11.0},
-      "micros": {"calcium_mg": 65, "magnesium_mg": 140, "potassium_mg": 580, "sodium_mg": 650, "phosphorus_mg": 310, "iron_mg": 4.2, "zinc_mg": 3.8, "copper_mg": 0.4, "manganese_mg": 2.1, "selenium_ug": 25, "iodine_ug": 15, "vit_c_mg": 10, "vit_b1_mg": 0.3, "vit_b2_mg": 0.25, "vit_b3_mg": 9.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.6, "vit_b9_ug": 85, "vit_b12_ug": 0.4, "vit_a_ug": 50, "vit_d_ui": 0, "vit_e_mg": 2.2, "vit_k_ug": 10}
+      "calories": 645,
+      "macros": {"protein_g": 45.0, "carbs_g": 83.0, "fat_g": 14.5, "fiber_g": 12.0},
+      "micros": {"calcium_mg": 65, "magnesium_mg": 140, "potassium_mg": 580, "sodium_mg": 650, "phosphorus_mg": 310, "iron_mg": 4.2, "zinc_mg": 3.8, "copper_mg": 0.4, "manganese_mg": 2.1, "selenium_ug": 25, "iodine_ug": 15, "vit_c_mg": 15, "vit_b1_mg": 0.3, "vit_b2_mg": 0.25, "vit_b3_mg": 9.5, "vit_b5_mg": 1.2, "vit_b6_mg": 0.6, "vit_b9_ug": 85, "vit_b12_ug": 0.4, "vit_a_ug": 50, "vit_d_ui": 0, "vit_e_mg": 2.2, "vit_k_ug": 10}
     },
     "categories": ["PRANZO"]
   },
@@ -55,20 +56,21 @@
       "Cuoci il riso Basmati a parte e lascialo raffreddare.",
       "In una padella o pentola, rosola il macinato di manzo magro. Rimuovi l'eventuale grasso in eccesso rilasciato.",
       "Aggiungi le spezie (cumino, paprika dolce, aglio in polvere) e tosta la carne per 1 minuto.",
-      "Aggiungi i fagioli rossi sgocciolati e mezzo bicchiere di brodo di carne (o acqua calda).",
+      "Aggiungi i fagioli rossi, il mais dolce sgocciolato e mezzo bicchiere di brodo di carne (o acqua calda).",
       "Lascia sobbollire per 10-15 minuti finché il liquido non si restringe creando una cremina densa.",
       "Componi il contenitore mettendo il chili da una parte e il riso bianco dall'altra."
     ],
     "ingredients_single_serving": [
       {"name": "Macinato di manzo magro (5% grassi)", "amount": 150, "unit": "g"},
       {"name": "Fagioli Rossi in scatola (sgocciolati)", "amount": 120, "unit": "g"},
+      {"name": "Mais dolce in scatola", "amount": 50, "unit": "g"},
       {"name": "Riso Basmati", "amount": 80, "unit": "g"},
       {"name": "Mix spezie (cumino, paprika, aglio)", "amount": 5, "unit": "g"}
     ],
     "nutrition_single_serving": {
-      "calories": 710,
-      "macros": {"protein_g": 48.0, "carbs_g": 85.0, "fat_g": 18.0, "fiber_g": 10.0},
-      "micros": {"calcium_mg": 85, "magnesium_mg": 130, "potassium_mg": 920, "sodium_mg": 410, "phosphorus_mg": 450, "iron_mg": 6.5, "zinc_mg": 7.2, "copper_mg": 0.5, "manganese_mg": 1.4, "selenium_ug": 35, "iodine_ug": 12, "vit_c_mg": 2, "vit_b1_mg": 0.4, "vit_b2_mg": 0.4, "vit_b3_mg": 8.0, "vit_b5_mg": 1.1, "vit_b6_mg": 0.9, "vit_b9_ug": 120, "vit_b12_ug": 3.5, "vit_a_ug": 15, "vit_d_ui": 5, "vit_e_mg": 0.5, "vit_k_ug": 8}
+      "calories": 750,
+      "macros": {"protein_g": 49.0, "carbs_g": 94.0, "fat_g": 18.5, "fiber_g": 12.0},
+      "micros": {"calcium_mg": 85, "magnesium_mg": 130, "potassium_mg": 920, "sodium_mg": 410, "phosphorus_mg": 450, "iron_mg": 6.5, "zinc_mg": 7.2, "copper_mg": 0.5, "manganese_mg": 1.4, "selenium_ug": 35, "iodine_ug": 12, "vit_c_mg": 5, "vit_b1_mg": 0.4, "vit_b2_mg": 0.4, "vit_b3_mg": 8.0, "vit_b5_mg": 1.1, "vit_b6_mg": 0.9, "vit_b9_ug": 120, "vit_b12_ug": 3.5, "vit_a_ug": 15, "vit_d_ui": 5, "vit_e_mg": 0.5, "vit_k_ug": 8}
     },
     "categories": ["PRANZO", "CENA"]
   },
@@ -183,20 +185,21 @@
     "preparation_steps": [
       "In una padella fai un leggero soffritto con un cucchiaino d'olio, carota e sedano tritati finemente.",
       "Aggiungi il macinato di tacchino e sgrana bene con un cucchiaio di legno rosolandolo a fiamma viva.",
-      "Sfuma con mezzo bicchiere di brodo vegetale o acqua calda, abbassa la fiamma, metti il coperchio e cuoci per 15 minuti.",
+      "Sfuma con mezzo bicchiere di brodo vegetale o acqua calda, aggiungi i piselli surgelati, abbassa la fiamma, metti il coperchio e cuoci per 15 minuti.",
       "Cuoci la pasta al dente, scolala e saltala nella padella con il ragù bianco aggiungendo il parmigiano per mantecare."
     ],
     "ingredients_single_serving": [
       {"name": "Pasta (penne o rigatoni)", "amount": 120, "unit": "g"},
       {"name": "Macinato di tacchino magro", "amount": 150, "unit": "g"},
       {"name": "Misto soffritto (carota, sedano)", "amount": 30, "unit": "g"},
+      {"name": "Piselli surgelati", "amount": 50, "unit": "g"},
       {"name": "Olio EVO", "amount": 5, "unit": "g"},
       {"name": "Parmigiano Reggiano", "amount": 10, "unit": "g"}
     ],
     "nutrition_single_serving": {
-      "calories": 710,
-      "macros": {"protein_g": 54.0, "carbs_g": 88.0, "fat_g": 14.0, "fiber_g": 4.5},
-      "micros": {"calcium_mg": 180, "magnesium_mg": 90, "potassium_mg": 520, "sodium_mg": 380, "phosphorus_mg": 410, "iron_mg": 3.1, "zinc_mg": 4.2, "copper_mg": 0.3, "manganese_mg": 1.1, "selenium_ug": 32, "iodine_ug": 15, "vit_c_mg": 2, "vit_b1_mg": 0.25, "vit_b2_mg": 0.35, "vit_b3_mg": 14.0, "vit_b5_mg": 1.5, "vit_b6_mg": 0.9, "vit_b9_ug": 30, "vit_b12_ug": 1.1, "vit_a_ug": 120, "vit_d_ui": 5, "vit_e_mg": 1.2, "vit_k_ug": 10}
+      "calories": 750,
+      "macros": {"protein_g": 57.0, "carbs_g": 95.0, "fat_g": 14.5, "fiber_g": 7.5},
+      "micros": {"calcium_mg": 180, "magnesium_mg": 90, "potassium_mg": 520, "sodium_mg": 380, "phosphorus_mg": 410, "iron_mg": 3.1, "zinc_mg": 4.2, "copper_mg": 0.3, "manganese_mg": 1.1, "selenium_ug": 32, "iodine_ug": 15, "vit_c_mg": 12, "vit_b1_mg": 0.25, "vit_b2_mg": 0.35, "vit_b3_mg": 14.0, "vit_b5_mg": 1.5, "vit_b6_mg": 0.9, "vit_b9_ug": 30, "vit_b12_ug": 1.1, "vit_a_ug": 120, "vit_d_ui": 5, "vit_e_mg": 1.2, "vit_k_ug": 10}
     },
     "categories": ["PRANZO", "CENA"]
   },
@@ -310,7 +313,7 @@
     "preparation_steps": [
       "Cuoci il riso Basmati, scolalo e tienilo da parte.",
       "Sciacqua molto bene le lenticchie rosse decorticate sotto l'acqua corrente.",
-      "In una pentola, fai soffriggere il trito di carota e sedano con un goccio d'acqua o pochissimo olio. Aggiungi il concentrato di pomodoro e l'alloro per dare profondità di sapore.",
+      "In una pentola, fai soffriggere il trito di carota e sedano insieme alla zucca o carote a cubetti con un goccio d'acqua o pochissimo olio. Aggiungi il concentrato di pomodoro e l'alloro per dare profondità di sapore.",
       "Aggiungi le lenticchie e copri con brodo o acqua calda. Metti il coperchio.",
       "Cuoci a fuoco dolce per 20-25 minuti, mescolando di tanto in tanto, finché le lenticchie non si sfaldano creando una crema densa (se si asciuga troppo, aggiungi acqua).",
       "A fuoco spento, sala, aggiungi l'olio EVO a crudo e condisci il riso con questo ragù."
@@ -319,13 +322,14 @@
       {"name": "Lenticchie rosse decorticate", "amount": 100, "unit": "g"},
       {"name": "Riso Basmati", "amount": 100, "unit": "g"},
       {"name": "Misto soffritto (carota, sedano)", "amount": 30, "unit": "g"},
+      {"name": "Zucca o carote a cubetti", "amount": 100, "unit": "g"},
       {"name": "Concentrato di pomodoro", "amount": 15, "unit": "g"},
       {"name": "Foglia di alloro", "amount": 1, "unit": "pz"},
       {"name": "Olio EVO", "amount": 10, "unit": "g"}
     ],
     "nutrition_single_serving": {
-      "calories": 855,
-      "macros": {"protein_g": 36.0, "carbs_g": 148.0, "fat_g": 13.0, "fiber_g": 15.0},
+      "calories": 885,
+      "macros": {"protein_g": 37.0, "carbs_g": 155.0, "fat_g": 13.0, "fiber_g": 18.0},
       "micros": {"calcium_mg": 95, "magnesium_mg": 165, "potassium_mg": 1250, "sodium_mg": 350, "phosphorus_mg": 520, "iron_mg": 8.5, "zinc_mg": 4.8, "copper_mg": 1.1, "manganese_mg": 2.2, "selenium_ug": 18, "iodine_ug": 10, "vit_c_mg": 25, "vit_b1_mg": 0.7, "vit_b2_mg": 0.25, "vit_b3_mg": 7.5, "vit_b5_mg": 2.1, "vit_b6_mg": 0.6, "vit_b9_ug": 480, "vit_b12_ug": 0.0, "vit_a_ug": 750, "vit_d_ui": 0, "vit_e_mg": 2.5, "vit_k_ug": 15}
     },
     "categories": ["PRANZO"]
@@ -365,7 +369,7 @@
       "Lava la zucchina e tagliala a pezzetti (a crudo o sbollentata 2 minuti per un colore più brillante).",
       "Frulla le zucchine, le mandorle, il parmigiano, l'olio EVO, un pizzico di sale e mezzo mestolo d'acqua della pasta per ottenere il pesto.",
       "Taglia il pollo a dadini e rosolali in padella a fuoco medio-alto finché ben dorati.",
-      "Scola la pasta e saltala in padella col pollo e il pesto, aggiungendo pochissima acqua di cottura se serve."
+      "Scola la pasta e saltala in padella col pollo e il pesto, aggiungendo pochissima acqua di cottura se serve. Completa con i pomodorini freschi tagliati a metà."
     ],
     "ingredients_single_serving": [
       {"name": "Pasta integrale", "amount": 120, "unit": "g"},
@@ -373,11 +377,12 @@
       {"name": "Mandorle sgusciate", "amount": 20, "unit": "g"},
       {"name": "Parmigiano Reggiano", "amount": 10, "unit": "g"},
       {"name": "Olio EVO", "amount": 5, "unit": "g"},
-      {"name": "Petto di pollo", "amount": 150, "unit": "g"}
+      {"name": "Petto di pollo", "amount": 150, "unit": "g"},
+      {"name": "Pomodorini", "amount": 80, "unit": "g"}
     ],
     "nutrition_single_serving": {
-      "calories": 820,
-      "macros": {"protein_g": 60.0, "carbs_g": 85.0, "fat_g": 23.0, "fiber_g": 13.0},
+      "calories": 835,
+      "macros": {"protein_g": 61.0, "carbs_g": 89.0, "fat_g": 23.5, "fiber_g": 14.0},
       "micros": {"calcium_mg": 285, "magnesium_mg": 210, "potassium_mg": 950, "sodium_mg": 250, "phosphorus_mg": 680, "iron_mg": 5.8, "zinc_mg": 5.2, "copper_mg": 0.8, "manganese_mg": 3.8, "selenium_ug": 85, "iodine_ug": 25, "vit_c_mg": 25, "vit_b1_mg": 0.6, "vit_b2_mg": 0.45, "vit_b3_mg": 26.0, "vit_b5_mg": 2.5, "vit_b6_mg": 1.4, "vit_b9_ug": 95, "vit_b12_ug": 0.5, "vit_a_ug": 85, "vit_d_ui": 0, "vit_e_mg": 6.8, "vit_k_ug": 15}
     },
     "categories": ["PRANZO", "CENA"]
