@@ -469,5 +469,67 @@
       "micros": {"calcium_mg": 135, "magnesium_mg": 78, "potassium_mg": 980, "sodium_mg": 280, "phosphorus_mg": 480, "iron_mg": 2.9, "zinc_mg": 2.4, "copper_mg": 0.22, "manganese_mg": 0.65, "selenium_ug": 34, "iodine_ug": 18, "vit_c_mg": 115, "vit_b1_mg": 0.24, "vit_b2_mg": 0.32, "vit_b3_mg": 16.8, "vit_b5_mg": 2.1, "vit_b6_mg": 1.25, "vit_b9_ug": 110, "vit_b12_ug": 0.6, "vit_a_ug": 780, "vit_d_ui": 8, "vit_e_mg": 2.8, "vit_k_ug": 145}
     },
     "categories": ["PRANZO", "CENA"]
+  },
+  {
+    "id": "pancake-proteici-caffe",
+    "title": "🥞 Pancake Proteici al Caffè",
+    "image_url": "https://images.unsplash.com/photo-1528207776546-384cb1119671?w=800&q=80",
+    "preparation_steps": [
+      "In una ciotola, mescola gli ingredienti secchi: le proteine in polvere, la farina 00, il caffè istantaneo, il lievito e un pizzico di sale.",
+      "Aggiungi l'uovo intero e il latte, mescolando energicamente con una frusta per evitare la formazione di grumi, fino a ottenere una pastella liscia.",
+      "Scalda una padella antiaderente (se necessario, ungila con un velo d'olio) a fuoco medio-basso.",
+      "Versa un mestolo di impasto per volta. Quando compaiono delle bollicine in superficie, gira il pancake e cuoci per un altro minuto.",
+      "Servi caldi, guarniti a piacere."
+    ],
+    "ingredients_single_serving": [
+      {"name": "Proteine in polvere (Pea Protein)", "amount": 30, "unit": "g"},
+      {"name": "Farina 00", "amount": 35, "unit": "g"},
+      {"name": "Uovo intero", "amount": 1, "unit": "pz"},
+      {"name": "Latte", "amount": 75, "unit": "ml"},
+      {"name": "Caffè istantaneo", "amount": 1, "unit": "cucchiaino"},
+      {"name": "Lievito per dolci", "amount": 0.5, "unit": "cucchiaino"},
+      {"name": "Sale", "amount": 1, "unit": "pizzico"}
+    ],
+    "nutrition_single_serving": {
+      "calories": 345,
+      "macros": {"protein_g": 36.5, "carbs_g": 30.5, "fat_g": 8.0, "fiber_g": 2.5},
+      "micros": {
+        "calcium_mg": 150, "magnesium_mg": 45, "potassium_mg": 280, "sodium_mg": 380, 
+        "phosphorus_mg": 220, "iron_mg": 3.2, "zinc_mg": 1.8, "copper_mg": 0.2, 
+        "manganese_mg": 0.6, "selenium_ug": 18, "iodine_ug": 25, "vit_c_mg": 0, 
+        "vit_b1_mg": 0.1, "vit_b2_mg": 0.3, "vit_b3_mg": 2.0, "vit_b5_mg": 0.8, 
+        "vit_b6_mg": 0.2, "vit_b9_ug": 35, "vit_b12_ug": 0.6, "vit_a_ug": 85, 
+        "vit_d_ui": 20, "vit_e_mg": 1.2, "vit_k_ug": 2
+      }
+    },
+    "categories": ["COLAZIONE", "MERENDA"]
+  },
+  {
+    "id": "shake-proteico-veloce",
+    "title": "🥤 Shake Proteico Veloce",
+    "image_url": "https://images.unsplash.com/photo-1618897996318-5a901fa6ca71?w=800&q=80",
+    "preparation_steps": [
+      "Versa prima il latte freddo nello shaker (questo evita che le proteine si attacchino al fondo).",
+      "Aggiungi il misurino di proteine in polvere.",
+      "Chiudi bene il tappo e shakera energicamente per circa 15-20 secondi fino a ottenere un composto liscio e senza grumi.",
+      "Bevi subito."
+    ],
+    "ingredients_single_serving": [
+      {"name": "Latte (parzialmente scremato o vegetale)", "amount": 250, "unit": "ml"},
+      {"name": "Proteine in polvere", "amount": 30, "unit": "g"}
+    ],
+    "nutrition_single_serving": {
+      "calories": 230,
+      "macros": {"protein_g": 32.0, "carbs_g": 14.0, "fat_g": 5.0, "fiber_g": 0.0},
+      "micros": {
+        "calcium_mg": 350, "magnesium_mg": 40, "potassium_mg": 450, "sodium_mg": 150, 
+        "phosphorus_mg": 300, "iron_mg": 0.5, "zinc_mg": 1.2, "copper_mg": 0.1, 
+        "manganese_mg": 0.1, "selenium_ug": 10, "iodine_ug": 40, "vit_c_mg": 2, 
+        "vit_b1_mg": 0.1, "vit_b2_mg": 0.5, "vit_b3_mg": 0.3, "vit_b5_mg": 0.9, 
+        "vit_b6_mg": 0.1, "vit_b9_ug": 12, "vit_b12_ug": 1.2, "vit_a_ug": 60, 
+        "vit_d_ui": 40, "vit_e_mg": 0.1, "vit_k_ug": 0
+      }
+    },
+    "categories": ["MERENDA"]
   }
 ]
